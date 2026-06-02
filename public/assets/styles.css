@@ -72,7 +72,7 @@ html {
 }
 
 body {
-  min-block-size: 100%;
+  min-block-size: 100dvh;
   margin: 0;
   color: var(--text);
   font-family: var(--font-sans);
@@ -147,8 +147,11 @@ pre {
 
 .site-shell {
   width: min(100% - 2rem, 72rem);
+  min-block-size: 100dvh;
+  display: flex;
+  flex-direction: column;
   margin-inline: auto;
-  padding-block: var(--space-7);
+  padding-block-start: var(--space-7);
 }
 
 .flow > * + * {
@@ -183,6 +186,92 @@ pre {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-3);
+}
+
+.site-shell > main {
+  padding-block-end: var(--space-7);
+}
+
+.site-footer {
+  width: 100vw;
+  margin-inline: calc(50% - 50vw);
+  margin-block-start: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  border-block: 1px solid rgb(242 244 248 / 0.12);
+  background: rgb(22 22 22 / 0.72);
+}
+
+.footer-link {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--space-3);
+  align-items: center;
+  padding: var(--space-4) var(--space-5);
+  border-inline-end: 1px solid rgb(242 244 248 / 0.1);
+  color: var(--text);
+  text-decoration: none;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+
+.footer-link:hover {
+  background: var(--surface-hover);
+}
+
+.footer-icon {
+  inline-size: 1.15rem;
+  block-size: 1.15rem;
+  background: var(--accent);
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+}
+
+.footer-icon-cloud {
+  mask-image: url("/assets/icons/cloud.svg");
+  -webkit-mask-image: url("/assets/icons/cloud.svg");
+}
+
+.footer-icon-github {
+  mask-image: url("/assets/icons/github.svg");
+  -webkit-mask-image: url("/assets/icons/github.svg");
+}
+
+.footer-icon-globe {
+  mask-image: url("/assets/icons/globe.svg");
+  -webkit-mask-image: url("/assets/icons/globe.svg");
+}
+
+.footer-icon-bluesky {
+  mask-image: url("/assets/icons/bluesky.svg");
+  -webkit-mask-image: url("/assets/icons/bluesky.svg");
+}
+
+.footer-icon-envelope {
+  mask-image: url("/assets/icons/envelope-at.svg");
+  -webkit-mask-image: url("/assets/icons/envelope-at.svg");
+}
+
+.footer-label,
+.footer-name {
+  display: block;
+}
+
+.footer-label {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.footer-name {
+  margin-block-start: var(--space-1);
+  overflow-wrap: anywhere;
+  font-size: 0.95rem;
 }
 
 .button {
