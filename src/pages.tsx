@@ -7,13 +7,13 @@ type LayoutProps = { title: string; description: string; children: Child; };
 
 export function docsPage(): string {
   return renderDocument(
-    <Layout title="Utility API" description="Small utility endpoints for tools and scripts.">
+    <Layout title="Owais's Utility API" description="Small utility endpoints for tools and scripts.">
       <header class="hero flow">
         <p class="eyebrow">{service.name}</p>
-        <h1>Utility endpoints for boring developer chores.</h1>
+        <h1>Owais's Utility API</h1>
         <p class="lede">
-          A Hono API on Cloudflare Workers. The first shipped endpoint will serve bundled gitignore templates from
-          Toptal and GitHub.
+          Small HTTP utilities for scripts, editors, and local development. The first supported endpoint is for
+          gitignores on the fly.
         </p>
         <div class="hero-actions" aria-label="Primary routes">
           <a class="button" href="/healthz">Check health</a>
@@ -25,20 +25,17 @@ export function docsPage(): string {
         <section class="panel flow" aria-labelledby="routes-title">
           <h2 id="routes-title">Routes</h2>
           <div class="route-list">
-            <RouteCard method="GET" path="/">Human-readable docs for the API.</RouteCard>
+            <RouteCard method="GET" path="/">This docs page.</RouteCard>
             <RouteCard method="GET" path="/healthz">
               Health check page. Add <code>?fmt=json</code> for JSON.
             </RouteCard>
-            <RouteCard method="GET" path="/ignores">Placeholder for bundled gitignore templates.</RouteCard>
+            <RouteCard method="GET" path="/ignores">Placeholder for gitignore templates.</RouteCard>
           </div>
         </section>
 
         <section class="panel flow" aria-labelledby="json-title">
-          <h2 id="json-title">JSON shape</h2>
-          <p>
-            Every JSON response is wrapped with metadata so scripts can log the API version, docs URL, timestamp, and
-            request ID.
-          </p>
+          <h2 id="json-title">Response Structure</h2>
+          <p>JSON endpoints return a metadata wrapper with the API version, docs URL, timestamp, and request ID.</p>
           <pre><code>{jsonExample()}</code></pre>
         </section>
       </main>
@@ -68,7 +65,9 @@ function Layout({ title, description, children }: LayoutProps) {
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content={description} />
+        <meta name="theme-color" content="#161616" />
         <title>{title}</title>
+        <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
         <link rel="stylesheet" href="/assets/styles.css" />
       </head>
       <body>
@@ -80,15 +79,15 @@ function Layout({ title, description, children }: LayoutProps) {
 
 function RouteCard({ method, path, children }: { method: string; path: string; children: Child; }) {
   return (
-    <article class="route-card">
-      <div>
-        <p class="method">{method}</p>
-        <h3>
+    <a class="route-card" href={path}>
+      <span>
+        <span class="method">{method}</span>
+        <span class="route-path">
           <code>{path}</code>
-        </h3>
-      </div>
-      <p>{children}</p>
-    </article>
+        </span>
+      </span>
+      <span class="route-description">{children}</span>
+    </a>
   );
 }
 
