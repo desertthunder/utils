@@ -1,0 +1,11 @@
+
+### Vapor ###
+Config/secrets
+
+### Vapor Patch ###
+Packages
+.build/
+xcuserdata
+DerivedData/
+*.xcodeproj
+

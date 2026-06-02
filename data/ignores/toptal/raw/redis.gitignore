@@ -1,0 +1,5 @@
+
+### Redis ###
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb

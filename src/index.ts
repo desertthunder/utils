@@ -1,4 +1,5 @@
 import { Hono } from "hono";
+import { ignoreIndex, ignoreMerge, ignoreTemplate } from "./ignores.ts";
 import { docsPage, healthPage } from "./pages.tsx";
 import { contentJson, json, service } from "./response.ts";
 
@@ -6,31 +7,19 @@ const app = new Hono();
 
 app.get("/", (ctx) => ctx.html(docsPage()));
 
-app.get("/healthz", (c) => {
-  if (c.req.query("fmt") === "json") {
-    return json(c, { ok: true, status: "healthy", service: service.name });
+app.get("/healthz", (ctx) => {
+  if (ctx.req.query("fmt") === "json") {
+    return json(ctx, { ok: true, status: "healthy", service: service.name });
   }
 
-  return c.html(healthPage());
+  return ctx.html(healthPage());
 });
 
-app.get("/ignores", (c) => {
-  const content = {
-    type: "gitignore-index",
-    format: "text/plain",
-    status: "placeholder",
-    body: "Gitignore templates will be bundled from GitHub and Toptal.\n",
-    sources: ["https://github.com/github/gitignore", "https://www.toptal.com/developers/gitignore"],
-  };
+app.get("/ignores", ignoreIndex);
+app.get("/ignores/merge", ignoreMerge);
+app.get("/ignores/:template", ignoreTemplate);
 
-  if (c.req.query("fmt") === "json") {
-    return contentJson(c, content);
-  }
-
-  return c.text(content.body);
-});
-
-app.get("/licenses", (c) => {
+app.get("/licenses", (ctx) => {
   const content = {
     type: "license-index",
     format: "text/plain",
@@ -39,11 +28,11 @@ app.get("/licenses", (c) => {
     sources: ["https://github.com/github/choosealicense.com"],
   };
 
-  if (c.req.query("fmt") === "json") {
-    return contentJson(c, content);
+  if (ctx.req.query("fmt") === "json") {
+    return contentJson(ctx, content);
   }
 
-  return c.text(content.body);
+  return ctx.text(content.body);
 });
 
 app.notFound((ctx) => json(ctx, { error: "not_found", message: "No route matched this request." }, 404));

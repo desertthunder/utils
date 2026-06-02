@@ -5,6 +5,7 @@
     "deploy": "deno run -A npm:wrangler@4.97.0 deploy",
     "fmt": "deno run -A npm:dprint@0.54.0 fmt",
     "fmt:check": "deno run -A npm:dprint@0.54.0 check",
+    "sync:ignores": "deno run -A scripts/sync_ignores.ts",
     "types": "deno run -A npm:wrangler@4.97.0 types"
   },
   "imports": { "hono": "npm:hono@4.12.23" },
@@ -16,5 +17,6 @@
     "strict": true,
     "types": ["npm:@cloudflare/workers-types@4.20260602.1"]
   },
-  "lint": { "rules": { "tags": ["recommended"] } }
+  "lint": { "rules": { "tags": ["recommended"] } },
+  "allowScripts": ["npm:dprint@0.54.0", "npm:esbuild@0.27.3", "npm:sharp@0.34.5", "npm:workerd@1.20260601.1"]
 }

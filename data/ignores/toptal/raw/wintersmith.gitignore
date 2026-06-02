@@ -1,0 +1,9 @@
+
+### Wintersmith ###
+contents/
+node_modules/
+plugins/
+templates/
+config.json
+package.json
+

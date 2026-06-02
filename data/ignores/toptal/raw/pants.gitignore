@@ -1,0 +1,6 @@
+
+### Pants ###
+# Pants workspace files
+/.pants.*
+/dist/
+/.pids

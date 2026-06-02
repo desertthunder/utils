@@ -1,0 +1,6 @@
+
+### Flatpak ###
+.flatpak-builder
+build
+build-dir
+repo

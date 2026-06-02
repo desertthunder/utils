@@ -2,11 +2,11 @@
 
 ## Gitignore template bundling
 
-Bundle upstream gitignore templates at build time. Do not fetch GitHub or
-Toptal from the Worker during normal requests. Runtime fetching adds latency,
+Gitignore templates are bundled at build time. Do not fetch GitHub or Toptal
+from the Worker during normal requests. Runtime fetching adds latency,
 rate-limit risk, and non-reproducible responses.
 
-Proposed generated structure:
+Generated structure:
 
 ```text
 data/
@@ -20,26 +20,25 @@ data/
     catalog.json
 ```
 
-Add a sync task:
+Refresh upstream data with:
 
 ```sh
 deno task sync:ignores
 ```
 
-The sync task should:
+The sync task:
 
-1. Fetch upstream template data from GitHub and Toptal.
-2. Store raw templates in `data/ignores/{source}/raw`.
-3. Generate a compact catalog with:
+1. Fetches upstream template data from GitHub and Toptal.
+2. Stores raw templates in `data/ignores/{source}/raw`.
+3. Generates a compact catalog with:
    - source
    - name
    - aliases
-   - description, when available
    - path
    - content hash
-4. Generate importable data for the Worker.
+4. Generates importable data for the Worker.
 
-The Worker should import generated files so deployments are deterministic.
+The Worker imports generated files so deployments are deterministic.
 
 ## Response structure
 
@@ -50,10 +49,10 @@ requiring JSON parsing.
 Use `fmt=json` for structured responses with metadata:
 
 ```text
-GET /ignores/node
-GET /ignores/node?fmt=json
-GET /ignores/merge?templates=node,deno,macos
-GET /ignores/merge?templates=node,deno,macos&fmt=json
+GET /ignores/github:node
+GET /ignores/github:node?fmt=json
+GET /ignores/merge?templates=github:node,toptal:deno,github:global-macos
+GET /ignores/merge?templates=github:node,toptal:deno,github:global-macos&fmt=json
 ```
 
 Plaintext response:
@@ -186,12 +185,12 @@ author or year.
 
 ## Ignore endpoints
 
-Start with:
+Implemented:
 
 ```text
 GET /ignores
 GET /ignores/:template
-GET /ignores/merge?templates=node,deno,macos
+GET /ignores/merge?templates=github:node,toptal:deno,github:global-macos
 ```
 
 Consider a POST endpoint once merge options grow:
@@ -204,7 +203,7 @@ Example body:
 
 ```json
 {
-  "templates": ["node", "deno", "macos"],
+  "templates": ["github:node", "toptal:deno", "github:global-macos"],
   "source": "all",
   "comments": "prune",
   "dupes": "remove"
@@ -264,6 +263,22 @@ npm-debug.log*
 ```
 
 If `comments=prune`, skip headers too.
+
+## Build-time search
+
+Add MiniSearch later for human-friendly catalogue search. Keep exact template
+resolution separate from fuzzy search so script endpoints stay deterministic.
+
+Possible endpoints:
+
+```text
+GET /ignores/search?q=node
+GET /licenses/search?q=apache
+```
+
+Generate the searchable documents during sync, then build a MiniSearch index in
+the Worker from vendored data. Search fields should start with name, aliases,
+source, and description when available.
 
 ## Name collisions
 

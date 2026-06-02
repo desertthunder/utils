@@ -1,0 +1,6 @@
+
+### Remix+Vercel ###
+.vercel
+.output
+/api/index.js
+/api/index.js.map

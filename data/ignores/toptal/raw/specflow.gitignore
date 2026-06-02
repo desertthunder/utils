@@ -1,0 +1,5 @@
+
+### SpecFlow ###
+# Feature Files
+*.feature.cs
+*.feature.xlsx.*

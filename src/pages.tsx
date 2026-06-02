@@ -12,12 +12,12 @@ export function docsPage(): string {
         <p class="eyebrow">{service.name}</p>
         <h1>Owais's Utility API</h1>
         <p class="lede">
-          Small HTTP utilities for scripts, editors, and local development. The first endpoints will serve gitignore and
-          license templates.
+          Small HTTP utilities for scripts, editors, and local development. Gitignore templates are bundled at build
+          time from GitHub and Toptal.
         </p>
         <div class="hero-actions" aria-label="Primary routes">
           <a class="button" href="/healthz">Check health</a>
-          <a class="button button-secondary" href="/ignores">View gitignore placeholder</a>
+          <a class="button button-secondary" href="/ignores">View gitignore templates</a>
         </div>
       </header>
 
@@ -29,7 +29,11 @@ export function docsPage(): string {
             <RouteCard method="GET" path="/healthz">
               Health check page. Add <code>?fmt=json</code> for JSON.
             </RouteCard>
-            <RouteCard method="GET" path="/ignores">Placeholder for gitignore templates.</RouteCard>
+            <RouteCard method="GET" path="/ignores">Bundled gitignore template index.</RouteCard>
+            <RouteCard method="GET" path="/ignores/github:node">Gitignore template as plaintext.</RouteCard>
+            <RouteCard method="GET" path="/ignores/merge?templates=github:node,toptal:deno">
+              Merge gitignore templates.
+            </RouteCard>
             <RouteCard method="GET" path="/licenses">Placeholder for license templates.</RouteCard>
           </div>
         </section>

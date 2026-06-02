@@ -1,0 +1,8 @@
+
+### Xill ###
+.project
+.xlib
+testit-reports/
+.generated-tests/
+generated-tests/
+xill.properties

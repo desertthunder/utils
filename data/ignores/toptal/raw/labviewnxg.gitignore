@@ -1,0 +1,9 @@
+
+### LabVIEWNXG ###
+# caches
+.cache/
+*.lvcompile
+*.lvindexcache
+
+# Default build output directory for packages, executables, etc.
+Builds/

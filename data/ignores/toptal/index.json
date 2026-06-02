@@ -1,0 +1,5141 @@
+[
+  {
+    "id": "toptal:1c",
+    "source": "toptal",
+    "key": "1c",
+    "name": "1C",
+    "aliases": ["1c"],
+    "path": "data/ignores/toptal/raw/1c.gitignore",
+    "hash": "05fb5a137cb368291bcb200223114f40fb74d1b1e2771dea4b6ccaa036d58b1b"
+  },
+  {
+    "id": "toptal:1c-bitrix",
+    "source": "toptal",
+    "key": "1c-bitrix",
+    "name": "1C-Bitrix",
+    "aliases": ["1c-bitrix"],
+    "path": "data/ignores/toptal/raw/1c-bitrix.gitignore",
+    "hash": "7a2174e8c846752e7400a45a0fe34625396bb789fbd93389f4c67d6e7bd19d5e"
+  },
+  {
+    "id": "toptal:a-frame",
+    "source": "toptal",
+    "key": "a-frame",
+    "name": "A-Frame",
+    "aliases": ["a-frame"],
+    "path": "data/ignores/toptal/raw/a-frame.gitignore",
+    "hash": "fe03ae0cbd7bcb564665ba9266bb5b95bfdc98bf8e05ba5d4f7f8db08c949d95"
+  },
+  {
+    "id": "toptal:actionscript",
+    "source": "toptal",
+    "key": "actionscript",
+    "name": "Actionscript",
+    "aliases": ["actionscript"],
+    "path": "data/ignores/toptal/raw/actionscript.gitignore",
+    "hash": "9d55ace8c008a43587080ad2f6b056e89110330ba2ceb45d275e4b195ebe1f04"
+  },
+  {
+    "id": "toptal:ada",
+    "source": "toptal",
+    "key": "ada",
+    "name": "Ada",
+    "aliases": ["ada"],
+    "path": "data/ignores/toptal/raw/ada.gitignore",
+    "hash": "367684959bf8fb8dfb9b4e8a1565e0e90f8a3ea2000a400328eb44c1a300502b"
+  },
+  {
+    "id": "toptal:adobe",
+    "source": "toptal",
+    "key": "adobe",
+    "name": "Adobe",
+    "aliases": ["adobe"],
+    "path": "data/ignores/toptal/raw/adobe.gitignore",
+    "hash": "4315cdb9542a0e54b54a6fc7a36926c7fa30646a2148acf7c36da68289ce0853"
+  },
+  {
+    "id": "toptal:advancedinstaller",
+    "source": "toptal",
+    "key": "advancedinstaller",
+    "name": "AdvancedInstaller",
+    "aliases": ["advancedinstaller"],
+    "path": "data/ignores/toptal/raw/advancedinstaller.gitignore",
+    "hash": "700a49b99fc5c6b19c1921063143f3b7dd91aa4f09b9ac74e76bd2995d8ce20c"
+  },
+  {
+    "id": "toptal:adventuregamestudio",
+    "source": "toptal",
+    "key": "adventuregamestudio",
+    "name": "AdventureGameStudio",
+    "aliases": ["adventuregamestudio"],
+    "path": "data/ignores/toptal/raw/adventuregamestudio.gitignore",
+    "hash": "a19680c411913d5451194f6aef586676f83d1654e15f2c89be5981ef53c275d1"
+  },
+  {
+    "id": "toptal:agda",
+    "source": "toptal",
+    "key": "agda",
+    "name": "Agda",
+    "aliases": ["agda"],
+    "path": "data/ignores/toptal/raw/agda.gitignore",
+    "hash": "e310f02d591bfdfd2927806792d3fe92d6512d34006a69266432f9427eef876d"
+  },
+  {
+    "id": "toptal:al",
+    "source": "toptal",
+    "key": "al",
+    "name": "AL",
+    "aliases": ["al"],
+    "path": "data/ignores/toptal/raw/al.gitignore",
+    "hash": "89e9b3b05a7dc984533a140a09e95fa6ba897cb97d7e961a7577c34e8748c988"
+  },
+  {
+    "id": "toptal:alteraquartusii",
+    "source": "toptal",
+    "key": "alteraquartusii",
+    "name": "AlteraQuartusII",
+    "aliases": ["alteraquartusii"],
+    "path": "data/ignores/toptal/raw/alteraquartusii.gitignore",
+    "hash": "664289d0752c3838b0b1889ed71bfe6e2307466f5a9ee5c6f75bad78796cbde5"
+  },
+  {
+    "id": "toptal:altium",
+    "source": "toptal",
+    "key": "altium",
+    "name": "Altium",
+    "aliases": ["altium"],
+    "path": "data/ignores/toptal/raw/altium.gitignore",
+    "hash": "a257433b99dd80fb8112131bf30251dd52aa836bc89cb45681195c0016543c05"
+  },
+  {
+    "id": "toptal:amplify",
+    "source": "toptal",
+    "key": "amplify",
+    "name": "Amplify",
+    "aliases": ["amplify"],
+    "path": "data/ignores/toptal/raw/amplify.gitignore",
+    "hash": "18ed49161ca7fb5011e60a1206e84443b851f5be55b375a8a8f9e87800cfb600"
+  },
+  {
+    "id": "toptal:android",
+    "source": "toptal",
+    "key": "android",
+    "name": "Android",
+    "aliases": ["android"],
+    "path": "data/ignores/toptal/raw/android.gitignore",
+    "hash": "67d1ee552d7a90faf926007574f775c1054d2d94c1f1f75eae9d288f012d775f"
+  },
+  {
+    "id": "toptal:androidstudio",
+    "source": "toptal",
+    "key": "androidstudio",
+    "name": "AndroidStudio",
+    "aliases": ["androidstudio"],
+    "path": "data/ignores/toptal/raw/androidstudio.gitignore",
+    "hash": "9edc773af5864dc5208f33a33a506084d8577d9d3c99b01a88a1f6b997817da8"
+  },
+  {
+    "id": "toptal:angular",
+    "source": "toptal",
+    "key": "angular",
+    "name": "Angular",
+    "aliases": ["angular"],
+    "path": "data/ignores/toptal/raw/angular.gitignore",
+    "hash": "40fd1460dff363a393f017ce824d8192b4f017410305cebd8893b25b9b5f3b37"
+  },
+  {
+    "id": "toptal:anjuta",
+    "source": "toptal",
+    "key": "anjuta",
+    "name": "Anjuta",
+    "aliases": ["anjuta"],
+    "path": "data/ignores/toptal/raw/anjuta.gitignore",
+    "hash": "e1d1e6e8672aaa187f25d50d866783270f81da727706a5ec39aa4950f67fea6b"
+  },
+  {
+    "id": "toptal:ansible",
+    "source": "toptal",
+    "key": "ansible",
+    "name": "Ansible",
+    "aliases": ["ansible"],
+    "path": "data/ignores/toptal/raw/ansible.gitignore",
+    "hash": "70859fc91555cef0e65cccda5696196887f86b5e63914113809b604d72003a4b"
+  },
+  {
+    "id": "toptal:ansibletower",
+    "source": "toptal",
+    "key": "ansibletower",
+    "name": "AnsibleTower",
+    "aliases": ["ansibletower"],
+    "path": "data/ignores/toptal/raw/ansibletower.gitignore",
+    "hash": "aa23bda6c199fedb33dcc45fca671e18ddd2115f2758967f231904fc8dc1a919"
+  },
+  {
+    "id": "toptal:apachecordova",
+    "source": "toptal",
+    "key": "apachecordova",
+    "name": "ApacheCordova",
+    "aliases": ["apachecordova"],
+    "path": "data/ignores/toptal/raw/apachecordova.gitignore",
+    "hash": "2cc3e2f00db103c56a7aed0a5ddc2826e82df99bb181204a26a54841ac422c55"
+  },
+  {
+    "id": "toptal:apachehadoop",
+    "source": "toptal",
+    "key": "apachehadoop",
+    "name": "ApacheHadoop",
+    "aliases": ["apachehadoop"],
+    "path": "data/ignores/toptal/raw/apachehadoop.gitignore",
+    "hash": "2af0fac3c7954021de7a9f59f682f7abbe12669a295fd3fb7fdc2da0b1fb65e1"
+  },
+  {
+    "id": "toptal:appbuilder",
+    "source": "toptal",
+    "key": "appbuilder",
+    "name": "AppBuilder",
+    "aliases": ["appbuilder"],
+    "path": "data/ignores/toptal/raw/appbuilder.gitignore",
+    "hash": "b759036d94d9ec04382941d14566014eade294c8c4e68c273b0a3e71b492d913"
+  },
+  {
+    "id": "toptal:appceleratortitanium",
+    "source": "toptal",
+    "key": "appceleratortitanium",
+    "name": "AppceleratorTitanium",
+    "aliases": ["appceleratortitanium"],
+    "path": "data/ignores/toptal/raw/appceleratortitanium.gitignore",
+    "hash": "83ce7e190cc580dd9a4d7aa39cc9ad8622afff1d8eb17c269a130f4f5c9beef0"
+  },
+  {
+    "id": "toptal:appcode",
+    "source": "toptal",
+    "key": "appcode",
+    "name": "AppCode",
+    "aliases": ["appcode"],
+    "path": "data/ignores/toptal/raw/appcode.gitignore",
+    "hash": "4bc0aa792c1100d1037edd33ce481ca25bef6766e34fa8ea1edda70d54e29541"
+  },
+  {
+    "id": "toptal:appcodeplusall",
+    "source": "toptal",
+    "key": "appcodeplusall",
+    "name": "AppCode+all",
+    "aliases": ["appcode+all", "appcodeplusall"],
+    "path": "data/ignores/toptal/raw/appcodeplusall.gitignore",
+    "hash": "dfa6d9b568ff2b857b983adfc39671684d30913f0d50fc6f28f3762cabd063b5"
+  },
+  {
+    "id": "toptal:appcodeplusiml",
+    "source": "toptal",
+    "key": "appcodeplusiml",
+    "name": "AppCode+iml",
+    "aliases": ["appcode+iml", "appcodeplusiml"],
+    "path": "data/ignores/toptal/raw/appcodeplusiml.gitignore",
+    "hash": "74cb8332d3c4d41c031ef0e6eb9d7ddaebd87ec693c898461cef09484fcf3c08"
+  },
+  {
+    "id": "toptal:appengine",
+    "source": "toptal",
+    "key": "appengine",
+    "name": "AppEngine",
+    "aliases": ["appengine"],
+    "path": "data/ignores/toptal/raw/appengine.gitignore",
+    "hash": "96ac8f2322f7a4e1f5372efcb555ca30d2e009ea2b8ea2c2b0e6a6f095849bcb"
+  },
+  {
+    "id": "toptal:aptanastudio",
+    "source": "toptal",
+    "key": "aptanastudio",
+    "name": "AptanaStudio",
+    "aliases": ["aptanastudio"],
+    "path": "data/ignores/toptal/raw/aptanastudio.gitignore",
+    "hash": "e1b90988cdb4a959970247784a07d6090625d2fcebf5cf5aa1442ec2d17e8076"
+  },
+  {
+    "id": "toptal:arcanist",
+    "source": "toptal",
+    "key": "arcanist",
+    "name": "Arcanist",
+    "aliases": ["arcanist"],
+    "path": "data/ignores/toptal/raw/arcanist.gitignore",
+    "hash": "a2b6a1fa69a98656f0b86cf1024a9307f5f74206519245b9e9e791955f90d66d"
+  },
+  {
+    "id": "toptal:archive",
+    "source": "toptal",
+    "key": "archive",
+    "name": "Archive",
+    "aliases": ["archive"],
+    "path": "data/ignores/toptal/raw/archive.gitignore",
+    "hash": "f6d70bc20db7643515530658be2b4bd782afa8ebacc8e297605773e2ac614908"
+  },
+  {
+    "id": "toptal:archives",
+    "source": "toptal",
+    "key": "archives",
+    "name": "Archives",
+    "aliases": ["archives"],
+    "path": "data/ignores/toptal/raw/archives.gitignore",
+    "hash": "40db93b3f282dc712eb6774ae7e059f4b46807a243ab0f2eceaadcb33a351343"
+  },
+  {
+    "id": "toptal:archlinuxpackages",
+    "source": "toptal",
+    "key": "archlinuxpackages",
+    "name": "ArchLinuxPackages",
+    "aliases": ["archlinuxpackages"],
+    "path": "data/ignores/toptal/raw/archlinuxpackages.gitignore",
+    "hash": "1246a90937cf9f7871f7a89350886bb9a69720aa66755ccf6299ca9da35bcb0f"
+  },
+  {
+    "id": "toptal:asdf",
+    "source": "toptal",
+    "key": "asdf",
+    "name": "asdf",
+    "aliases": ["asdf"],
+    "path": "data/ignores/toptal/raw/asdf.gitignore",
+    "hash": "6f8208ad57452bbe0f66269745b9fc48947761e213e4dbb05cb37b8b4cb71eeb"
+  },
+  {
+    "id": "toptal:aspnetcore",
+    "source": "toptal",
+    "key": "aspnetcore",
+    "name": "ASPNETCore",
+    "aliases": ["aspnetcore"],
+    "path": "data/ignores/toptal/raw/aspnetcore.gitignore",
+    "hash": "cff5f876cddec5da442183dba102c456d78d3fb8bb8ebdb0585cd1b787ccb451"
+  },
+  {
+    "id": "toptal:assembler",
+    "source": "toptal",
+    "key": "assembler",
+    "name": "Assembler",
+    "aliases": ["assembler"],
+    "path": "data/ignores/toptal/raw/assembler.gitignore",
+    "hash": "07a2c5b722429745932640e40fc29b5251a2f8d46b4065901f4eaf1548e149c6"
+  },
+  {
+    "id": "toptal:astro",
+    "source": "toptal",
+    "key": "astro",
+    "name": "Astro",
+    "aliases": ["astro"],
+    "path": "data/ignores/toptal/raw/astro.gitignore",
+    "hash": "5a79307493e4f16f32c4a5da0b0abd5c683e8b960a75641120853803fa2113b8"
+  },
+  {
+    "id": "toptal:ate",
+    "source": "toptal",
+    "key": "ate",
+    "name": "ATE",
+    "aliases": ["ate"],
+    "path": "data/ignores/toptal/raw/ate.gitignore",
+    "hash": "bacbd41ed04f8cedd164dd4d88a4af9df33e08cb4756ab560a1a4d88efb1020a"
+  },
+  {
+    "id": "toptal:atmelstudio",
+    "source": "toptal",
+    "key": "atmelstudio",
+    "name": "AtmelStudio",
+    "aliases": ["atmelstudio"],
+    "path": "data/ignores/toptal/raw/atmelstudio.gitignore",
+    "hash": "d771789e0018dc17bde7b9835e9dff78a8d7096f2debf734746071f489f5c54d"
+  },
+  {
+    "id": "toptal:ats",
+    "source": "toptal",
+    "key": "ats",
+    "name": "ATS",
+    "aliases": ["ats"],
+    "path": "data/ignores/toptal/raw/ats.gitignore",
+    "hash": "3cfd169c83bc303759106b4b8a243c10dc615a1a909b2a1597dc329a31853983"
+  },
+  {
+    "id": "toptal:audio",
+    "source": "toptal",
+    "key": "audio",
+    "name": "Audio",
+    "aliases": ["audio"],
+    "path": "data/ignores/toptal/raw/audio.gitignore",
+    "hash": "f000062f48a0036b054c0af50378773ea0edae04aa8318aff3abc3bf45c1e94a"
+  },
+  {
+    "id": "toptal:autohotkey",
+    "source": "toptal",
+    "key": "autohotkey",
+    "name": "Autohotkey",
+    "aliases": ["autohotkey"],
+    "path": "data/ignores/toptal/raw/autohotkey.gitignore",
+    "hash": "62b174621efc215242542cea2be85ccabb90f19ede764d90287ed713ba8c41a8"
+  },
+  {
+    "id": "toptal:automationstudio",
+    "source": "toptal",
+    "key": "automationstudio",
+    "name": "AutomationStudio",
+    "aliases": ["automationstudio"],
+    "path": "data/ignores/toptal/raw/automationstudio.gitignore",
+    "hash": "399ae5bdc0f35dc5d2762efa1b05a3eb3f75c2a02c506ed930788f77b56db835"
+  },
+  {
+    "id": "toptal:autotools",
+    "source": "toptal",
+    "key": "autotools",
+    "name": "Autotools",
+    "aliases": ["autotools"],
+    "path": "data/ignores/toptal/raw/autotools.gitignore",
+    "hash": "48a090140ce18070b58cb106dae756163b33f9cb957dc732b727b40c060c7b9b"
+  },
+  {
+    "id": "toptal:autotoolsplusstrict",
+    "source": "toptal",
+    "key": "autotoolsplusstrict",
+    "name": "Autotools+strict",
+    "aliases": ["autotools+strict", "autotoolsplusstrict"],
+    "path": "data/ignores/toptal/raw/autotoolsplusstrict.gitignore",
+    "hash": "7783e955b5169da6a29bef329bddcb10e0b9c0916d8a1661d4ed7d3a7cb32250"
+  },
+  {
+    "id": "toptal:awr",
+    "source": "toptal",
+    "key": "awr",
+    "name": "AWR",
+    "aliases": ["awr"],
+    "path": "data/ignores/toptal/raw/awr.gitignore",
+    "hash": "4c2444453bbd8df3af0f57c96f8c65d9cd8d17bb0a5c631d30aecac73886d70f"
+  },
+  {
+    "id": "toptal:azurefunctions",
+    "source": "toptal",
+    "key": "azurefunctions",
+    "name": "AzureFunctions",
+    "aliases": ["azurefunctions"],
+    "path": "data/ignores/toptal/raw/azurefunctions.gitignore",
+    "hash": "04fe26672f3c557cd95b0c1cf7bd2274f96aba2371c8a277fa75a3fb86a4ea07"
+  },
+  {
+    "id": "toptal:azurite",
+    "source": "toptal",
+    "key": "azurite",
+    "name": "Azurite",
+    "aliases": ["azurite"],
+    "path": "data/ignores/toptal/raw/azurite.gitignore",
+    "hash": "b567af038c8c6bdb5accf6f2b8b2107f78c597978406561f41fbd8d52b381cfd"
+  },
+  {
+    "id": "toptal:backup",
+    "source": "toptal",
+    "key": "backup",
+    "name": "Backup",
+    "aliases": ["backup"],
+    "path": "data/ignores/toptal/raw/backup.gitignore",
+    "hash": "024ca837147982438dc9f508110e8e2b22439304d846087ea6d189ced2e0836d"
+  },
+  {
+    "id": "toptal:ballerina",
+    "source": "toptal",
+    "key": "ballerina",
+    "name": "Ballerina",
+    "aliases": ["ballerina"],
+    "path": "data/ignores/toptal/raw/ballerina.gitignore",
+    "hash": "e617834486fa4e950a1ad8518be2bf86984b41de712ea3031484eee6e4ca7dc6"
+  },
+  {
+    "id": "toptal:basercms",
+    "source": "toptal",
+    "key": "basercms",
+    "name": "baserCMS",
+    "aliases": ["basercms"],
+    "path": "data/ignores/toptal/raw/basercms.gitignore",
+    "hash": "f1ba525e8b7597fca60dcee85bbd34ddd3372af68f6739dc6dfdb7dc67bc0b95"
+  },
+  {
+    "id": "toptal:basic",
+    "source": "toptal",
+    "key": "basic",
+    "name": "Basic",
+    "aliases": ["basic"],
+    "path": "data/ignores/toptal/raw/basic.gitignore",
+    "hash": "3a794dc9b30583ea6ab27daa7be5807801c0a670d762b9e67cab2570e6def1f5"
+  },
+  {
+    "id": "toptal:batch",
+    "source": "toptal",
+    "key": "batch",
+    "name": "Batch",
+    "aliases": ["batch"],
+    "path": "data/ignores/toptal/raw/batch.gitignore",
+    "hash": "79165f05477b88cad53ce7b467edf9a92ceb447dbe74ea6045db374d989185ac"
+  },
+  {
+    "id": "toptal:bazaar",
+    "source": "toptal",
+    "key": "bazaar",
+    "name": "Bazaar",
+    "aliases": ["bazaar"],
+    "path": "data/ignores/toptal/raw/bazaar.gitignore",
+    "hash": "f976d7ce8c0ebdaaa587b74128a7c755abadab45f5cd002bb5226f06689f91fc"
+  },
+  {
+    "id": "toptal:bazel",
+    "source": "toptal",
+    "key": "bazel",
+    "name": "Bazel",
+    "aliases": ["bazel"],
+    "path": "data/ignores/toptal/raw/bazel.gitignore",
+    "hash": "f18c10f7d56cb6fe0d0c4a9ee290e717a24f0f5d9098b6b20e4b11797df7268c"
+  },
+  {
+    "id": "toptal:bitrise",
+    "source": "toptal",
+    "key": "bitrise",
+    "name": "Bitrise",
+    "aliases": ["bitrise"],
+    "path": "data/ignores/toptal/raw/bitrise.gitignore",
+    "hash": "a2740ebeace1492ac4c4ce5531a970fd5e2a3b4ae9361fffa7b19654470e97c2"
+  },
+  {
+    "id": "toptal:bitrix",
+    "source": "toptal",
+    "key": "bitrix",
+    "name": "Bitrix",
+    "aliases": ["bitrix"],
+    "path": "data/ignores/toptal/raw/bitrix.gitignore",
+    "hash": "a7739e9a51368f726bc578e481d2523b04d3f2e79467e2ebe388beff77a0c1bd"
+  },
+  {
+    "id": "toptal:bittorrent",
+    "source": "toptal",
+    "key": "bittorrent",
+    "name": "BitTorrent",
+    "aliases": ["bittorrent"],
+    "path": "data/ignores/toptal/raw/bittorrent.gitignore",
+    "hash": "a2672ac0dfb72424f7ac534850076a467ac42671ad1c4f7a9423023f627873c2"
+  },
+  {
+    "id": "toptal:blackbox",
+    "source": "toptal",
+    "key": "blackbox",
+    "name": "Blackbox",
+    "aliases": ["blackbox"],
+    "path": "data/ignores/toptal/raw/blackbox.gitignore",
+    "hash": "b6b34b1d803b7a08e2c18285f778384c618eb944c587e88e6ad27be8b2766397"
+  },
+  {
+    "id": "toptal:blender",
+    "source": "toptal",
+    "key": "blender",
+    "name": "Blender",
+    "aliases": ["blender"],
+    "path": "data/ignores/toptal/raw/blender.gitignore",
+    "hash": "1e146b9fe8653a52104d9314804e1a900dae2298df2a79545437e206ddf23d2d"
+  },
+  {
+    "id": "toptal:bloop",
+    "source": "toptal",
+    "key": "bloop",
+    "name": "Bloop",
+    "aliases": ["bloop"],
+    "path": "data/ignores/toptal/raw/bloop.gitignore",
+    "hash": "f2972789491e80f7a5ff5bb12e094a699a2b1fdabd5a4038988ac60812336474"
+  },
+  {
+    "id": "toptal:bluej",
+    "source": "toptal",
+    "key": "bluej",
+    "name": "bluej",
+    "aliases": ["bluej"],
+    "path": "data/ignores/toptal/raw/bluej.gitignore",
+    "hash": "2bbf29e7bf24d71a45c45e2be1fed863de96784a85859f6ee90856488ad5daf3"
+  },
+  {
+    "id": "toptal:bookdown",
+    "source": "toptal",
+    "key": "bookdown",
+    "name": "Bookdown",
+    "aliases": ["bookdown"],
+    "path": "data/ignores/toptal/raw/bookdown.gitignore",
+    "hash": "87c3c92363559d15c4b0b113f94c9455b19c545dd2ef3d16652d45de20f0067f"
+  },
+  {
+    "id": "toptal:bower",
+    "source": "toptal",
+    "key": "bower",
+    "name": "Bower",
+    "aliases": ["bower"],
+    "path": "data/ignores/toptal/raw/bower.gitignore",
+    "hash": "5c14c0749df5cc188e1626efa5cc712b32038fe28aafa01f734e0e3915f8ba52"
+  },
+  {
+    "id": "toptal:bricxcc",
+    "source": "toptal",
+    "key": "bricxcc",
+    "name": "BricxCC",
+    "aliases": ["bricxcc"],
+    "path": "data/ignores/toptal/raw/bricxcc.gitignore",
+    "hash": "048cbe0a1d18626e521fbb83fa1f933e7fd7084dff943da0a1c8983311220d84"
+  },
+  {
+    "id": "toptal:buck",
+    "source": "toptal",
+    "key": "buck",
+    "name": "Buck",
+    "aliases": ["buck"],
+    "path": "data/ignores/toptal/raw/buck.gitignore",
+    "hash": "8f2c597b85e87bc375b2a2391ceeb3b092fa2edbfc04744587747ac779750e52"
+  },
+  {
+    "id": "toptal:c",
+    "source": "toptal",
+    "key": "c",
+    "name": "C",
+    "aliases": ["c"],
+    "path": "data/ignores/toptal/raw/c.gitignore",
+    "hash": "d1569fc15b75b569fec9be483173487c0876cffdacf5b9835444408e8d530450"
+  },
+  {
+    "id": "toptal:cake",
+    "source": "toptal",
+    "key": "cake",
+    "name": "Cake",
+    "aliases": ["cake"],
+    "path": "data/ignores/toptal/raw/cake.gitignore",
+    "hash": "7c603e93e4815894a8ca2aed75329b195317c338352dda6e2487b083c7617677"
+  },
+  {
+    "id": "toptal:cakephp",
+    "source": "toptal",
+    "key": "cakephp",
+    "name": "CakePHP",
+    "aliases": ["cakephp"],
+    "path": "data/ignores/toptal/raw/cakephp.gitignore",
+    "hash": "d07cd8c0287bd1400a1bfa4e2bb5f95f85c04e23694b5af726dc5243ea3bc0e2"
+  },
+  {
+    "id": "toptal:cakephp2",
+    "source": "toptal",
+    "key": "cakephp2",
+    "name": "CakePHP2",
+    "aliases": ["cakephp2"],
+    "path": "data/ignores/toptal/raw/cakephp2.gitignore",
+    "hash": "752a107b15759e4918c71646a84a5f9cfda6e70f28e066b9f6922e088be16a0e"
+  },
+  {
+    "id": "toptal:cakephp3",
+    "source": "toptal",
+    "key": "cakephp3",
+    "name": "CakePHP3",
+    "aliases": ["cakephp3"],
+    "path": "data/ignores/toptal/raw/cakephp3.gitignore",
+    "hash": "70df80a5a26be5bfccf57cd129abc54dcf67c8dddda330fc722547d820ac8092"
+  },
+  {
+    "id": "toptal:calabash",
+    "source": "toptal",
+    "key": "calabash",
+    "name": "Calabash",
+    "aliases": ["calabash"],
+    "path": "data/ignores/toptal/raw/calabash.gitignore",
+    "hash": "1fb3e8775f8151e567cec2da4d053e2509e62f1c2dd3eed7040dcb70bee94894"
+  },
+  {
+    "id": "toptal:carthage",
+    "source": "toptal",
+    "key": "carthage",
+    "name": "Carthage",
+    "aliases": ["carthage"],
+    "path": "data/ignores/toptal/raw/carthage.gitignore",
+    "hash": "e591269985c39a36a70b08f538b1d943b8b3d9aa8e02cee1f1d3fc5abc7e8df2"
+  },
+  {
+    "id": "toptal:certificates",
+    "source": "toptal",
+    "key": "certificates",
+    "name": "certificates",
+    "aliases": ["certificates"],
+    "path": "data/ignores/toptal/raw/certificates.gitignore",
+    "hash": "1ca2c68b2b08730cd638690d94ba4ce91d64d3d2cab1f64353f6e1edba79a707"
+  },
+  {
+    "id": "toptal:ceylon",
+    "source": "toptal",
+    "key": "ceylon",
+    "name": "Ceylon",
+    "aliases": ["ceylon"],
+    "path": "data/ignores/toptal/raw/ceylon.gitignore",
+    "hash": "064ec980c7d04030c94365231d41631a5760942a588068c2ff14076ab2247e64"
+  },
+  {
+    "id": "toptal:cfwheels",
+    "source": "toptal",
+    "key": "cfwheels",
+    "name": "CFWheels",
+    "aliases": ["cfwheels"],
+    "path": "data/ignores/toptal/raw/cfwheels.gitignore",
+    "hash": "ec9e0022f4a580eb4005c0ea3d41de97a2c3a0e597f71eff00f8bbd67b9aad84"
+  },
+  {
+    "id": "toptal:chefcookbook",
+    "source": "toptal",
+    "key": "chefcookbook",
+    "name": "ChefCookbook",
+    "aliases": ["chefcookbook"],
+    "path": "data/ignores/toptal/raw/chefcookbook.gitignore",
+    "hash": "36a511f011ac19003c6ee82be4c4ad834bb2837b1c090b6a846ce5545ba9adfe"
+  },
+  {
+    "id": "toptal:chocolatey",
+    "source": "toptal",
+    "key": "chocolatey",
+    "name": "Chocolatey",
+    "aliases": ["chocolatey"],
+    "path": "data/ignores/toptal/raw/chocolatey.gitignore",
+    "hash": "86c2c513ffaba43289418e6ba637d53d2a08e383ae36e7ce9cd15081b51066d2"
+  },
+  {
+    "id": "toptal:circuitpython",
+    "source": "toptal",
+    "key": "circuitpython",
+    "name": "CircuitPython",
+    "aliases": ["circuitpython"],
+    "path": "data/ignores/toptal/raw/circuitpython.gitignore",
+    "hash": "a47a8e6403819032a2b870b29da71f285a14f4c4a3802d7674f0a7703a935829"
+  },
+  {
+    "id": "toptal:clean",
+    "source": "toptal",
+    "key": "clean",
+    "name": "Clean",
+    "aliases": ["clean"],
+    "path": "data/ignores/toptal/raw/clean.gitignore",
+    "hash": "9ea24ec44536f3aa0104c4fa146adae8a3a58ca3d6d43221fd483dc1ba223fe2"
+  },
+  {
+    "id": "toptal:clion",
+    "source": "toptal",
+    "key": "clion",
+    "name": "CLion",
+    "aliases": ["clion"],
+    "path": "data/ignores/toptal/raw/clion.gitignore",
+    "hash": "aa36de68c076ab398598e345e82bb5f296133b9f84e9aa02cd88cbde44a0d738"
+  },
+  {
+    "id": "toptal:clionplusall",
+    "source": "toptal",
+    "key": "clionplusall",
+    "name": "CLion+all",
+    "aliases": ["clion+all", "clionplusall"],
+    "path": "data/ignores/toptal/raw/clionplusall.gitignore",
+    "hash": "b2ecfc05f1dd0ea611dc29f1368cb59c950de941cbc275a6c4ff8589c5b46279"
+  },
+  {
+    "id": "toptal:clionplusiml",
+    "source": "toptal",
+    "key": "clionplusiml",
+    "name": "CLion+iml",
+    "aliases": ["clion+iml", "clionplusiml"],
+    "path": "data/ignores/toptal/raw/clionplusiml.gitignore",
+    "hash": "88e80182e49944437becbb21100464b09543860a2277c8c4cad94b7baba00b0f"
+  },
+  {
+    "id": "toptal:clojure",
+    "source": "toptal",
+    "key": "clojure",
+    "name": "Clojure",
+    "aliases": ["clojure"],
+    "path": "data/ignores/toptal/raw/clojure.gitignore",
+    "hash": "5ad8d9b85a41400b1b3d0cf924d81469cb389b01b7c655b7a820cfc24787de80"
+  },
+  {
+    "id": "toptal:cloud9",
+    "source": "toptal",
+    "key": "cloud9",
+    "name": "Cloud9",
+    "aliases": ["cloud9"],
+    "path": "data/ignores/toptal/raw/cloud9.gitignore",
+    "hash": "8b03ee9f5dd5b0966d86d5335265f320ddee61d1b5437954b7a3350ac084a318"
+  },
+  {
+    "id": "toptal:cmake",
+    "source": "toptal",
+    "key": "cmake",
+    "name": "CMake",
+    "aliases": ["cmake"],
+    "path": "data/ignores/toptal/raw/cmake.gitignore",
+    "hash": "940fd242025464e3910ca5949241e66849760c3ecd0f50af286a79584d339896"
+  },
+  {
+    "id": "toptal:cocoapods",
+    "source": "toptal",
+    "key": "cocoapods",
+    "name": "CocoaPods",
+    "aliases": ["cocoapods"],
+    "path": "data/ignores/toptal/raw/cocoapods.gitignore",
+    "hash": "975be3da84f22cbd71ebb4409efad4f554f4f3c9331b8e9d94da36580acccf59"
+  },
+  {
+    "id": "toptal:cocos2dx",
+    "source": "toptal",
+    "key": "cocos2dx",
+    "name": "Cocos2dx",
+    "aliases": ["cocos2dx"],
+    "path": "data/ignores/toptal/raw/cocos2dx.gitignore",
+    "hash": "212d486919ba9bbdc31054bd0499988234b1e188ee53bbe7270bd98ff7661dda"
+  },
+  {
+    "id": "toptal:cocoscreator",
+    "source": "toptal",
+    "key": "cocoscreator",
+    "name": "CocosCreator",
+    "aliases": ["cocoscreator"],
+    "path": "data/ignores/toptal/raw/cocoscreator.gitignore",
+    "hash": "493525a24582bc11942b2546229c8172b649110d792e2aa22e6c40e8f76c02f2"
+  },
+  {
+    "id": "toptal:codeblocks",
+    "source": "toptal",
+    "key": "codeblocks",
+    "name": "CodeBlocks",
+    "aliases": ["codeblocks"],
+    "path": "data/ignores/toptal/raw/codeblocks.gitignore",
+    "hash": "b9acef2e0416ff7e1aed9ffe6beb6bc44851ed2736b75ca7998a53406efea15b"
+  },
+  {
+    "id": "toptal:codecomposerstudio",
+    "source": "toptal",
+    "key": "codecomposerstudio",
+    "name": "CodeComposerStudio",
+    "aliases": ["codecomposerstudio"],
+    "path": "data/ignores/toptal/raw/codecomposerstudio.gitignore",
+    "hash": "91ea48cc2205820c219feaf4e3723340a5e22c2f52110bd2ae0521e017388406"
+  },
+  {
+    "id": "toptal:codeigniter",
+    "source": "toptal",
+    "key": "codeigniter",
+    "name": "CodeIgniter",
+    "aliases": ["codeigniter"],
+    "path": "data/ignores/toptal/raw/codeigniter.gitignore",
+    "hash": "7f38dfd9376cd645dee8c58cc50b1d696c28845e6a98b155764be89daddbdcae"
+  },
+  {
+    "id": "toptal:codeio",
+    "source": "toptal",
+    "key": "codeio",
+    "name": "Codeio",
+    "aliases": ["codeio"],
+    "path": "data/ignores/toptal/raw/codeio.gitignore",
+    "hash": "2737c93664c43daf82e1c17f052c33b755ca2dd2b2b3cf211638ba87f284d371"
+  },
+  {
+    "id": "toptal:codekit",
+    "source": "toptal",
+    "key": "codekit",
+    "name": "CodeKit",
+    "aliases": ["codekit"],
+    "path": "data/ignores/toptal/raw/codekit.gitignore",
+    "hash": "42cf0ab37449384f947789bccf02c57063a5a8d4167a988505e811438fabc7ef"
+  },
+  {
+    "id": "toptal:codesniffer",
+    "source": "toptal",
+    "key": "codesniffer",
+    "name": "CodeSniffer",
+    "aliases": ["codesniffer"],
+    "path": "data/ignores/toptal/raw/codesniffer.gitignore",
+    "hash": "0016b724de5c8e579d9211ac92d26bec7d5c3855e5f30e7fdd91f6a60ec3d105"
+  },
+  {
+    "id": "toptal:coffeescript",
+    "source": "toptal",
+    "key": "coffeescript",
+    "name": "CoffeeScript",
+    "aliases": ["coffeescript"],
+    "path": "data/ignores/toptal/raw/coffeescript.gitignore",
+    "hash": "dda294e2b7a1038d60daf32f7e445407c16df8514c8147d6633a86f6cdfeaee9"
+  },
+  {
+    "id": "toptal:commonlisp",
+    "source": "toptal",
+    "key": "commonlisp",
+    "name": "CommonLisp",
+    "aliases": ["commonlisp"],
+    "path": "data/ignores/toptal/raw/commonlisp.gitignore",
+    "hash": "0470e142def5fdfa593194f0b4eeca86f2fec7317f3786957b6c2842d547d894"
+  },
+  {
+    "id": "toptal:compodoc",
+    "source": "toptal",
+    "key": "compodoc",
+    "name": "Compodoc",
+    "aliases": ["compodoc"],
+    "path": "data/ignores/toptal/raw/compodoc.gitignore",
+    "hash": "7189782f867402ffa8485aee4bb64f1e509678cba1b77a7f66795eef4fa02b36"
+  },
+  {
+    "id": "toptal:composer",
+    "source": "toptal",
+    "key": "composer",
+    "name": "Composer",
+    "aliases": ["composer"],
+    "path": "data/ignores/toptal/raw/composer.gitignore",
+    "hash": "c5af8ca075e971a314408d93f234f84a6b3b24a3121aa01dd87ff87159e04587"
+  },
+  {
+    "id": "toptal:compressed",
+    "source": "toptal",
+    "key": "compressed",
+    "name": "Compressed",
+    "aliases": ["compressed"],
+    "path": "data/ignores/toptal/raw/compressed.gitignore",
+    "hash": "5eddda0d4437b7536dea6a7de6e3b1995752ab14e4ef6321eda9a571965329f1"
+  },
+  {
+    "id": "toptal:compressedarchive",
+    "source": "toptal",
+    "key": "compressedarchive",
+    "name": "CompressedArchive",
+    "aliases": ["compressedarchive"],
+    "path": "data/ignores/toptal/raw/compressedarchive.gitignore",
+    "hash": "edf698f0c6b3f52bf07add740c9027408bbd9d084ad621289d32f4d477e0419a"
+  },
+  {
+    "id": "toptal:compression",
+    "source": "toptal",
+    "key": "compression",
+    "name": "Compression",
+    "aliases": ["compression"],
+    "path": "data/ignores/toptal/raw/compression.gitignore",
+    "hash": "d35daf15af19de96a3a51efe600c885a102032ef7c1340d09ae4a8d64e683f91"
+  },
+  {
+    "id": "toptal:conan",
+    "source": "toptal",
+    "key": "conan",
+    "name": "Conan",
+    "aliases": ["conan"],
+    "path": "data/ignores/toptal/raw/conan.gitignore",
+    "hash": "968c5e14580cfcc6d38dbe604cb72bcf93fee6bd21d62bdb5e013791e24fd0ca"
+  },
+  {
+    "id": "toptal:concrete5",
+    "source": "toptal",
+    "key": "concrete5",
+    "name": "Concrete5",
+    "aliases": ["concrete5"],
+    "path": "data/ignores/toptal/raw/concrete5.gitignore",
+    "hash": "5079ce4945e579fa681ae769c22fff58e5868743e17a7c2683dc9ef45fb8840e"
+  },
+  {
+    "id": "toptal:coq",
+    "source": "toptal",
+    "key": "coq",
+    "name": "Coq",
+    "aliases": ["coq"],
+    "path": "data/ignores/toptal/raw/coq.gitignore",
+    "hash": "ef15ef2d4a77b908e17d670f446ae4caf2433609120709c3a83b9232057dc054"
+  },
+  {
+    "id": "toptal:cordova",
+    "source": "toptal",
+    "key": "cordova",
+    "name": "Cordova",
+    "aliases": ["cordova"],
+    "path": "data/ignores/toptal/raw/cordova.gitignore",
+    "hash": "d0bcf5e43e2c4239c713539b7571a00721acc3616464418f299c5fc5c322da43"
+  },
+  {
+    "id": "toptal:cplusplus",
+    "source": "toptal",
+    "key": "cplusplus",
+    "name": "C++",
+    "aliases": ["c++", "cplusplus"],
+    "path": "data/ignores/toptal/raw/cplusplus.gitignore",
+    "hash": "a1b04539a810de65d19daaaacd2a19df7cfc65c4156bb22af4f839be31236a14"
+  },
+  {
+    "id": "toptal:craftcms",
+    "source": "toptal",
+    "key": "craftcms",
+    "name": "CraftCMS",
+    "aliases": ["craftcms"],
+    "path": "data/ignores/toptal/raw/craftcms.gitignore",
+    "hash": "f9f49158b70e4df635326b1ada8d5aa44f26f3fbd32025620405edc617a68bad"
+  },
+  {
+    "id": "toptal:crashlytics",
+    "source": "toptal",
+    "key": "crashlytics",
+    "name": "Crashlytics",
+    "aliases": ["crashlytics"],
+    "path": "data/ignores/toptal/raw/crashlytics.gitignore",
+    "hash": "2ca351dd01dc630ec276deb712efb969657d0a85abee8800ea3cc08530a03186"
+  },
+  {
+    "id": "toptal:crbasic",
+    "source": "toptal",
+    "key": "crbasic",
+    "name": "CRBasic",
+    "aliases": ["crbasic"],
+    "path": "data/ignores/toptal/raw/crbasic.gitignore",
+    "hash": "f68b2f7186c24a6f4818ea5811fa20f60864fb0f24f5781fd882b9141fe493f2"
+  },
+  {
+    "id": "toptal:crossbar",
+    "source": "toptal",
+    "key": "crossbar",
+    "name": "Crossbar",
+    "aliases": ["crossbar"],
+    "path": "data/ignores/toptal/raw/crossbar.gitignore",
+    "hash": "e80030a15923e5b96abd3bd8a2046fc69aa762cf6fee140d952749f3b4c771de"
+  },
+  {
+    "id": "toptal:crystal",
+    "source": "toptal",
+    "key": "crystal",
+    "name": "Crystal",
+    "aliases": ["crystal"],
+    "path": "data/ignores/toptal/raw/crystal.gitignore",
+    "hash": "06c384efcf7111d08cd9a0e38b52db9478eefaea7b9009d4aee78f2f1b85b864"
+  },
+  {
+    "id": "toptal:cs-cart",
+    "source": "toptal",
+    "key": "cs-cart",
+    "name": "CS-Cart",
+    "aliases": ["cs-cart"],
+    "path": "data/ignores/toptal/raw/cs-cart.gitignore",
+    "hash": "ae924c7f86aaafcf0d3e9c23db6da5cf36da26a8031cd4cc78de883278864f7e"
+  },
+  {
+    "id": "toptal:csharp",
+    "source": "toptal",
+    "key": "csharp",
+    "name": "Csharp",
+    "aliases": ["csharp"],
+    "path": "data/ignores/toptal/raw/csharp.gitignore",
+    "hash": "709f51542a3f681b40b4ad33c6796f591935d7547ae1922830a48b75188ac973"
+  },
+  {
+    "id": "toptal:cuda",
+    "source": "toptal",
+    "key": "cuda",
+    "name": "CUDA",
+    "aliases": ["cuda"],
+    "path": "data/ignores/toptal/raw/cuda.gitignore",
+    "hash": "231f712c5c76cc995a8e211250efcd0d92ba46e3418fd659bd94b94726b09e7c"
+  },
+  {
+    "id": "toptal:cvs",
+    "source": "toptal",
+    "key": "cvs",
+    "name": "CVS",
+    "aliases": ["cvs"],
+    "path": "data/ignores/toptal/raw/cvs.gitignore",
+    "hash": "c0b7db73c44029fe957e6ab4519c33d8132b30adef298424499789c15019a74e"
+  },
+  {
+    "id": "toptal:cypressio",
+    "source": "toptal",
+    "key": "cypressio",
+    "name": "CypressIO",
+    "aliases": ["cypressio"],
+    "path": "data/ignores/toptal/raw/cypressio.gitignore",
+    "hash": "4b94e55b63c825c0d26ef9491193487306fe56c6fe78def3dfd0470daf2e32de"
+  },
+  {
+    "id": "toptal:d",
+    "source": "toptal",
+    "key": "d",
+    "name": "D",
+    "aliases": ["d"],
+    "path": "data/ignores/toptal/raw/d.gitignore",
+    "hash": "a94282dbb8d0cae3f24855dae5932c7a6d44be2087930f2ee2befeef490f4879"
+  },
+  {
+    "id": "toptal:dart",
+    "source": "toptal",
+    "key": "dart",
+    "name": "Dart",
+    "aliases": ["dart"],
+    "path": "data/ignores/toptal/raw/dart.gitignore",
+    "hash": "655ce6cdea4b9d00945155b4a4976e1c62fa4ad97512092f0234cf85cb94bdb8"
+  },
+  {
+    "id": "toptal:darteditor",
+    "source": "toptal",
+    "key": "darteditor",
+    "name": "DartEditor",
+    "aliases": ["darteditor"],
+    "path": "data/ignores/toptal/raw/darteditor.gitignore",
+    "hash": "905a87d8c6b99c707aab3e0cbc45b867346bf79ec24989f0ce0685098f2f3c63"
+  },
+  {
+    "id": "toptal:data",
+    "source": "toptal",
+    "key": "data",
+    "name": "Data",
+    "aliases": ["data"],
+    "path": "data/ignores/toptal/raw/data.gitignore",
+    "hash": "468ccf88218fed5582ed649a79c5734db83d873ee0c493aac990dc785861fa78"
+  },
+  {
+    "id": "toptal:database",
+    "source": "toptal",
+    "key": "database",
+    "name": "Database",
+    "aliases": ["database"],
+    "path": "data/ignores/toptal/raw/database.gitignore",
+    "hash": "ee2711da7c906d04feec2658f48a0b21639deaad0daa88417d38dc6cfe55e018"
+  },
+  {
+    "id": "toptal:datarecovery",
+    "source": "toptal",
+    "key": "datarecovery",
+    "name": "DataRecovery",
+    "aliases": ["datarecovery"],
+    "path": "data/ignores/toptal/raw/datarecovery.gitignore",
+    "hash": "32f4775a82baf817afcef4ec02fdae3106c7c3e0cec3df3b34c54c3347d6a47c"
+  },
+  {
+    "id": "toptal:dbeaver",
+    "source": "toptal",
+    "key": "dbeaver",
+    "name": "DBeaver",
+    "aliases": ["dbeaver"],
+    "path": "data/ignores/toptal/raw/dbeaver.gitignore",
+    "hash": "bf4aa85240c97e72faac984e00dd27f014a94e0110f543f169ef931dd55b2235"
+  },
+  {
+    "id": "toptal:dbt",
+    "source": "toptal",
+    "key": "dbt",
+    "name": "dbt",
+    "aliases": ["dbt"],
+    "path": "data/ignores/toptal/raw/dbt.gitignore",
+    "hash": "725e46bd46549597e023cfd23ae3ef788d75dad59859b77e2bf3b8dddc5e10ff"
+  },
+  {
+    "id": "toptal:defold",
+    "source": "toptal",
+    "key": "defold",
+    "name": "Defold",
+    "aliases": ["defold"],
+    "path": "data/ignores/toptal/raw/defold.gitignore",
+    "hash": "cb2b030310a4a1e3cd032060b6dbf7339a33c15ce888159c081bf827baf85c58"
+  },
+  {
+    "id": "toptal:delphi",
+    "source": "toptal",
+    "key": "delphi",
+    "name": "Delphi",
+    "aliases": ["delphi"],
+    "path": "data/ignores/toptal/raw/delphi.gitignore",
+    "hash": "58d5f0e43ed7a3d389402da30cee0414c72c7c28499fa4e2bd6be29d5114c68b"
+  },
+  {
+    "id": "toptal:deno",
+    "source": "toptal",
+    "key": "deno",
+    "name": "Deno",
+    "aliases": ["deno"],
+    "path": "data/ignores/toptal/raw/deno.gitignore",
+    "hash": "336e93e5dcf32e342caa587ad58ffcfd230a80f3fdb92390a042ccfaef6674a9"
+  },
+  {
+    "id": "toptal:dframe",
+    "source": "toptal",
+    "key": "dframe",
+    "name": "Dframe",
+    "aliases": ["dframe"],
+    "path": "data/ignores/toptal/raw/dframe.gitignore",
+    "hash": "42282cf50f4bb588116a19ce06027f3d3a78ed1367217d17dd4efaa52177dacf"
+  },
+  {
+    "id": "toptal:diff",
+    "source": "toptal",
+    "key": "diff",
+    "name": "Diff",
+    "aliases": ["diff"],
+    "path": "data/ignores/toptal/raw/diff.gitignore",
+    "hash": "fc27251254deca9469cdeecf87f85f4d82c5efd0e99749afae9a2c62219115a4"
+  },
+  {
+    "id": "toptal:direnv",
+    "source": "toptal",
+    "key": "direnv",
+    "name": "direnv",
+    "aliases": ["direnv"],
+    "path": "data/ignores/toptal/raw/direnv.gitignore",
+    "hash": "5d01bd0ed9b60231ebaaad9badc04f304859f89a1839fdf2d2dc82d9425af198"
+  },
+  {
+    "id": "toptal:diskimage",
+    "source": "toptal",
+    "key": "diskimage",
+    "name": "DiskImage",
+    "aliases": ["diskimage"],
+    "path": "data/ignores/toptal/raw/diskimage.gitignore",
+    "hash": "1e9e9df6efbbf063ae29b791bfd2b211ea9753b5bb015468ea09411b5b243eed"
+  },
+  {
+    "id": "toptal:django",
+    "source": "toptal",
+    "key": "django",
+    "name": "Django",
+    "aliases": ["django"],
+    "path": "data/ignores/toptal/raw/django.gitignore",
+    "hash": "c8a7fab5fe49e33fc29a72815cfba2dec70b05560d586235d7c80eb9334cc743"
+  },
+  {
+    "id": "toptal:dm",
+    "source": "toptal",
+    "key": "dm",
+    "name": "DM",
+    "aliases": ["dm"],
+    "path": "data/ignores/toptal/raw/dm.gitignore",
+    "hash": "05d08ea756c2d57353d6758114cdf1d9b99026bd7a6eef9a21f8b7fee9f29469"
+  },
+  {
+    "id": "toptal:docfx",
+    "source": "toptal",
+    "key": "docfx",
+    "name": "DocFx",
+    "aliases": ["docfx"],
+    "path": "data/ignores/toptal/raw/docfx.gitignore",
+    "hash": "952555b135469141721b111de9451c0379961c550310011a94f1ef8560c9e8ac"
+  },
+  {
+    "id": "toptal:docpress",
+    "source": "toptal",
+    "key": "docpress",
+    "name": "Docpress",
+    "aliases": ["docpress"],
+    "path": "data/ignores/toptal/raw/docpress.gitignore",
+    "hash": "a3a440ca71eb1ea6b70fd2b1000a5fbc2e2503fa662abbffa1218b4953f5d21a"
+  },
+  {
+    "id": "toptal:docusaurus",
+    "source": "toptal",
+    "key": "docusaurus",
+    "name": "Docusaurus",
+    "aliases": ["docusaurus"],
+    "path": "data/ignores/toptal/raw/docusaurus.gitignore",
+    "hash": "6dfc015186eb30944d41605c126fea3813f0969ad4c6ac8db93c8b08c86b9dbd"
+  },
+  {
+    "id": "toptal:docz",
+    "source": "toptal",
+    "key": "docz",
+    "name": "Docz",
+    "aliases": ["docz"],
+    "path": "data/ignores/toptal/raw/docz.gitignore",
+    "hash": "19256848c2a8a2284fbdc4e5d7a2ea676ce56e3b92da109f1cbaea8e29b80105"
+  },
+  {
+    "id": "toptal:dotenv",
+    "source": "toptal",
+    "key": "dotenv",
+    "name": "dotenv",
+    "aliases": ["dotenv"],
+    "path": "data/ignores/toptal/raw/dotenv.gitignore",
+    "hash": "28159e0fc28f99691f8af644d126508d4ba1c5baaeecb8310fac9d04c6c554b2"
+  },
+  {
+    "id": "toptal:dotfilessh",
+    "source": "toptal",
+    "key": "dotfilessh",
+    "name": "DotfilesSh",
+    "aliases": ["dotfilessh"],
+    "path": "data/ignores/toptal/raw/dotfilessh.gitignore",
+    "hash": "aad83a780fb71a9c07d2810e396ff3fddbc72ce7c393149b39618aaa9422a116"
+  },
+  {
+    "id": "toptal:dotnetcore",
+    "source": "toptal",
+    "key": "dotnetcore",
+    "name": "DotnetCore",
+    "aliases": ["dotnetcore"],
+    "path": "data/ignores/toptal/raw/dotnetcore.gitignore",
+    "hash": "e3e032f8800895c71945b424fe95f227a71493648c816c8d9ae70ac71e037663"
+  },
+  {
+    "id": "toptal:dotsettings",
+    "source": "toptal",
+    "key": "dotsettings",
+    "name": "DotSettings",
+    "aliases": ["dotsettings"],
+    "path": "data/ignores/toptal/raw/dotsettings.gitignore",
+    "hash": "cea368b7edaf2d132b83ddf72b4ad88a4a95971722c79a297a6104938717a07c"
+  },
+  {
+    "id": "toptal:doxygen",
+    "source": "toptal",
+    "key": "doxygen",
+    "name": "Doxygen",
+    "aliases": ["doxygen"],
+    "path": "data/ignores/toptal/raw/doxygen.gitignore",
+    "hash": "9298569cf7d31150de7bd9adbd2614d0ab255af94c364f7c94c4ffa20f70850c"
+  },
+  {
+    "id": "toptal:dreamweaver",
+    "source": "toptal",
+    "key": "dreamweaver",
+    "name": "Dreamweaver",
+    "aliases": ["dreamweaver"],
+    "path": "data/ignores/toptal/raw/dreamweaver.gitignore",
+    "hash": "a28b55954e4f3db051a41fe064dd067165102f691fd5722ba480b8d16a349556"
+  },
+  {
+    "id": "toptal:dropbox",
+    "source": "toptal",
+    "key": "dropbox",
+    "name": "Dropbox",
+    "aliases": ["dropbox"],
+    "path": "data/ignores/toptal/raw/dropbox.gitignore",
+    "hash": "e2a2e3de423d4f30508586009b7b5df3258416500832e951edcefc0845abab15"
+  },
+  {
+    "id": "toptal:drupal",
+    "source": "toptal",
+    "key": "drupal",
+    "name": "Drupal",
+    "aliases": ["drupal"],
+    "path": "data/ignores/toptal/raw/drupal.gitignore",
+    "hash": "3791492c665b2c5599610a51f16054080aa9548d8621f05c86b2c68444d0a0ec"
+  },
+  {
+    "id": "toptal:drupal7",
+    "source": "toptal",
+    "key": "drupal7",
+    "name": "Drupal7",
+    "aliases": ["drupal7"],
+    "path": "data/ignores/toptal/raw/drupal7.gitignore",
+    "hash": "ca1783c93ab489243405f2b2c53267cc32961c0decd27102081de21be7421c3a"
+  },
+  {
+    "id": "toptal:drupal8",
+    "source": "toptal",
+    "key": "drupal8",
+    "name": "Drupal8",
+    "aliases": ["drupal8"],
+    "path": "data/ignores/toptal/raw/drupal8.gitignore",
+    "hash": "426ddad6981d5029172844596dc8ab58b7a40483190823c73bd7c7cb593a0819"
+  },
+  {
+    "id": "toptal:e2studio",
+    "source": "toptal",
+    "key": "e2studio",
+    "name": "e2studio",
+    "aliases": ["e2studio"],
+    "path": "data/ignores/toptal/raw/e2studio.gitignore",
+    "hash": "928b18a77500642d198b04ad3752abeeca4fefba69e160b1653a4003cad2ec83"
+  },
+  {
+    "id": "toptal:eagle",
+    "source": "toptal",
+    "key": "eagle",
+    "name": "Eagle",
+    "aliases": ["eagle"],
+    "path": "data/ignores/toptal/raw/eagle.gitignore",
+    "hash": "a1a2b500066bd49ecf7fbfac2b24f1db39e61ff6169efa8ad55573b4c300d925"
+  },
+  {
+    "id": "toptal:easybook",
+    "source": "toptal",
+    "key": "easybook",
+    "name": "easybook",
+    "aliases": ["easybook"],
+    "path": "data/ignores/toptal/raw/easybook.gitignore",
+    "hash": "498c947f19e84552562b3dd3916558e4cf9983e283f42192742e068f5457df9c"
+  },
+  {
+    "id": "toptal:eclipse",
+    "source": "toptal",
+    "key": "eclipse",
+    "name": "Eclipse",
+    "aliases": ["eclipse"],
+    "path": "data/ignores/toptal/raw/eclipse.gitignore",
+    "hash": "e8572975a9d999d52cfc6e7c44a114c50cb95b982c2f13a2aa49010e4f166852"
+  },
+  {
+    "id": "toptal:eiffelstudio",
+    "source": "toptal",
+    "key": "eiffelstudio",
+    "name": "EiffelStudio",
+    "aliases": ["eiffelstudio"],
+    "path": "data/ignores/toptal/raw/eiffelstudio.gitignore",
+    "hash": "534e387d62ede87fb7d656f50613b176c749c96bc59ffc92d29713b4c19ff4a0"
+  },
+  {
+    "id": "toptal:elasticbeanstalk",
+    "source": "toptal",
+    "key": "elasticbeanstalk",
+    "name": "ElasticBeanstalk",
+    "aliases": ["elasticbeanstalk"],
+    "path": "data/ignores/toptal/raw/elasticbeanstalk.gitignore",
+    "hash": "9cd99440d5d1169000ef46b308f656fff48a9a4239c5fcafe1ceaf253a107b42"
+  },
+  {
+    "id": "toptal:elisp",
+    "source": "toptal",
+    "key": "elisp",
+    "name": "Elisp",
+    "aliases": ["elisp"],
+    "path": "data/ignores/toptal/raw/elisp.gitignore",
+    "hash": "5493a76d2aa51525a74acac082fe64c07ed098f2b0c1ddbc77c923396067ebd6"
+  },
+  {
+    "id": "toptal:elixir",
+    "source": "toptal",
+    "key": "elixir",
+    "name": "Elixir",
+    "aliases": ["elixir"],
+    "path": "data/ignores/toptal/raw/elixir.gitignore",
+    "hash": "0b02e3f0cfc6bf82a97657754afa4d7346a37412833755156d9abd40a4dba3cf"
+  },
+  {
+    "id": "toptal:elm",
+    "source": "toptal",
+    "key": "elm",
+    "name": "Elm",
+    "aliases": ["elm"],
+    "path": "data/ignores/toptal/raw/elm.gitignore",
+    "hash": "0b706452b32894a246210da36cdc19ef565f375c5c3e825386c3ece3fd6ddeb1"
+  },
+  {
+    "id": "toptal:emacs",
+    "source": "toptal",
+    "key": "emacs",
+    "name": "Emacs",
+    "aliases": ["emacs"],
+    "path": "data/ignores/toptal/raw/emacs.gitignore",
+    "hash": "42611a8db31c89f8c06dc1cacdf7eea77cbdeba19decb26e9c70a4f47f1e7e00"
+  },
+  {
+    "id": "toptal:ember",
+    "source": "toptal",
+    "key": "ember",
+    "name": "Ember",
+    "aliases": ["ember"],
+    "path": "data/ignores/toptal/raw/ember.gitignore",
+    "hash": "909c2c2265f92cf31c778b3a2c734c525839de9870b59423c34ce2afe92927d0"
+  },
+  {
+    "id": "toptal:ensime",
+    "source": "toptal",
+    "key": "ensime",
+    "name": "Ensime",
+    "aliases": ["ensime"],
+    "path": "data/ignores/toptal/raw/ensime.gitignore",
+    "hash": "56de3e7cdaa8ca9a2cbe49b08d2c6f096b0522266cfb9bfd9213e1db6e8b9ff8"
+  },
+  {
+    "id": "toptal:episerver",
+    "source": "toptal",
+    "key": "episerver",
+    "name": "EPiServer",
+    "aliases": ["episerver"],
+    "path": "data/ignores/toptal/raw/episerver.gitignore",
+    "hash": "36bee228ea0b261c9eec60476426672841084c8533f06106e3c4571b0204d183"
+  },
+  {
+    "id": "toptal:erlang",
+    "source": "toptal",
+    "key": "erlang",
+    "name": "Erlang",
+    "aliases": ["erlang"],
+    "path": "data/ignores/toptal/raw/erlang.gitignore",
+    "hash": "2cc2beb0ba94b63cd193d0dbd71eed724554a6814e0d4c1ba4317a8b77ecbb14"
+  },
+  {
+    "id": "toptal:espresso",
+    "source": "toptal",
+    "key": "espresso",
+    "name": "Espresso",
+    "aliases": ["espresso"],
+    "path": "data/ignores/toptal/raw/espresso.gitignore",
+    "hash": "b0b5fd29dbdacd08274edac8cb9b4f3fa6d2615d2ce602988b16688d636632f3"
+  },
+  {
+    "id": "toptal:executable",
+    "source": "toptal",
+    "key": "executable",
+    "name": "Executable",
+    "aliases": ["executable"],
+    "path": "data/ignores/toptal/raw/executable.gitignore",
+    "hash": "bc149cdd775c2cd5caeae74909505a3a554ef0eee8ea7b248c1949002223e5d8"
+  },
+  {
+    "id": "toptal:exercism",
+    "source": "toptal",
+    "key": "exercism",
+    "name": "Exercism",
+    "aliases": ["exercism"],
+    "path": "data/ignores/toptal/raw/exercism.gitignore",
+    "hash": "d8b9015b6e92ab91912786cb27f15149c99f3a2290d64db2f65696b2bb45b609"
+  },
+  {
+    "id": "toptal:expressionengine",
+    "source": "toptal",
+    "key": "expressionengine",
+    "name": "ExpressionEngine",
+    "aliases": ["expressionengine"],
+    "path": "data/ignores/toptal/raw/expressionengine.gitignore",
+    "hash": "582ca3a8689076733d07f4eab6e2a62dc897e8c505e67d09a951f04c4118f9fd"
+  },
+  {
+    "id": "toptal:extjs",
+    "source": "toptal",
+    "key": "extjs",
+    "name": "ExtJs",
+    "aliases": ["extjs"],
+    "path": "data/ignores/toptal/raw/extjs.gitignore",
+    "hash": "fa133308c03f55be96ef0c173124c058acfa8ee274d2c4f77ffb1624aa55b1ee"
+  },
+  {
+    "id": "toptal:fancy",
+    "source": "toptal",
+    "key": "fancy",
+    "name": "Fancy",
+    "aliases": ["fancy"],
+    "path": "data/ignores/toptal/raw/fancy.gitignore",
+    "hash": "19c1af35598049dd07656bb29b8a33c6b0a7b27595f4b99d7f3524651c3a23cf"
+  },
+  {
+    "id": "toptal:fastlane",
+    "source": "toptal",
+    "key": "fastlane",
+    "name": "fastlane",
+    "aliases": ["fastlane"],
+    "path": "data/ignores/toptal/raw/fastlane.gitignore",
+    "hash": "b8e5dbd3bcdbd5b2db437c164215bd9040fb40d301812b342fbb37f42127eb13"
+  },
+  {
+    "id": "toptal:finale",
+    "source": "toptal",
+    "key": "finale",
+    "name": "Finale",
+    "aliases": ["finale"],
+    "path": "data/ignores/toptal/raw/finale.gitignore",
+    "hash": "6bb7a8479f467effcfa904d5362b77c8038d9a1efaafa1f7a174605240363432"
+  },
+  {
+    "id": "toptal:firebase",
+    "source": "toptal",
+    "key": "firebase",
+    "name": "Firebase",
+    "aliases": ["firebase"],
+    "path": "data/ignores/toptal/raw/firebase.gitignore",
+    "hash": "7607af21b3bda032623b5c3fb8e94ec765533772c1d1d5fc28c3943c70b39831"
+  },
+  {
+    "id": "toptal:fish",
+    "source": "toptal",
+    "key": "fish",
+    "name": "Fish",
+    "aliases": ["fish"],
+    "path": "data/ignores/toptal/raw/fish.gitignore",
+    "hash": "7785e5305c5415287b56b5596963693b37ddb204f8045bb18afcbe57398f2bb0"
+  },
+  {
+    "id": "toptal:flashbuilder",
+    "source": "toptal",
+    "key": "flashbuilder",
+    "name": "FlashBuilder",
+    "aliases": ["flashbuilder"],
+    "path": "data/ignores/toptal/raw/flashbuilder.gitignore",
+    "hash": "1e408cbb8ebebd8b3489f1c2ed2a0d66ebd1a9bf8ee57cb75f69e759a923ad9c"
+  },
+  {
+    "id": "toptal:flask",
+    "source": "toptal",
+    "key": "flask",
+    "name": "Flask",
+    "aliases": ["flask"],
+    "path": "data/ignores/toptal/raw/flask.gitignore",
+    "hash": "5b921909f37d92eb33b77bdb0934942597774871ed0d9372d2b699fd8a0b1a1b"
+  },
+  {
+    "id": "toptal:flatpak",
+    "source": "toptal",
+    "key": "flatpak",
+    "name": "Flatpak",
+    "aliases": ["flatpak"],
+    "path": "data/ignores/toptal/raw/flatpak.gitignore",
+    "hash": "159a3b75eaf3fef0175b91d4c248db667ce0c6ccc8ea50a11210b451bc1d0cae"
+  },
+  {
+    "id": "toptal:flex",
+    "source": "toptal",
+    "key": "flex",
+    "name": "Flex",
+    "aliases": ["flex"],
+    "path": "data/ignores/toptal/raw/flex.gitignore",
+    "hash": "4e5db0d2c7cf275b7014613ef87b2d4fbd538530a58204433a1042a7d66870ce"
+  },
+  {
+    "id": "toptal:flexbuilder",
+    "source": "toptal",
+    "key": "flexbuilder",
+    "name": "FlexBuilder",
+    "aliases": ["flexbuilder"],
+    "path": "data/ignores/toptal/raw/flexbuilder.gitignore",
+    "hash": "33869baf0f00c256b12388046a837666c4255555b7d61b618a0df52b15b4bf98"
+  },
+  {
+    "id": "toptal:floobits",
+    "source": "toptal",
+    "key": "floobits",
+    "name": "floobits",
+    "aliases": ["floobits"],
+    "path": "data/ignores/toptal/raw/floobits.gitignore",
+    "hash": "724e50aced46d66bdd776f540def3df009fe4483d86d6c7a27b5301ed6aaf0d0"
+  },
+  {
+    "id": "toptal:flutter",
+    "source": "toptal",
+    "key": "flutter",
+    "name": "Flutter",
+    "aliases": ["flutter"],
+    "path": "data/ignores/toptal/raw/flutter.gitignore",
+    "hash": "01106e3eac8b067a201ebc783924845c7702e0499deed9169db8d9e34411b98d"
+  },
+  {
+    "id": "toptal:font",
+    "source": "toptal",
+    "key": "font",
+    "name": "Font",
+    "aliases": ["font"],
+    "path": "data/ignores/toptal/raw/font.gitignore",
+    "hash": "c3910515df4ae639efcd94d0d9a2de30a604613fe307c276e6f2eba42347d225"
+  },
+  {
+    "id": "toptal:fontforge",
+    "source": "toptal",
+    "key": "fontforge",
+    "name": "FontForge",
+    "aliases": ["fontforge"],
+    "path": "data/ignores/toptal/raw/fontforge.gitignore",
+    "hash": "27d8f82882b145661c76f82ff282f645ab57ecc89db3af37070543746006aef4"
+  },
+  {
+    "id": "toptal:forcedotcom",
+    "source": "toptal",
+    "key": "forcedotcom",
+    "name": "ForceDotCom",
+    "aliases": ["forcedotcom"],
+    "path": "data/ignores/toptal/raw/forcedotcom.gitignore",
+    "hash": "82282ed024a55bfe7f5dec2aa63f7e73fd6b923cfba53bb8fc3963cca34f2569"
+  },
+  {
+    "id": "toptal:forgegradle",
+    "source": "toptal",
+    "key": "forgegradle",
+    "name": "ForgeGradle",
+    "aliases": ["forgegradle"],
+    "path": "data/ignores/toptal/raw/forgegradle.gitignore",
+    "hash": "de8facc719d7979e703aec220229ffe8f1a065bc1f912d0f9b8e93f6770b99ae"
+  },
+  {
+    "id": "toptal:fortran",
+    "source": "toptal",
+    "key": "fortran",
+    "name": "Fortran",
+    "aliases": ["fortran"],
+    "path": "data/ignores/toptal/raw/fortran.gitignore",
+    "hash": "08d8f6fbbb0ebfceb42b8581be51ba869c697ed311cde7dc9f42f157f15c6930"
+  },
+  {
+    "id": "toptal:freecad",
+    "source": "toptal",
+    "key": "freecad",
+    "name": "FreeCad",
+    "aliases": ["freecad"],
+    "path": "data/ignores/toptal/raw/freecad.gitignore",
+    "hash": "03d975d38c633548175e023c389330820648bacc2be1a3c0466a408db6dd1f54"
+  },
+  {
+    "id": "toptal:freepascal",
+    "source": "toptal",
+    "key": "freepascal",
+    "name": "FreePascal",
+    "aliases": ["freepascal"],
+    "path": "data/ignores/toptal/raw/freepascal.gitignore",
+    "hash": "c1571d70f765063ca1875a458a6f1ca0aef700d342ee33eeba6a11100f19e0b2"
+  },
+  {
+    "id": "toptal:fsharp",
+    "source": "toptal",
+    "key": "fsharp",
+    "name": "fsharp",
+    "aliases": ["fsharp"],
+    "path": "data/ignores/toptal/raw/fsharp.gitignore",
+    "hash": "12ba0cd03cc7b1316f5e99b59c9328a8c8050c26e2ed72b0f4ab0ca74f9dca7d"
+  },
+  {
+    "id": "toptal:fuelphp",
+    "source": "toptal",
+    "key": "fuelphp",
+    "name": "FuelPHP",
+    "aliases": ["fuelphp"],
+    "path": "data/ignores/toptal/raw/fuelphp.gitignore",
+    "hash": "e48903ff95787ef9f099dbb96232c7d5fd79cbce113283bd0329b091b45c2f7d"
+  },
+  {
+    "id": "toptal:fusetools",
+    "source": "toptal",
+    "key": "fusetools",
+    "name": "FuseTools",
+    "aliases": ["fusetools"],
+    "path": "data/ignores/toptal/raw/fusetools.gitignore",
+    "hash": "30a27a20bd5d99580b9ecb51a2027eab8f6dce43c393899cfda3795512cebd58"
+  },
+  {
+    "id": "toptal:games",
+    "source": "toptal",
+    "key": "games",
+    "name": "Games",
+    "aliases": ["games"],
+    "path": "data/ignores/toptal/raw/games.gitignore",
+    "hash": "83cb1343343ed6e218200108d1d3ef605a832e242a85575427871f0cb9e8c2cc"
+  },
+  {
+    "id": "toptal:gatsby",
+    "source": "toptal",
+    "key": "gatsby",
+    "name": "Gatsby",
+    "aliases": ["gatsby"],
+    "path": "data/ignores/toptal/raw/gatsby.gitignore",
+    "hash": "408c813b1539f0b9a2c5d237743904c8dfc9830e532276a0c382553e86b076ee"
+  },
+  {
+    "id": "toptal:gcov",
+    "source": "toptal",
+    "key": "gcov",
+    "name": "Gcov",
+    "aliases": ["gcov"],
+    "path": "data/ignores/toptal/raw/gcov.gitignore",
+    "hash": "85826e66c3f6a857768895f6d58213dc941f2937b5f3a152429ff044137fa497"
+  },
+  {
+    "id": "toptal:genero4gl",
+    "source": "toptal",
+    "key": "genero4gl",
+    "name": "Genero4GL",
+    "aliases": ["genero4gl"],
+    "path": "data/ignores/toptal/raw/genero4gl.gitignore",
+    "hash": "5513c05b73d0abe81f68d6eea31cf31bd72959273c219fb34fbddb65d9b0610c"
+  },
+  {
+    "id": "toptal:geth",
+    "source": "toptal",
+    "key": "geth",
+    "name": "Geth",
+    "aliases": ["geth"],
+    "path": "data/ignores/toptal/raw/geth.gitignore",
+    "hash": "2ab25f5609c5223cafab6db131bec9a7d1e8c5861c6c233685171b87646f0772"
+  },
+  {
+    "id": "toptal:ggts",
+    "source": "toptal",
+    "key": "ggts",
+    "name": "GGTS",
+    "aliases": ["ggts"],
+    "path": "data/ignores/toptal/raw/ggts.gitignore",
+    "hash": "11f6e890aa83f64e5292b7da6ac24f6e326de774f16b4a16374a6b01560dbe0b"
+  },
+  {
+    "id": "toptal:gis",
+    "source": "toptal",
+    "key": "gis",
+    "name": "GIS",
+    "aliases": ["gis"],
+    "path": "data/ignores/toptal/raw/gis.gitignore",
+    "hash": "7585c2ca5160f47ca0551a0ed6f02f8b5cde4434d188ee446d5c2caaf049ea25"
+  },
+  {
+    "id": "toptal:git",
+    "source": "toptal",
+    "key": "git",
+    "name": "Git",
+    "aliases": ["git"],
+    "path": "data/ignores/toptal/raw/git.gitignore",
+    "hash": "30312089ccb3da7c9dce7947ba225c72ef7de8008d465e43ef11a3ae293ee71b"
+  },
+  {
+    "id": "toptal:gitbook",
+    "source": "toptal",
+    "key": "gitbook",
+    "name": "GitBook",
+    "aliases": ["gitbook"],
+    "path": "data/ignores/toptal/raw/gitbook.gitignore",
+    "hash": "38b1939c4c673c10343f2540fb90cc29e845b0414de2645806c70c14e2969fff"
+  },
+  {
+    "id": "toptal:go",
+    "source": "toptal",
+    "key": "go",
+    "name": "Go",
+    "aliases": ["go"],
+    "path": "data/ignores/toptal/raw/go.gitignore",
+    "hash": "add9c2d15cad366b01de6d30692b77dad53680a323fa4622d1fb8b46e0fc5a09"
+  },
+  {
+    "id": "toptal:godot",
+    "source": "toptal",
+    "key": "godot",
+    "name": "Godot",
+    "aliases": ["godot"],
+    "path": "data/ignores/toptal/raw/godot.gitignore",
+    "hash": "1186a07b16c672b197704b7573430cc35fcb688f5658f936f1d2e137edab2811"
+  },
+  {
+    "id": "toptal:goland",
+    "source": "toptal",
+    "key": "goland",
+    "name": "GoLand",
+    "aliases": ["goland"],
+    "path": "data/ignores/toptal/raw/goland.gitignore",
+    "hash": "e4c2b00a5549e4c2594cbb5d96aa371299030bbfa5e6a0c11d9fc0285373db1e"
+  },
+  {
+    "id": "toptal:golandplusall",
+    "source": "toptal",
+    "key": "golandplusall",
+    "name": "GoLand+all",
+    "aliases": ["goland+all", "golandplusall"],
+    "path": "data/ignores/toptal/raw/golandplusall.gitignore",
+    "hash": "c5a486f6ba8c6bf7e3d605498136bed1e2a95104700b4b1b1aa2a187c7f369fa"
+  },
+  {
+    "id": "toptal:golandplusiml",
+    "source": "toptal",
+    "key": "golandplusiml",
+    "name": "GoLand+iml",
+    "aliases": ["goland+iml", "golandplusiml"],
+    "path": "data/ignores/toptal/raw/golandplusiml.gitignore",
+    "hash": "c8d3b12e38c7acb6d992514198501d8c2542581819d2e808f6a943d20a01f7bc"
+  },
+  {
+    "id": "toptal:goodsync",
+    "source": "toptal",
+    "key": "goodsync",
+    "name": "GoodSync",
+    "aliases": ["goodsync"],
+    "path": "data/ignores/toptal/raw/goodsync.gitignore",
+    "hash": "ae5ae801be5128a239dc65947b2bc32fd483d07e45d54a4d9f784b9d3eedb6af"
+  },
+  {
+    "id": "toptal:gpg",
+    "source": "toptal",
+    "key": "gpg",
+    "name": "GPG",
+    "aliases": ["gpg"],
+    "path": "data/ignores/toptal/raw/gpg.gitignore",
+    "hash": "62788a4f9cd51c2f00816e17b10fdae46793c44d19d3ad62180c63e350a463d7"
+  },
+  {
+    "id": "toptal:gradle",
+    "source": "toptal",
+    "key": "gradle",
+    "name": "Gradle",
+    "aliases": ["gradle"],
+    "path": "data/ignores/toptal/raw/gradle.gitignore",
+    "hash": "721f23988d624d83aa2218260198525a578893d6512052bd3c657c971ed9a6fd"
+  },
+  {
+    "id": "toptal:grails",
+    "source": "toptal",
+    "key": "grails",
+    "name": "Grails",
+    "aliases": ["grails"],
+    "path": "data/ignores/toptal/raw/grails.gitignore",
+    "hash": "541b550b3aeedae1265f36e113ed0436600a31bb74bc13c2f203ebaef6a5df7f"
+  },
+  {
+    "id": "toptal:greenfoot",
+    "source": "toptal",
+    "key": "greenfoot",
+    "name": "greenfoot",
+    "aliases": ["greenfoot"],
+    "path": "data/ignores/toptal/raw/greenfoot.gitignore",
+    "hash": "62c864c523b9f5c301c074d1905d4d01d26319d9433780aa8ed829b18c46f07e"
+  },
+  {
+    "id": "toptal:groovy",
+    "source": "toptal",
+    "key": "groovy",
+    "name": "Groovy",
+    "aliases": ["groovy"],
+    "path": "data/ignores/toptal/raw/groovy.gitignore",
+    "hash": "d80ba2addbbf72cc15630d93f873dd12afe07c3dbb37a629432c764b53fc35dd"
+  },
+  {
+    "id": "toptal:grunt",
+    "source": "toptal",
+    "key": "grunt",
+    "name": "grunt",
+    "aliases": ["grunt"],
+    "path": "data/ignores/toptal/raw/grunt.gitignore",
+    "hash": "3643c7d6d416368c3956e12a2d3c658b80a1d6014ddbd7d154ffa8ead03e44f2"
+  },
+  {
+    "id": "toptal:gwt",
+    "source": "toptal",
+    "key": "gwt",
+    "name": "GWT",
+    "aliases": ["gwt"],
+    "path": "data/ignores/toptal/raw/gwt.gitignore",
+    "hash": "3912374f42ea1b9b682a38684a668b273d67b58cbb436144e0d41736fb7450c7"
+  },
+  {
+    "id": "toptal:haskell",
+    "source": "toptal",
+    "key": "haskell",
+    "name": "Haskell",
+    "aliases": ["haskell"],
+    "path": "data/ignores/toptal/raw/haskell.gitignore",
+    "hash": "e38fcef658b0cd6da512496ec91b0dea6f4dda585e1d3c04b84fbaa362d3aae9"
+  },
+  {
+    "id": "toptal:helm",
+    "source": "toptal",
+    "key": "helm",
+    "name": "Helm",
+    "aliases": ["helm"],
+    "path": "data/ignores/toptal/raw/helm.gitignore",
+    "hash": "cb36b48988b3ab5ac8589849857d3474226b627c5b4c442286e4127cb0b2d213"
+  },
+  {
+    "id": "toptal:hexo",
+    "source": "toptal",
+    "key": "hexo",
+    "name": "Hexo",
+    "aliases": ["hexo"],
+    "path": "data/ignores/toptal/raw/hexo.gitignore",
+    "hash": "0a3ff5422f1c4daf4deb18726fc872650c963da3cdeadfb3d5c270d958d2593c"
+  },
+  {
+    "id": "toptal:hol",
+    "source": "toptal",
+    "key": "hol",
+    "name": "HOL",
+    "aliases": ["hol"],
+    "path": "data/ignores/toptal/raw/hol.gitignore",
+    "hash": "7696080415b3209a0a54b9c1a0ce91016491104e5ec3bfe893f37515a6a07e8d"
+  },
+  {
+    "id": "toptal:homeassistant",
+    "source": "toptal",
+    "key": "homeassistant",
+    "name": "HomeAssistant",
+    "aliases": ["homeassistant"],
+    "path": "data/ignores/toptal/raw/homeassistant.gitignore",
+    "hash": "e1394a904d8fe4e9c06512d4d3ed726f6dac1fb2da65644e65225604a99acdc5"
+  },
+  {
+    "id": "toptal:homebrew",
+    "source": "toptal",
+    "key": "homebrew",
+    "name": "Homebrew",
+    "aliases": ["homebrew"],
+    "path": "data/ignores/toptal/raw/homebrew.gitignore",
+    "hash": "1f7254ce35cd51cae88c47ba8d22eb56de4fea6614e8fe774856a89de06be8d2"
+  },
+  {
+    "id": "toptal:hsp",
+    "source": "toptal",
+    "key": "hsp",
+    "name": "HSP",
+    "aliases": ["hsp"],
+    "path": "data/ignores/toptal/raw/hsp.gitignore",
+    "hash": "c86421109e0580fc2bbc425049e183e921b1063e0758b7e733a92defe5e6f35c"
+  },
+  {
+    "id": "toptal:hugo",
+    "source": "toptal",
+    "key": "hugo",
+    "name": "Hugo",
+    "aliases": ["hugo"],
+    "path": "data/ignores/toptal/raw/hugo.gitignore",
+    "hash": "c8be12aebfe7b29302c63f4c33494aac748a4d61608628fdfa66e27b8e67db5e"
+  },
+  {
+    "id": "toptal:hyperledgercomposer",
+    "source": "toptal",
+    "key": "hyperledgercomposer",
+    "name": "HyperledgerComposer",
+    "aliases": ["hyperledgercomposer"],
+    "path": "data/ignores/toptal/raw/hyperledgercomposer.gitignore",
+    "hash": "08220c2c9bd1a04010103b75ad699a3e665e32ac9554ba920ef031fdf59f92b4"
+  },
+  {
+    "id": "toptal:iar",
+    "source": "toptal",
+    "key": "iar",
+    "name": "IAR",
+    "aliases": ["iar"],
+    "path": "data/ignores/toptal/raw/iar.gitignore",
+    "hash": "9103ce0918a9e63ffb2e080b9668de023d409f43d5f3d90ec23baf47a51510bf"
+  },
+  {
+    "id": "toptal:iar-ewarm",
+    "source": "toptal",
+    "key": "iar-ewarm",
+    "name": "IAR_EWARM",
+    "aliases": ["iar-ewarm", "iar_ewarm"],
+    "path": "data/ignores/toptal/raw/iar-ewarm.gitignore",
+    "hash": "42a192865e7d6bac7a7a846c0d8f67836810dd14b884bf10ca49146bb354c55b"
+  },
+  {
+    "id": "toptal:iarembeddedworkbench",
+    "source": "toptal",
+    "key": "iarembeddedworkbench",
+    "name": "IAREmbeddedWorkBench",
+    "aliases": ["iarembeddedworkbench"],
+    "path": "data/ignores/toptal/raw/iarembeddedworkbench.gitignore",
+    "hash": "906d2d75f9901ead9fb970a494048cf70a18c861f230b026d2f025543876b931"
+  },
+  {
+    "id": "toptal:idapro",
+    "source": "toptal",
+    "key": "idapro",
+    "name": "IDAPro",
+    "aliases": ["idapro"],
+    "path": "data/ignores/toptal/raw/idapro.gitignore",
+    "hash": "81aa6d21ef99b9c02a7d3c27ef9c562325e1b62338098ecc01a8f9e0ca847ca1"
+  },
+  {
+    "id": "toptal:idris",
+    "source": "toptal",
+    "key": "idris",
+    "name": "Idris",
+    "aliases": ["idris"],
+    "path": "data/ignores/toptal/raw/idris.gitignore",
+    "hash": "4bb12e1f898fee219b506ebcfc5d084df069c0285fa09b9e671b8ff56732f1cd"
+  },
+  {
+    "id": "toptal:igorpro",
+    "source": "toptal",
+    "key": "igorpro",
+    "name": "IGORPro",
+    "aliases": ["igorpro"],
+    "path": "data/ignores/toptal/raw/igorpro.gitignore",
+    "hash": "0a360b7d8246a35707976e33971f15e5899c5614d45dae3fc0c97a22d37804d5"
+  },
+  {
+    "id": "toptal:images",
+    "source": "toptal",
+    "key": "images",
+    "name": "Images",
+    "aliases": ["images"],
+    "path": "data/ignores/toptal/raw/images.gitignore",
+    "hash": "a48473c3e82e06e163b6d2868c774df9f341b40decb478b9636eb06e9835d076"
+  },
+  {
+    "id": "toptal:infer",
+    "source": "toptal",
+    "key": "infer",
+    "name": "infer",
+    "aliases": ["infer"],
+    "path": "data/ignores/toptal/raw/infer.gitignore",
+    "hash": "09a24a28f7d2ba78def28a2e32a2aff3be90f74e88f16b95f0567f98eb2671f3"
+  },
+  {
+    "id": "toptal:inforcms",
+    "source": "toptal",
+    "key": "inforcms",
+    "name": "InforCMS",
+    "aliases": ["inforcms"],
+    "path": "data/ignores/toptal/raw/inforcms.gitignore",
+    "hash": "e48c33bcb9fa4a66df25d741104fc2519e14f44f8aff64afedaf04c6ba89db54"
+  },
+  {
+    "id": "toptal:inforcrm",
+    "source": "toptal",
+    "key": "inforcrm",
+    "name": "InforCRM",
+    "aliases": ["inforcrm"],
+    "path": "data/ignores/toptal/raw/inforcrm.gitignore",
+    "hash": "34dc1b102b2d526075fcd6384ba651ba0b39b9ee15183f15a63179a3659ba7c9"
+  },
+  {
+    "id": "toptal:intellij",
+    "source": "toptal",
+    "key": "intellij",
+    "name": "Intellij",
+    "aliases": ["intellij"],
+    "path": "data/ignores/toptal/raw/intellij.gitignore",
+    "hash": "1d5f2c698745500307cdfaa26e1caec7dda7fdf0c2d87291286923006d7762e7"
+  },
+  {
+    "id": "toptal:intellijplusall",
+    "source": "toptal",
+    "key": "intellijplusall",
+    "name": "Intellij+all",
+    "aliases": ["intellij+all", "intellijplusall"],
+    "path": "data/ignores/toptal/raw/intellijplusall.gitignore",
+    "hash": "c5663e6d360cbd1c53e29bc84fb0ce2c2ad6c719cef1176af41820a53e46fa2b"
+  },
+  {
+    "id": "toptal:intellijplusiml",
+    "source": "toptal",
+    "key": "intellijplusiml",
+    "name": "Intellij+iml",
+    "aliases": ["intellij+iml", "intellijplusiml"],
+    "path": "data/ignores/toptal/raw/intellijplusiml.gitignore",
+    "hash": "504d1870957a1090ee9b117dc769a59328b5bc95430b92b298b506e7b09bf196"
+  },
+  {
+    "id": "toptal:ionic3",
+    "source": "toptal",
+    "key": "ionic3",
+    "name": "Ionic3",
+    "aliases": ["ionic3"],
+    "path": "data/ignores/toptal/raw/ionic3.gitignore",
+    "hash": "f4ae97f6b5f0b9f81261becff3453558f7966186a5f278ce41ce18e4b6b3223a"
+  },
+  {
+    "id": "toptal:jabref",
+    "source": "toptal",
+    "key": "jabref",
+    "name": "JabRef",
+    "aliases": ["jabref"],
+    "path": "data/ignores/toptal/raw/jabref.gitignore",
+    "hash": "5c1480b0ce3d5f9b60ca338c59582c0e461ed0136e3adc9c52b2bc0b97d5c2db"
+  },
+  {
+    "id": "toptal:janet",
+    "source": "toptal",
+    "key": "janet",
+    "name": "Janet",
+    "aliases": ["janet"],
+    "path": "data/ignores/toptal/raw/janet.gitignore",
+    "hash": "37153f59640c64c2cdc4e181b9ebedd4388c4b88e22be1c508e779c9c488a1f8"
+  },
+  {
+    "id": "toptal:java",
+    "source": "toptal",
+    "key": "java",
+    "name": "Java",
+    "aliases": ["java"],
+    "path": "data/ignores/toptal/raw/java.gitignore",
+    "hash": "e5584abd0c909dcd77eb2b361770de872a2f0bfbf1e842a5cc5a90d8f50e57b7"
+  },
+  {
+    "id": "toptal:jboss",
+    "source": "toptal",
+    "key": "jboss",
+    "name": "JBoss",
+    "aliases": ["jboss"],
+    "path": "data/ignores/toptal/raw/jboss.gitignore",
+    "hash": "87e9cd60b595d6f233673335be11218d56c52c1aca040f0b19129a968ec76522"
+  },
+  {
+    "id": "toptal:jboss-4-2-3-ga",
+    "source": "toptal",
+    "key": "jboss-4-2-3-ga",
+    "name": "JBoss-4-2-3-GA",
+    "aliases": ["jboss-4-2-3-ga"],
+    "path": "data/ignores/toptal/raw/jboss-4-2-3-ga.gitignore",
+    "hash": "59c87853b8f711be9d1f6790312a06f53a12c0c601f7a9589b25e9ae87f05f99"
+  },
+  {
+    "id": "toptal:jboss-6-x",
+    "source": "toptal",
+    "key": "jboss-6-x",
+    "name": "JBoss-6-x",
+    "aliases": ["jboss-6-x"],
+    "path": "data/ignores/toptal/raw/jboss-6-x.gitignore",
+    "hash": "2292b736b62602b2189be6d466f42ba256535c33abfd1d00b961a362a5b4d34b"
+  },
+  {
+    "id": "toptal:jboss4",
+    "source": "toptal",
+    "key": "jboss4",
+    "name": "JBoss4",
+    "aliases": ["jboss4"],
+    "path": "data/ignores/toptal/raw/jboss4.gitignore",
+    "hash": "a64d1e4fde344db90cc4a3faa4f136218b9ac100f6f677b38f17181a2bef9cd8"
+  },
+  {
+    "id": "toptal:jboss6",
+    "source": "toptal",
+    "key": "jboss6",
+    "name": "JBoss6",
+    "aliases": ["jboss6"],
+    "path": "data/ignores/toptal/raw/jboss6.gitignore",
+    "hash": "560cd55201bd1c160e228dbd3eec46d873731a22cc0cb6ea1697c8d11f496797"
+  },
+  {
+    "id": "toptal:jdeveloper",
+    "source": "toptal",
+    "key": "jdeveloper",
+    "name": "JDeveloper",
+    "aliases": ["jdeveloper"],
+    "path": "data/ignores/toptal/raw/jdeveloper.gitignore",
+    "hash": "0ee50005b9055452075894de6f1b11520ffd9b81d0d48674dcbbd7a559b8cc35"
+  },
+  {
+    "id": "toptal:jekyll",
+    "source": "toptal",
+    "key": "jekyll",
+    "name": "Jekyll",
+    "aliases": ["jekyll"],
+    "path": "data/ignores/toptal/raw/jekyll.gitignore",
+    "hash": "db47db5454bae1f346c6f615d9f8c73780454655f5247f40131142ebcc5fc7bd"
+  },
+  {
+    "id": "toptal:jenv",
+    "source": "toptal",
+    "key": "jenv",
+    "name": "JEnv",
+    "aliases": ["jenv"],
+    "path": "data/ignores/toptal/raw/jenv.gitignore",
+    "hash": "059d66b89ce7da187a297d9f8bc2d673eabf5f95c48c0403cf49b843fff05efd"
+  },
+  {
+    "id": "toptal:jetbrains",
+    "source": "toptal",
+    "key": "jetbrains",
+    "name": "JetBrains",
+    "aliases": ["jetbrains"],
+    "path": "data/ignores/toptal/raw/jetbrains.gitignore",
+    "hash": "d64fa84844f8ab822115a28f66af67023a06beb95dc02470db7b83ee11a5ebc0"
+  },
+  {
+    "id": "toptal:jetbrainsplusall",
+    "source": "toptal",
+    "key": "jetbrainsplusall",
+    "name": "JetBrains+all",
+    "aliases": ["jetbrains+all", "jetbrainsplusall"],
+    "path": "data/ignores/toptal/raw/jetbrainsplusall.gitignore",
+    "hash": "22acc1429a0a77eeb7b83440fa5257f522122011c56ebf230ab8940c08ee16a4"
+  },
+  {
+    "id": "toptal:jetbrainsplusiml",
+    "source": "toptal",
+    "key": "jetbrainsplusiml",
+    "name": "JetBrains+iml",
+    "aliases": ["jetbrains+iml", "jetbrainsplusiml"],
+    "path": "data/ignores/toptal/raw/jetbrainsplusiml.gitignore",
+    "hash": "1b63ae83487ebaba1762cce2f4bdf74d4c384aee9d7b1f31e712bfac220bb58a"
+  },
+  {
+    "id": "toptal:jgiven",
+    "source": "toptal",
+    "key": "jgiven",
+    "name": "JGiven",
+    "aliases": ["jgiven"],
+    "path": "data/ignores/toptal/raw/jgiven.gitignore",
+    "hash": "c8e148d7a150fa23f29e73b525383942db31c3d467e723de0592d8314b074a0d"
+  },
+  {
+    "id": "toptal:jigsaw",
+    "source": "toptal",
+    "key": "jigsaw",
+    "name": "Jigsaw",
+    "aliases": ["jigsaw"],
+    "path": "data/ignores/toptal/raw/jigsaw.gitignore",
+    "hash": "2a3b51de383dcf9a0822d7079799f5bb242317ea7af9a016108b0ecc0ce5dc24"
+  },
+  {
+    "id": "toptal:jmeter",
+    "source": "toptal",
+    "key": "jmeter",
+    "name": "JMeter",
+    "aliases": ["jmeter"],
+    "path": "data/ignores/toptal/raw/jmeter.gitignore",
+    "hash": "cf2eba62e6ac5551508a9ae9ea63a9789d56ce47d18502c9aace475e61ef50f1"
+  },
+  {
+    "id": "toptal:joe",
+    "source": "toptal",
+    "key": "joe",
+    "name": "Joe",
+    "aliases": ["joe"],
+    "path": "data/ignores/toptal/raw/joe.gitignore",
+    "hash": "6553b130989b682a51393dd347142182dc0ab274ae30bd7e48de243a1c0d8ffb"
+  },
+  {
+    "id": "toptal:joomla",
+    "source": "toptal",
+    "key": "joomla",
+    "name": "Joomla",
+    "aliases": ["joomla"],
+    "path": "data/ignores/toptal/raw/joomla.gitignore",
+    "hash": "9a88cb7f7e02e90e1b8b04f38cb15b1c75a924635c35d6236c343970da119f70"
+  },
+  {
+    "id": "toptal:jsonnet",
+    "source": "toptal",
+    "key": "jsonnet",
+    "name": "Jsonnet",
+    "aliases": ["jsonnet"],
+    "path": "data/ignores/toptal/raw/jsonnet.gitignore",
+    "hash": "fa1f494ffef4e586047b0b2f0a4b462bfe977cc35b0cb1adff5071d50c2fc796"
+  },
+  {
+    "id": "toptal:jspm",
+    "source": "toptal",
+    "key": "jspm",
+    "name": "jspm",
+    "aliases": ["jspm"],
+    "path": "data/ignores/toptal/raw/jspm.gitignore",
+    "hash": "4f2b893506f18bb11a2b9bd23487926f3e6bcf1bc3807d24644b228d74bf13eb"
+  },
+  {
+    "id": "toptal:julia",
+    "source": "toptal",
+    "key": "julia",
+    "name": "Julia",
+    "aliases": ["julia"],
+    "path": "data/ignores/toptal/raw/julia.gitignore",
+    "hash": "2bd0199c186a2953afabbf2b6f915f6822ec46675a79c10c066a0915438ad715"
+  },
+  {
+    "id": "toptal:jupyternotebooks",
+    "source": "toptal",
+    "key": "jupyternotebooks",
+    "name": "JupyterNotebooks",
+    "aliases": ["jupyternotebooks"],
+    "path": "data/ignores/toptal/raw/jupyternotebooks.gitignore",
+    "hash": "aadcbc0019d733f3068e223eda363ccf2c743b152c095faf4351abc200c6fa73"
+  },
+  {
+    "id": "toptal:justcode",
+    "source": "toptal",
+    "key": "justcode",
+    "name": "JustCode",
+    "aliases": ["justcode"],
+    "path": "data/ignores/toptal/raw/justcode.gitignore",
+    "hash": "c5616fb94a0dd6e7dae15824afad229ca0e7fdca1782ee75c5d943d5e7491e04"
+  },
+  {
+    "id": "toptal:kaldi",
+    "source": "toptal",
+    "key": "kaldi",
+    "name": "kaldi",
+    "aliases": ["kaldi"],
+    "path": "data/ignores/toptal/raw/kaldi.gitignore",
+    "hash": "a8ddab8eea54e724f46670154a55f8eb1a3dde8e6793607fbfe4a3027b274306"
+  },
+  {
+    "id": "toptal:kate",
+    "source": "toptal",
+    "key": "kate",
+    "name": "Kate",
+    "aliases": ["kate"],
+    "path": "data/ignores/toptal/raw/kate.gitignore",
+    "hash": "9541e07c7750af5681d91b1a70a62d5b88655b65a5f1c4c6b9ec96b67034072d"
+  },
+  {
+    "id": "toptal:kdevelop4",
+    "source": "toptal",
+    "key": "kdevelop4",
+    "name": "KDevelop4",
+    "aliases": ["kdevelop4"],
+    "path": "data/ignores/toptal/raw/kdevelop4.gitignore",
+    "hash": "25c2e329baf3d8298b7bc6af823cc9de27f5a8eabb146baa72fb3d8ddfd95e63"
+  },
+  {
+    "id": "toptal:kdiff3",
+    "source": "toptal",
+    "key": "kdiff3",
+    "name": "KDiff3",
+    "aliases": ["kdiff3"],
+    "path": "data/ignores/toptal/raw/kdiff3.gitignore",
+    "hash": "8514049e1b913eaf8b1cb58c2a038c09f26c4315ce43082126e41335402d4a08"
+  },
+  {
+    "id": "toptal:keil",
+    "source": "toptal",
+    "key": "keil",
+    "name": "Keil",
+    "aliases": ["keil"],
+    "path": "data/ignores/toptal/raw/keil.gitignore",
+    "hash": "03f51cb12b2f113dae7396205829863f0be90124c3091efe61facbe3f7f06d8f"
+  },
+  {
+    "id": "toptal:kentico",
+    "source": "toptal",
+    "key": "kentico",
+    "name": "Kentico",
+    "aliases": ["kentico"],
+    "path": "data/ignores/toptal/raw/kentico.gitignore",
+    "hash": "faa3bb0f06fec7e1a16e704143992d5742969ead8312d4ea726bc0f461945f0c"
+  },
+  {
+    "id": "toptal:keystonejs",
+    "source": "toptal",
+    "key": "keystonejs",
+    "name": "KeystoneJS",
+    "aliases": ["keystonejs"],
+    "path": "data/ignores/toptal/raw/keystonejs.gitignore",
+    "hash": "1bfba7d92e99cfcaa3204adc68b9adfc92d163b095d3265b1c24799b2ddca35f"
+  },
+  {
+    "id": "toptal:kicad",
+    "source": "toptal",
+    "key": "kicad",
+    "name": "KiCad",
+    "aliases": ["kicad"],
+    "path": "data/ignores/toptal/raw/kicad.gitignore",
+    "hash": "ac18744a80b23752e34fb8e1fed94cee6d31cb53ab1853e19db0d1c19ba6bfd1"
+  },
+  {
+    "id": "toptal:kirby2",
+    "source": "toptal",
+    "key": "kirby2",
+    "name": "Kirby2",
+    "aliases": ["kirby2"],
+    "path": "data/ignores/toptal/raw/kirby2.gitignore",
+    "hash": "4ff3f13ce41867001ee6dac68e0138cb69ea8b40f937ba51e22f5619c412d65a"
+  },
+  {
+    "id": "toptal:kirby3",
+    "source": "toptal",
+    "key": "kirby3",
+    "name": "Kirby3",
+    "aliases": ["kirby3"],
+    "path": "data/ignores/toptal/raw/kirby3.gitignore",
+    "hash": "06ee2b036937c64f9850f78242d11a437b09769839f9a4e5f31fd198cb5119b3"
+  },
+  {
+    "id": "toptal:kobalt",
+    "source": "toptal",
+    "key": "kobalt",
+    "name": "Kobalt",
+    "aliases": ["kobalt"],
+    "path": "data/ignores/toptal/raw/kobalt.gitignore",
+    "hash": "9aaff82475f653cbe2eaeedc805f476fa079ae394a16a3be437d150eae8d4685"
+  },
+  {
+    "id": "toptal:kohana",
+    "source": "toptal",
+    "key": "kohana",
+    "name": "Kohana",
+    "aliases": ["kohana"],
+    "path": "data/ignores/toptal/raw/kohana.gitignore",
+    "hash": "0bb36bded1585350c8b56ef52b590e0f72193fc48983b62f1424bf1909657554"
+  },
+  {
+    "id": "toptal:komodoedit",
+    "source": "toptal",
+    "key": "komodoedit",
+    "name": "KomodoEdit",
+    "aliases": ["komodoedit"],
+    "path": "data/ignores/toptal/raw/komodoedit.gitignore",
+    "hash": "cd1bb7e186c80787a9f675d900e516cd35711637721ff3dbf23b06277973dd9c"
+  },
+  {
+    "id": "toptal:konyvisualizer",
+    "source": "toptal",
+    "key": "konyvisualizer",
+    "name": "KonyVisualizer",
+    "aliases": ["konyvisualizer"],
+    "path": "data/ignores/toptal/raw/konyvisualizer.gitignore",
+    "hash": "a1e687f648960d4d5fefa168b5ac106441a15a4f704918c4704b99d01b4b3034"
+  },
+  {
+    "id": "toptal:kotlin",
+    "source": "toptal",
+    "key": "kotlin",
+    "name": "Kotlin",
+    "aliases": ["kotlin"],
+    "path": "data/ignores/toptal/raw/kotlin.gitignore",
+    "hash": "fa723b78b3a4d1814c486453b36a77b02820f6ebf2f71a9a30eb99b0a2afd49c"
+  },
+  {
+    "id": "toptal:labview",
+    "source": "toptal",
+    "key": "labview",
+    "name": "LabVIEW",
+    "aliases": ["labview"],
+    "path": "data/ignores/toptal/raw/labview.gitignore",
+    "hash": "b914d8ee3d5cc7832a189918d0e5219d1e16f8d84cac6c350f48fc65d6216c29"
+  },
+  {
+    "id": "toptal:labviewnxg",
+    "source": "toptal",
+    "key": "labviewnxg",
+    "name": "LabVIEWNXG",
+    "aliases": ["labviewnxg"],
+    "path": "data/ignores/toptal/raw/labviewnxg.gitignore",
+    "hash": "8fa7f743e28304a14b794e80273a715fc4d5280b9886bc6c8aded9bf9fb4537d"
+  },
+  {
+    "id": "toptal:lamp",
+    "source": "toptal",
+    "key": "lamp",
+    "name": "LAMP",
+    "aliases": ["lamp"],
+    "path": "data/ignores/toptal/raw/lamp.gitignore",
+    "hash": "01b3c3d68c6f1a3b83852b335173e40b943754eb27a64f26611dbdd79335c5df"
+  },
+  {
+    "id": "toptal:laravel",
+    "source": "toptal",
+    "key": "laravel",
+    "name": "Laravel",
+    "aliases": ["laravel"],
+    "path": "data/ignores/toptal/raw/laravel.gitignore",
+    "hash": "3c274949f3d24ee01e0d2cc1dff5481e85e6be2ea4486b251a71c06ad99b9f46"
+  },
+  {
+    "id": "toptal:latex",
+    "source": "toptal",
+    "key": "latex",
+    "name": "LaTeX",
+    "aliases": ["latex"],
+    "path": "data/ignores/toptal/raw/latex.gitignore",
+    "hash": "7dc8e568c7d7e967b5b31982dc57ce806c098b05e28423ce25670f0a9cf81229"
+  },
+  {
+    "id": "toptal:lazarus",
+    "source": "toptal",
+    "key": "lazarus",
+    "name": "Lazarus",
+    "aliases": ["lazarus"],
+    "path": "data/ignores/toptal/raw/lazarus.gitignore",
+    "hash": "9747528bed76d82a41b736e2df1eaeb01a7c0de8a10568a532183ede71e7730b"
+  },
+  {
+    "id": "toptal:leiningen",
+    "source": "toptal",
+    "key": "leiningen",
+    "name": "Leiningen",
+    "aliases": ["leiningen"],
+    "path": "data/ignores/toptal/raw/leiningen.gitignore",
+    "hash": "c13e41326739c3ba9374281463c6ecd758ad49096d16edba0c2be50c6de00aa4"
+  },
+  {
+    "id": "toptal:lemonstand",
+    "source": "toptal",
+    "key": "lemonstand",
+    "name": "LemonStand",
+    "aliases": ["lemonstand"],
+    "path": "data/ignores/toptal/raw/lemonstand.gitignore",
+    "hash": "a88a786e5a2ac66f960fb8aba1a6d47958cdfc73f1e19b415ee945a4f14523e1"
+  },
+  {
+    "id": "toptal:less",
+    "source": "toptal",
+    "key": "less",
+    "name": "Less",
+    "aliases": ["less"],
+    "path": "data/ignores/toptal/raw/less.gitignore",
+    "hash": "0c03902a56bee5c8f2f13451e1488726640077d591942801d8e2f2c3ae79d615"
+  },
+  {
+    "id": "toptal:liberosoc",
+    "source": "toptal",
+    "key": "liberosoc",
+    "name": "LiberoSOC",
+    "aliases": ["liberosoc"],
+    "path": "data/ignores/toptal/raw/liberosoc.gitignore",
+    "hash": "5dd1e6002809c00b09ad94a590ff7f4b63244701df5d64e1da36243428c6c92d"
+  },
+  {
+    "id": "toptal:librarian-chef",
+    "source": "toptal",
+    "key": "librarian-chef",
+    "name": "librarian-chef",
+    "aliases": ["librarian-chef"],
+    "path": "data/ignores/toptal/raw/librarian-chef.gitignore",
+    "hash": "116b43ad321d3457ec5fe10d267d99ff446ebfe8365c64e97016ad252a089679"
+  },
+  {
+    "id": "toptal:libreoffice",
+    "source": "toptal",
+    "key": "libreoffice",
+    "name": "LibreOffice",
+    "aliases": ["libreoffice"],
+    "path": "data/ignores/toptal/raw/libreoffice.gitignore",
+    "hash": "dab1c3003095fa9d9b35579f3b1a34d28a94535fe404d88d28decf038bbfb3e4"
+  },
+  {
+    "id": "toptal:lighthouseci",
+    "source": "toptal",
+    "key": "lighthouseci",
+    "name": "LighthouseCI",
+    "aliases": ["lighthouseci"],
+    "path": "data/ignores/toptal/raw/lighthouseci.gitignore",
+    "hash": "4666f7501f0e213537c04f9b629654047b89b33f753fdd3637141f289cf1f333"
+  },
+  {
+    "id": "toptal:lilypond",
+    "source": "toptal",
+    "key": "lilypond",
+    "name": "Lilypond",
+    "aliases": ["lilypond"],
+    "path": "data/ignores/toptal/raw/lilypond.gitignore",
+    "hash": "fe35163f1b700c683bee5c6e8f9bee6967a452bf69cd50f386a23e14806967df"
+  },
+  {
+    "id": "toptal:linux",
+    "source": "toptal",
+    "key": "linux",
+    "name": "Linux",
+    "aliases": ["linux"],
+    "path": "data/ignores/toptal/raw/linux.gitignore",
+    "hash": "265d20d153c5ed86541996c8bcc09cd58e32767c243736e633ef441dd5d3db30"
+  },
+  {
+    "id": "toptal:lithium",
+    "source": "toptal",
+    "key": "lithium",
+    "name": "Lithium",
+    "aliases": ["lithium"],
+    "path": "data/ignores/toptal/raw/lithium.gitignore",
+    "hash": "a2bea730029f8614230a7ec68e7c4a5e0541113207d91fe7f39aec4bc59f2e94"
+  },
+  {
+    "id": "toptal:localstack",
+    "source": "toptal",
+    "key": "localstack",
+    "name": "LocalStack",
+    "aliases": ["localstack"],
+    "path": "data/ignores/toptal/raw/localstack.gitignore",
+    "hash": "9c1653938bdd8d14fd38f0fd085f824b03929336dd8a3962a9db6003bd745491"
+  },
+  {
+    "id": "toptal:logtalk",
+    "source": "toptal",
+    "key": "logtalk",
+    "name": "Logtalk",
+    "aliases": ["logtalk"],
+    "path": "data/ignores/toptal/raw/logtalk.gitignore",
+    "hash": "a58e52641ee4eaa54a0052fe5ec23224ce31060166386ff406d195203d8d8947"
+  },
+  {
+    "id": "toptal:lsspice",
+    "source": "toptal",
+    "key": "lsspice",
+    "name": "LSspice",
+    "aliases": ["lsspice"],
+    "path": "data/ignores/toptal/raw/lsspice.gitignore",
+    "hash": "2e502ac13f7801fe6821e470f4cf15010e0c5ab1ac23f9f524df27b06de45497"
+  },
+  {
+    "id": "toptal:ltspice",
+    "source": "toptal",
+    "key": "ltspice",
+    "name": "LTspice",
+    "aliases": ["ltspice"],
+    "path": "data/ignores/toptal/raw/ltspice.gitignore",
+    "hash": "b89687bb306ec8ff5ec762f9c8199374e2a65ceae94da8b6c48d3f92941f0d8b"
+  },
+  {
+    "id": "toptal:lua",
+    "source": "toptal",
+    "key": "lua",
+    "name": "Lua",
+    "aliases": ["lua"],
+    "path": "data/ignores/toptal/raw/lua.gitignore",
+    "hash": "5480d4f84d632c2e038a866de4cd93eae0bc2ce964ac39a1a966f3717fede459"
+  },
+  {
+    "id": "toptal:lyx",
+    "source": "toptal",
+    "key": "lyx",
+    "name": "LyX",
+    "aliases": ["lyx"],
+    "path": "data/ignores/toptal/raw/lyx.gitignore",
+    "hash": "2e9be9b9cccaeaf642a57271914f8c20ba7db725c52f50180f239f9e8acb760e"
+  },
+  {
+    "id": "toptal:macos",
+    "source": "toptal",
+    "key": "macos",
+    "name": "macOS",
+    "aliases": ["macos"],
+    "path": "data/ignores/toptal/raw/macos.gitignore",
+    "hash": "018ae21e9ec5cee7cef2df226ef6171ea97fb52bf9ae6879ea553227e1aca010"
+  },
+  {
+    "id": "toptal:magento",
+    "source": "toptal",
+    "key": "magento",
+    "name": "Magento",
+    "aliases": ["magento"],
+    "path": "data/ignores/toptal/raw/magento.gitignore",
+    "hash": "e4cf538c7720672e21f4389cfb7e4ba09f8363fa2f90e442bd889cc9410be6e1"
+  },
+  {
+    "id": "toptal:magento1",
+    "source": "toptal",
+    "key": "magento1",
+    "name": "Magento1",
+    "aliases": ["magento1"],
+    "path": "data/ignores/toptal/raw/magento1.gitignore",
+    "hash": "aceffda7d9008f418891c360db7520f5a8cec64c9946cafc2b37d838fe54402b"
+  },
+  {
+    "id": "toptal:magento2",
+    "source": "toptal",
+    "key": "magento2",
+    "name": "Magento2",
+    "aliases": ["magento2"],
+    "path": "data/ignores/toptal/raw/magento2.gitignore",
+    "hash": "1bc88c0f99ad1572b4fc20c4bad5b2256bc44a22d0496a0e94b885c2a51dd9bb"
+  },
+  {
+    "id": "toptal:magic-xpa",
+    "source": "toptal",
+    "key": "magic-xpa",
+    "name": "Magic-xpa",
+    "aliases": ["magic-xpa"],
+    "path": "data/ignores/toptal/raw/magic-xpa.gitignore",
+    "hash": "b2906c289d693c3a7d3ec753277efe1871c0f3c366c448169781e3155c8bfbb6"
+  },
+  {
+    "id": "toptal:matlab",
+    "source": "toptal",
+    "key": "matlab",
+    "name": "MATLAB",
+    "aliases": ["matlab"],
+    "path": "data/ignores/toptal/raw/matlab.gitignore",
+    "hash": "ec84f58a36a02cf03eb7b898a10e3e82dd020229cc5b92655745c1b12911ab59"
+  },
+  {
+    "id": "toptal:maven",
+    "source": "toptal",
+    "key": "maven",
+    "name": "Maven",
+    "aliases": ["maven"],
+    "path": "data/ignores/toptal/raw/maven.gitignore",
+    "hash": "36c5498776941c818a5b906967874bf40ee8c55ed282e44d0c1726c89d664101"
+  },
+  {
+    "id": "toptal:mavensmate",
+    "source": "toptal",
+    "key": "mavensmate",
+    "name": "MavensMate",
+    "aliases": ["mavensmate"],
+    "path": "data/ignores/toptal/raw/mavensmate.gitignore",
+    "hash": "40d265c891b6b964039b77f67c7dfaeb5f507613da2e97c743d5552e8bfa7a08"
+  },
+  {
+    "id": "toptal:mdbook",
+    "source": "toptal",
+    "key": "mdbook",
+    "name": "MdBook",
+    "aliases": ["mdbook"],
+    "path": "data/ignores/toptal/raw/mdbook.gitignore",
+    "hash": "8f89980f8e111f03d0e441f2d137274d4383985c1df9f0769d786d0e7885268f"
+  },
+  {
+    "id": "toptal:mean",
+    "source": "toptal",
+    "key": "mean",
+    "name": "MEAN",
+    "aliases": ["mean"],
+    "path": "data/ignores/toptal/raw/mean.gitignore",
+    "hash": "e6b7d416ce0c4066a1e8a0e8cfda00ef75bf09e64d53c36754856deca7d367c1"
+  },
+  {
+    "id": "toptal:mercurial",
+    "source": "toptal",
+    "key": "mercurial",
+    "name": "Mercurial",
+    "aliases": ["mercurial"],
+    "path": "data/ignores/toptal/raw/mercurial.gitignore",
+    "hash": "cb5e0b282d6ab2e6b67ef63798fbbfdd6f50c2ef14739b8afa0fe835bc6b25e6"
+  },
+  {
+    "id": "toptal:mercury",
+    "source": "toptal",
+    "key": "mercury",
+    "name": "Mercury",
+    "aliases": ["mercury"],
+    "path": "data/ignores/toptal/raw/mercury.gitignore",
+    "hash": "aa782d6f77e4cc2a5e0341cb8c8bcf571d9ef6f1d75f97e7257982979be2dda8"
+  },
+  {
+    "id": "toptal:meson",
+    "source": "toptal",
+    "key": "meson",
+    "name": "Meson",
+    "aliases": ["meson"],
+    "path": "data/ignores/toptal/raw/meson.gitignore",
+    "hash": "3ed1d17f43ad5ce94bcd293259f9896950f3f582d3ad867fcf79abbeb1b60e76"
+  },
+  {
+    "id": "toptal:metals",
+    "source": "toptal",
+    "key": "metals",
+    "name": "Metals",
+    "aliases": ["metals"],
+    "path": "data/ignores/toptal/raw/metals.gitignore",
+    "hash": "28d89d5858a4e2abf0aa2dd702d70978c8a48177d143b9998fa228b3f7a12797"
+  },
+  {
+    "id": "toptal:metalsmith",
+    "source": "toptal",
+    "key": "metalsmith",
+    "name": "Metalsmith",
+    "aliases": ["metalsmith"],
+    "path": "data/ignores/toptal/raw/metalsmith.gitignore",
+    "hash": "0843545e5221463af7bfbdec9a342529dfb428e4d41fba54c988bd607132ab23"
+  },
+  {
+    "id": "toptal:metaprogrammingsystem",
+    "source": "toptal",
+    "key": "metaprogrammingsystem",
+    "name": "MetaProgrammingSystem",
+    "aliases": ["metaprogrammingsystem"],
+    "path": "data/ignores/toptal/raw/metaprogrammingsystem.gitignore",
+    "hash": "3ae13123e7e47a811f33ade1eada94f67bf8844a9fd258d37415cb2f2badab11"
+  },
+  {
+    "id": "toptal:meteor",
+    "source": "toptal",
+    "key": "meteor",
+    "name": "Meteor",
+    "aliases": ["meteor"],
+    "path": "data/ignores/toptal/raw/meteor.gitignore",
+    "hash": "a74143742710a128da84d77356f616ac7b0e9238e0f79598386ebf5d20595aec"
+  },
+  {
+    "id": "toptal:meteorjs",
+    "source": "toptal",
+    "key": "meteorjs",
+    "name": "MeteorJS",
+    "aliases": ["meteorjs"],
+    "path": "data/ignores/toptal/raw/meteorjs.gitignore",
+    "hash": "a3e94228a7f59819ea5a47a4029f5dbbe5e32c935aa0f279e4b0874f4441f5d4"
+  },
+  {
+    "id": "toptal:microsoftoffice",
+    "source": "toptal",
+    "key": "microsoftoffice",
+    "name": "MicrosoftOffice",
+    "aliases": ["microsoftoffice"],
+    "path": "data/ignores/toptal/raw/microsoftoffice.gitignore",
+    "hash": "2857c36e872ca537df402f492cf1aa938c8fbcdf3c7be71ffad3da861052380a"
+  },
+  {
+    "id": "toptal:mikroc",
+    "source": "toptal",
+    "key": "mikroc",
+    "name": "MikroC",
+    "aliases": ["mikroc"],
+    "path": "data/ignores/toptal/raw/mikroc.gitignore",
+    "hash": "fbdf3c1e08b1efad7bcc442aa3ff2160cdb9707e5b71667cf7b845d7f6b5d596"
+  },
+  {
+    "id": "toptal:mill",
+    "source": "toptal",
+    "key": "mill",
+    "name": "Mill",
+    "aliases": ["mill"],
+    "path": "data/ignores/toptal/raw/mill.gitignore",
+    "hash": "b0570b412dbef56edb4c1b2e2f1687a36719dc6c7c1d025a637e3964cbc8dade"
+  },
+  {
+    "id": "toptal:moban",
+    "source": "toptal",
+    "key": "moban",
+    "name": "Moban",
+    "aliases": ["moban"],
+    "path": "data/ignores/toptal/raw/moban.gitignore",
+    "hash": "02e1090fadffc782bcde2fc9bb257a62f5a87a6467b1cdec6651681a91cc6510"
+  },
+  {
+    "id": "toptal:modelsim",
+    "source": "toptal",
+    "key": "modelsim",
+    "name": "ModelSim",
+    "aliases": ["modelsim"],
+    "path": "data/ignores/toptal/raw/modelsim.gitignore",
+    "hash": "80f966b5f9f3d9d232735d9e2ee3d045a93bbb7b2744ae0e9e27a6419042f86a"
+  },
+  {
+    "id": "toptal:modx",
+    "source": "toptal",
+    "key": "modx",
+    "name": "MODX",
+    "aliases": ["modx"],
+    "path": "data/ignores/toptal/raw/modx.gitignore",
+    "hash": "6b5843e3d54ceec131ee43edd13ec33b0a904f7c42793136d14e3e474598e276"
+  },
+  {
+    "id": "toptal:momentics",
+    "source": "toptal",
+    "key": "momentics",
+    "name": "Momentics",
+    "aliases": ["momentics"],
+    "path": "data/ignores/toptal/raw/momentics.gitignore",
+    "hash": "44d21352f42749bfe6778a0a8a092e660eacf75663d3e15632721e16bb1e36cf"
+  },
+  {
+    "id": "toptal:monodevelop",
+    "source": "toptal",
+    "key": "monodevelop",
+    "name": "MonoDevelop",
+    "aliases": ["monodevelop"],
+    "path": "data/ignores/toptal/raw/monodevelop.gitignore",
+    "hash": "0dff7712056eb2f60425d5549f54cd04598b17910394f5ab6a4fdc4abc9e6646"
+  },
+  {
+    "id": "toptal:mplabx",
+    "source": "toptal",
+    "key": "mplabx",
+    "name": "MPLabX",
+    "aliases": ["mplabx"],
+    "path": "data/ignores/toptal/raw/mplabx.gitignore",
+    "hash": "8bc79e00e430339b40cbd98ef37e9262dc11248d03c046421f5839ace54babe9"
+  },
+  {
+    "id": "toptal:mule",
+    "source": "toptal",
+    "key": "mule",
+    "name": "mule",
+    "aliases": ["mule"],
+    "path": "data/ignores/toptal/raw/mule.gitignore",
+    "hash": "55f69edc09444b83c72f943651b279af7054ac8011188a23089185aa2b25c992"
+  },
+  {
+    "id": "toptal:nanoc",
+    "source": "toptal",
+    "key": "nanoc",
+    "name": "Nanoc",
+    "aliases": ["nanoc"],
+    "path": "data/ignores/toptal/raw/nanoc.gitignore",
+    "hash": "371b77ed5af61ad7774f46f38673199af9d2fc2ad4b0a4dc86a99598b67d4883"
+  },
+  {
+    "id": "toptal:nativescript",
+    "source": "toptal",
+    "key": "nativescript",
+    "name": "NativeScript",
+    "aliases": ["nativescript"],
+    "path": "data/ignores/toptal/raw/nativescript.gitignore",
+    "hash": "703b532139bccc04a6ad87308e217396e418b2653994417bfa4212220db3fc72"
+  },
+  {
+    "id": "toptal:ncrunch",
+    "source": "toptal",
+    "key": "ncrunch",
+    "name": "NCrunch",
+    "aliases": ["ncrunch"],
+    "path": "data/ignores/toptal/raw/ncrunch.gitignore",
+    "hash": "baf3f637530c7185a98dd19e6790a521cb059ad2e732ba51894fa2a50849e9a1"
+  },
+  {
+    "id": "toptal:nesc",
+    "source": "toptal",
+    "key": "nesc",
+    "name": "NesC",
+    "aliases": ["nesc"],
+    "path": "data/ignores/toptal/raw/nesc.gitignore",
+    "hash": "8aaf57f2d21a2a4015bfbb55d3dc2141172cf1036b036669d214fef461d26a6e"
+  },
+  {
+    "id": "toptal:netbeans",
+    "source": "toptal",
+    "key": "netbeans",
+    "name": "NetBeans",
+    "aliases": ["netbeans"],
+    "path": "data/ignores/toptal/raw/netbeans.gitignore",
+    "hash": "0d183781af41c5859c3a77be5d89e1485d6a4ce3069454dac833c1c897148909"
+  },
+  {
+    "id": "toptal:nette",
+    "source": "toptal",
+    "key": "nette",
+    "name": "Nette",
+    "aliases": ["nette"],
+    "path": "data/ignores/toptal/raw/nette.gitignore",
+    "hash": "87474c02ec20861aa95e2ed5d8dd9ec95da0fbdff3a27e89f6d90b833f5d7315"
+  },
+  {
+    "id": "toptal:nextjs",
+    "source": "toptal",
+    "key": "nextjs",
+    "name": "NextJS",
+    "aliases": ["nextjs"],
+    "path": "data/ignores/toptal/raw/nextjs.gitignore",
+    "hash": "5b04c73bdda58215cf7ef40128b4a56b4d1a72a151ba4e91cb0af7381bef37d0"
+  },
+  {
+    "id": "toptal:nikola",
+    "source": "toptal",
+    "key": "nikola",
+    "name": "Nikola",
+    "aliases": ["nikola"],
+    "path": "data/ignores/toptal/raw/nikola.gitignore",
+    "hash": "778efc41d6c36035f6db0313bbabaa53a30187d77edd06bc5342d65bd3d248d2"
+  },
+  {
+    "id": "toptal:nim",
+    "source": "toptal",
+    "key": "nim",
+    "name": "Nim",
+    "aliases": ["nim"],
+    "path": "data/ignores/toptal/raw/nim.gitignore",
+    "hash": "54897486ae4cdd8fe66721c57d7dbd8ea23a4c81e1196e00f2579bcc2e5704c8"
+  },
+  {
+    "id": "toptal:ninja",
+    "source": "toptal",
+    "key": "ninja",
+    "name": "Ninja",
+    "aliases": ["ninja"],
+    "path": "data/ignores/toptal/raw/ninja.gitignore",
+    "hash": "d97dfaf4f83a787e50d899e431fa58eefca0600454a4a60d714d0226089b9c99"
+  },
+  {
+    "id": "toptal:node",
+    "source": "toptal",
+    "key": "node",
+    "name": "Node",
+    "aliases": ["node"],
+    "path": "data/ignores/toptal/raw/node.gitignore",
+    "hash": "e2db4f023bfae41db04a8aa67b853dcea363d34f7c04135eae99be423e22f6ed"
+  },
+  {
+    "id": "toptal:nodechakratimetraveldebug",
+    "source": "toptal",
+    "key": "nodechakratimetraveldebug",
+    "name": "NodeChakraTimeTravelDebug",
+    "aliases": ["nodechakratimetraveldebug"],
+    "path": "data/ignores/toptal/raw/nodechakratimetraveldebug.gitignore",
+    "hash": "b93068da63c381f6e94299e6f944ad9e98e9ec5711cf252f57599f4d6f16d1e2"
+  },
+  {
+    "id": "toptal:nohup",
+    "source": "toptal",
+    "key": "nohup",
+    "name": "Nohup",
+    "aliases": ["nohup"],
+    "path": "data/ignores/toptal/raw/nohup.gitignore",
+    "hash": "a637c7154e5cdccbe3808147061e5fe009a945a71ad1d8a20e723f385450c60b"
+  },
+  {
+    "id": "toptal:notepadpp",
+    "source": "toptal",
+    "key": "notepadpp",
+    "name": "NotepadPP",
+    "aliases": ["notepadpp"],
+    "path": "data/ignores/toptal/raw/notepadpp.gitignore",
+    "hash": "c7207ca24496027448ddd4baec0ae6bd52a5a50c79588fcae8ef182a6bc40668"
+  },
+  {
+    "id": "toptal:nova",
+    "source": "toptal",
+    "key": "nova",
+    "name": "nova",
+    "aliases": ["nova"],
+    "path": "data/ignores/toptal/raw/nova.gitignore",
+    "hash": "6f0cf9287cd3a037517b0619dfb7810c3985fd049c0f9769a0fd88f4b3f44d76"
+  },
+  {
+    "id": "toptal:now",
+    "source": "toptal",
+    "key": "now",
+    "name": "now",
+    "aliases": ["now"],
+    "path": "data/ignores/toptal/raw/now.gitignore",
+    "hash": "77ed4abbf4a0f8b5cc052cbe092c60744759a0a5e11dbb92893f4ab88eb8f877"
+  },
+  {
+    "id": "toptal:nuxtjs",
+    "source": "toptal",
+    "key": "nuxtjs",
+    "name": "NuxtJS",
+    "aliases": ["nuxtjs"],
+    "path": "data/ignores/toptal/raw/nuxtjs.gitignore",
+    "hash": "8bfc53fd119cd0f80ae2cfd58023df70dc2aedd779a33e5c6f6d63c33d9821e6"
+  },
+  {
+    "id": "toptal:nwjs",
+    "source": "toptal",
+    "key": "nwjs",
+    "name": "NWjs",
+    "aliases": ["nwjs"],
+    "path": "data/ignores/toptal/raw/nwjs.gitignore",
+    "hash": "199fa7af82e698aea6000fb990f46f3b78b0497db2eb46b8817a15106496008c"
+  },
+  {
+    "id": "toptal:objective-c",
+    "source": "toptal",
+    "key": "objective-c",
+    "name": "Objective-C",
+    "aliases": ["objective-c"],
+    "path": "data/ignores/toptal/raw/objective-c.gitignore",
+    "hash": "7b806cd0b90c6574ac6566702154d84f9cf90c2101d6528b85224749ffa75af0"
+  },
+  {
+    "id": "toptal:obsidian",
+    "source": "toptal",
+    "key": "obsidian",
+    "name": "Obsidian",
+    "aliases": ["obsidian"],
+    "path": "data/ignores/toptal/raw/obsidian.gitignore",
+    "hash": "deb682bb6d49e57739fdcb42bfeaee34d126c493349d36813efb31c0ba61cf67"
+  },
+  {
+    "id": "toptal:ocaml",
+    "source": "toptal",
+    "key": "ocaml",
+    "name": "OCaml",
+    "aliases": ["ocaml"],
+    "path": "data/ignores/toptal/raw/ocaml.gitignore",
+    "hash": "e786ee190bbb2255206a299fc0b7ede5f9811391dfb53608701e241b1dbcd2b3"
+  },
+  {
+    "id": "toptal:octave",
+    "source": "toptal",
+    "key": "octave",
+    "name": "Octave",
+    "aliases": ["octave"],
+    "path": "data/ignores/toptal/raw/octave.gitignore",
+    "hash": "df3401bc67633a2be30e0386a37d2e63fc64bfe4b0248a3dff01cdf9a8740de8"
+  },
+  {
+    "id": "toptal:octobercms",
+    "source": "toptal",
+    "key": "octobercms",
+    "name": "OctoberCms",
+    "aliases": ["octobercms"],
+    "path": "data/ignores/toptal/raw/octobercms.gitignore",
+    "hash": "1e794ae1c6c7d81fcfcd1c7c1324826585d7314152bde1bee0701baea7b12e77"
+  },
+  {
+    "id": "toptal:opa",
+    "source": "toptal",
+    "key": "opa",
+    "name": "Opa",
+    "aliases": ["opa"],
+    "path": "data/ignores/toptal/raw/opa.gitignore",
+    "hash": "5f81eb9b0bc2da398bbc6acf422e630295c79e731cd242fb44c674212ea40f19"
+  },
+  {
+    "id": "toptal:opencart",
+    "source": "toptal",
+    "key": "opencart",
+    "name": "OpenCart",
+    "aliases": ["opencart"],
+    "path": "data/ignores/toptal/raw/opencart.gitignore",
+    "hash": "b0fa196d6d67249daa781159e9139f8691c0364ea13efb0590a894ce2280a79b"
+  },
+  {
+    "id": "toptal:opencv",
+    "source": "toptal",
+    "key": "opencv",
+    "name": "OpenCV",
+    "aliases": ["opencv"],
+    "path": "data/ignores/toptal/raw/opencv.gitignore",
+    "hash": "9c5b156bb02fc9d37504040c96dbc5fcf8af584733fa0e078979c807623d8d3e"
+  },
+  {
+    "id": "toptal:openfoam",
+    "source": "toptal",
+    "key": "openfoam",
+    "name": "OpenFOAM",
+    "aliases": ["openfoam"],
+    "path": "data/ignores/toptal/raw/openfoam.gitignore",
+    "hash": "786e306e8f0fa1c7b45c79339ebbb5bdd04718f10edbfef8461386f565c906c6"
+  },
+  {
+    "id": "toptal:openframeworks",
+    "source": "toptal",
+    "key": "openframeworks",
+    "name": "OpenFrameworks",
+    "aliases": ["openframeworks"],
+    "path": "data/ignores/toptal/raw/openframeworks.gitignore",
+    "hash": "6f60bf69e17c257a19c891b2bb665e7085eb334b17b8e986ec9839b68c832f95"
+  },
+  {
+    "id": "toptal:openframeworksplusvisualstudio",
+    "source": "toptal",
+    "key": "openframeworksplusvisualstudio",
+    "name": "OpenFrameworks+VisualStudio",
+    "aliases": ["openframeworks+visualstudio", "openframeworksplusvisualstudio"],
+    "path": "data/ignores/toptal/raw/openframeworksplusvisualstudio.gitignore",
+    "hash": "dca25ba6c3af6d6e72af199e205c2b87e5e408832b0bb508c379030a3cd1336a"
+  },
+  {
+    "id": "toptal:oracleforms",
+    "source": "toptal",
+    "key": "oracleforms",
+    "name": "OracleForms",
+    "aliases": ["oracleforms"],
+    "path": "data/ignores/toptal/raw/oracleforms.gitignore",
+    "hash": "ef70920d6f533d0ac22e37cc3e7a0e1f3aa5f2e637aca0a61ea1e29d911a1fb7"
+  },
+  {
+    "id": "toptal:orcad",
+    "source": "toptal",
+    "key": "orcad",
+    "name": "OrCAD",
+    "aliases": ["orcad"],
+    "path": "data/ignores/toptal/raw/orcad.gitignore",
+    "hash": "582285284719eb3927198fe90b969e382e684e441fdbb76cc540e6a02a71939c"
+  },
+  {
+    "id": "toptal:osx",
+    "source": "toptal",
+    "key": "osx",
+    "name": "OSX",
+    "aliases": ["osx"],
+    "path": "data/ignores/toptal/raw/osx.gitignore",
+    "hash": "26443fb8c82117dde82d49f316c8e4860e6280eeed2b35ad0e70d0d8db5c21d2"
+  },
+  {
+    "id": "toptal:otto",
+    "source": "toptal",
+    "key": "otto",
+    "name": "Otto",
+    "aliases": ["otto"],
+    "path": "data/ignores/toptal/raw/otto.gitignore",
+    "hash": "2dc4ae19264c4b4a5ececb39747b27e1c89ec4561509bfb28852aad02186f5df"
+  },
+  {
+    "id": "toptal:oxideshop",
+    "source": "toptal",
+    "key": "oxideshop",
+    "name": "OxidEshop",
+    "aliases": ["oxideshop"],
+    "path": "data/ignores/toptal/raw/oxideshop.gitignore",
+    "hash": "ce120d9e3b7d3542a497c18dfc81463051f8639cfbc3979712e4317443eae4a2"
+  },
+  {
+    "id": "toptal:oxygenxmleditor",
+    "source": "toptal",
+    "key": "oxygenxmleditor",
+    "name": "oXygenXMLEditor",
+    "aliases": ["oxygenxmleditor"],
+    "path": "data/ignores/toptal/raw/oxygenxmleditor.gitignore",
+    "hash": "793dd8437ce27fce684bdcceb9100fc61b8f59e9d87cb728c8e4b8d6a821ea5b"
+  },
+  {
+    "id": "toptal:packer",
+    "source": "toptal",
+    "key": "packer",
+    "name": "Packer",
+    "aliases": ["packer"],
+    "path": "data/ignores/toptal/raw/packer.gitignore",
+    "hash": "b0ffa600046b85e9f5b20a0557faea48a0577f4f252794c2a80634a4d12798b2"
+  },
+  {
+    "id": "toptal:pants",
+    "source": "toptal",
+    "key": "pants",
+    "name": "Pants",
+    "aliases": ["pants"],
+    "path": "data/ignores/toptal/raw/pants.gitignore",
+    "hash": "eaec553180f7f818ad23ce0afe0c8a4f4678fdb2260036c035b8be476076dbba"
+  },
+  {
+    "id": "toptal:particle",
+    "source": "toptal",
+    "key": "particle",
+    "name": "Particle",
+    "aliases": ["particle"],
+    "path": "data/ignores/toptal/raw/particle.gitignore",
+    "hash": "57a7116466c8d8c62f35225645d24d224b69a7aab2c59fba6da23b9e2b52c1ff"
+  },
+  {
+    "id": "toptal:patch",
+    "source": "toptal",
+    "key": "patch",
+    "name": "Patch",
+    "aliases": ["patch"],
+    "path": "data/ignores/toptal/raw/patch.gitignore",
+    "hash": "b4fca9f6375f656da6ab8a015805a27c05c2639fd413526f7bc734b493b65225"
+  },
+  {
+    "id": "toptal:pawn",
+    "source": "toptal",
+    "key": "pawn",
+    "name": "PAWN",
+    "aliases": ["pawn"],
+    "path": "data/ignores/toptal/raw/pawn.gitignore",
+    "hash": "a133507245e8ebf8559222f551f44d110c5ad09d8833d0b68717c346269c50a8"
+  },
+  {
+    "id": "toptal:perl",
+    "source": "toptal",
+    "key": "perl",
+    "name": "Perl",
+    "aliases": ["perl"],
+    "path": "data/ignores/toptal/raw/perl.gitignore",
+    "hash": "dd7d38fad85f1c9f5f6ee8a8a6929b7ca4e41ac8151ff9cf5bccbea1de39c840"
+  },
+  {
+    "id": "toptal:perl6",
+    "source": "toptal",
+    "key": "perl6",
+    "name": "Perl6",
+    "aliases": ["perl6"],
+    "path": "data/ignores/toptal/raw/perl6.gitignore",
+    "hash": "640f16ed84dedd1157b71d9c52dcd9bffe416c91af4e59d360c77ad2e8a421e5"
+  },
+  {
+    "id": "toptal:ph7cms",
+    "source": "toptal",
+    "key": "ph7cms",
+    "name": "pH7CMS",
+    "aliases": ["ph7cms"],
+    "path": "data/ignores/toptal/raw/ph7cms.gitignore",
+    "hash": "ba1c0d3ec3f73b30b17ede96ef8d1056d5ae63bff53282ce574be0c7186a7679"
+  },
+  {
+    "id": "toptal:phalcon",
+    "source": "toptal",
+    "key": "phalcon",
+    "name": "Phalcon",
+    "aliases": ["phalcon"],
+    "path": "data/ignores/toptal/raw/phalcon.gitignore",
+    "hash": "bf4b6cb54ab85745d3fffb2e9eb0d91856c46886abc3518fbde0a4676bc064eb"
+  },
+  {
+    "id": "toptal:phoenix",
+    "source": "toptal",
+    "key": "phoenix",
+    "name": "Phoenix",
+    "aliases": ["phoenix"],
+    "path": "data/ignores/toptal/raw/phoenix.gitignore",
+    "hash": "05077f2531364edd55790793ae32b9542ebebb894c0c74c4bf706472dedb10c9"
+  },
+  {
+    "id": "toptal:php-cs-fixer",
+    "source": "toptal",
+    "key": "php-cs-fixer",
+    "name": "PHP-CS-Fixer",
+    "aliases": ["php-cs-fixer"],
+    "path": "data/ignores/toptal/raw/php-cs-fixer.gitignore",
+    "hash": "85b18a83197f7ff0f8e2723ed3b5cbf0f210e3da313c7a245d08054afaf67953"
+  },
+  {
+    "id": "toptal:phpcodesniffer",
+    "source": "toptal",
+    "key": "phpcodesniffer",
+    "name": "PHPCodeSniffer",
+    "aliases": ["phpcodesniffer"],
+    "path": "data/ignores/toptal/raw/phpcodesniffer.gitignore",
+    "hash": "6dadd046139faa7c5ec53f50380fdc3996c615e1c80b9d8d64edee592894e7a6"
+  },
+  {
+    "id": "toptal:phpstorm",
+    "source": "toptal",
+    "key": "phpstorm",
+    "name": "PhpStorm",
+    "aliases": ["phpstorm"],
+    "path": "data/ignores/toptal/raw/phpstorm.gitignore",
+    "hash": "fe9a8447876f276cd579419a7baede62bb4833f046f1c047fc20930351682c6f"
+  },
+  {
+    "id": "toptal:phpstormplusall",
+    "source": "toptal",
+    "key": "phpstormplusall",
+    "name": "PhpStorm+all",
+    "aliases": ["phpstorm+all", "phpstormplusall"],
+    "path": "data/ignores/toptal/raw/phpstormplusall.gitignore",
+    "hash": "b9f7ce713ed04676a974137c5e3d142cbff30d5700fbaf83da3f23cb94be8fd8"
+  },
+  {
+    "id": "toptal:phpstormplusiml",
+    "source": "toptal",
+    "key": "phpstormplusiml",
+    "name": "PhpStorm+iml",
+    "aliases": ["phpstorm+iml", "phpstormplusiml"],
+    "path": "data/ignores/toptal/raw/phpstormplusiml.gitignore",
+    "hash": "49039d41c33c604a6553235b78a7521ea9222393a5a818eb71b35bfed777a210"
+  },
+  {
+    "id": "toptal:phpunit",
+    "source": "toptal",
+    "key": "phpunit",
+    "name": "PHPUnit",
+    "aliases": ["phpunit"],
+    "path": "data/ignores/toptal/raw/phpunit.gitignore",
+    "hash": "9535a389f7c2379d01cc7defd0d498e35f4778f383b31eda0a7bf9454da58ec8"
+  },
+  {
+    "id": "toptal:pico8",
+    "source": "toptal",
+    "key": "pico8",
+    "name": "pico8",
+    "aliases": ["pico8"],
+    "path": "data/ignores/toptal/raw/pico8.gitignore",
+    "hash": "4c1465b0af1ec934e34010820fb4c7ae1baca375adc7171d81e0bebc3ea65066"
+  },
+  {
+    "id": "toptal:pimcore",
+    "source": "toptal",
+    "key": "pimcore",
+    "name": "Pimcore",
+    "aliases": ["pimcore"],
+    "path": "data/ignores/toptal/raw/pimcore.gitignore",
+    "hash": "e4330706e48cbc4eabe655afec9c50900c5572ea3fca338ad53fc463df4adf8a"
+  },
+  {
+    "id": "toptal:pimcore4",
+    "source": "toptal",
+    "key": "pimcore4",
+    "name": "Pimcore4",
+    "aliases": ["pimcore4"],
+    "path": "data/ignores/toptal/raw/pimcore4.gitignore",
+    "hash": "29d60c2bebcd66d2e72935ffc88adbc70f2e6aa75885c9fb24775514a930da6f"
+  },
+  {
+    "id": "toptal:pimcore5",
+    "source": "toptal",
+    "key": "pimcore5",
+    "name": "Pimcore5",
+    "aliases": ["pimcore5"],
+    "path": "data/ignores/toptal/raw/pimcore5.gitignore",
+    "hash": "c1e55d834f1fc87fa907754953553a836b7badef3071e5bd34283b4ad514862c"
+  },
+  {
+    "id": "toptal:pinegrow",
+    "source": "toptal",
+    "key": "pinegrow",
+    "name": "PineGrow",
+    "aliases": ["pinegrow"],
+    "path": "data/ignores/toptal/raw/pinegrow.gitignore",
+    "hash": "18a95d27869f75a263b410b9c42045e41cb5d24aa0afcb5bf48f3302961a40c2"
+  },
+  {
+    "id": "toptal:platformio",
+    "source": "toptal",
+    "key": "platformio",
+    "name": "PlatformIO",
+    "aliases": ["platformio"],
+    "path": "data/ignores/toptal/raw/platformio.gitignore",
+    "hash": "aa5d77ace86456baa9a6e6551bd025f6c4d7a07ef8ccde167d44ce405beaff3b"
+  },
+  {
+    "id": "toptal:playframework",
+    "source": "toptal",
+    "key": "playframework",
+    "name": "PlayFramework",
+    "aliases": ["playframework"],
+    "path": "data/ignores/toptal/raw/playframework.gitignore",
+    "hash": "b877db73647ac6d4dbb102abb49b52eafd704c3a0b74a1e047f58fb1cdd05a73"
+  },
+  {
+    "id": "toptal:plone",
+    "source": "toptal",
+    "key": "plone",
+    "name": "Plone",
+    "aliases": ["plone"],
+    "path": "data/ignores/toptal/raw/plone.gitignore",
+    "hash": "dfdc03e5b7522bb5e0ed38e11c8445acd613d9fa91c53a62fdece27e4021ad7e"
+  },
+  {
+    "id": "toptal:polymer",
+    "source": "toptal",
+    "key": "polymer",
+    "name": "Polymer",
+    "aliases": ["polymer"],
+    "path": "data/ignores/toptal/raw/polymer.gitignore",
+    "hash": "466891ee62929c902747fc2785cb7046d55ddfdc73bc61d254f52a1ac9b1ee3b"
+  },
+  {
+    "id": "toptal:powershell",
+    "source": "toptal",
+    "key": "powershell",
+    "name": "PowerShell",
+    "aliases": ["powershell"],
+    "path": "data/ignores/toptal/raw/powershell.gitignore",
+    "hash": "f335970b5bd2349d1347f1840d1acff14847d1354664b23c231e34b2e331ad01"
+  },
+  {
+    "id": "toptal:premake-gmake",
+    "source": "toptal",
+    "key": "premake-gmake",
+    "name": "premake-gmake",
+    "aliases": ["premake-gmake"],
+    "path": "data/ignores/toptal/raw/premake-gmake.gitignore",
+    "hash": "f6e4369ff4ccd5ff750fdd9cb9a7dd4326b2d3625938566a378babc6e8520dfd"
+  },
+  {
+    "id": "toptal:prepros",
+    "source": "toptal",
+    "key": "prepros",
+    "name": "Prepros",
+    "aliases": ["prepros"],
+    "path": "data/ignores/toptal/raw/prepros.gitignore",
+    "hash": "1fcb7fecf214f856d365dc5d115fbdeff024dfee033766c58e1d8f1b8ed02797"
+  },
+  {
+    "id": "toptal:prestashop",
+    "source": "toptal",
+    "key": "prestashop",
+    "name": "Prestashop",
+    "aliases": ["prestashop"],
+    "path": "data/ignores/toptal/raw/prestashop.gitignore",
+    "hash": "029d56a12a9e1aa4a4acc38502a4de82eecabeeeb2c05129cb8d78adae287002"
+  },
+  {
+    "id": "toptal:processing",
+    "source": "toptal",
+    "key": "processing",
+    "name": "Processing",
+    "aliases": ["processing"],
+    "path": "data/ignores/toptal/raw/processing.gitignore",
+    "hash": "ebe2d8389b65934b02fd8184308c8a5c282c52a972b287c258230302e803c832"
+  },
+  {
+    "id": "toptal:progressabl",
+    "source": "toptal",
+    "key": "progressabl",
+    "name": "ProgressABL",
+    "aliases": ["progressabl"],
+    "path": "data/ignores/toptal/raw/progressabl.gitignore",
+    "hash": "f8ac3592a5bbc0fb91713fb50fec6f0479c778d0bf04efd16af653eff7d7b538"
+  },
+  {
+    "id": "toptal:psoccreator",
+    "source": "toptal",
+    "key": "psoccreator",
+    "name": "PSoCCreator",
+    "aliases": ["psoccreator"],
+    "path": "data/ignores/toptal/raw/psoccreator.gitignore",
+    "hash": "b193015fdc02ec973da1c7daa579ef9ff044bd8009d3379e9bb2d2c45a0c6687"
+  },
+  {
+    "id": "toptal:pulumi",
+    "source": "toptal",
+    "key": "pulumi",
+    "name": "Pulumi",
+    "aliases": ["pulumi"],
+    "path": "data/ignores/toptal/raw/pulumi.gitignore",
+    "hash": "5b2d85cd96c8dd88e5435fb45ad6c4116e7c8b8034f3068871bca40f978813e2"
+  },
+  {
+    "id": "toptal:pulumiplusstacks",
+    "source": "toptal",
+    "key": "pulumiplusstacks",
+    "name": "Pulumi+stacks",
+    "aliases": ["pulumi+stacks", "pulumiplusstacks"],
+    "path": "data/ignores/toptal/raw/pulumiplusstacks.gitignore",
+    "hash": "670474d35e692c99d4a5a9b453b2d76e35926329e748eb9f981d1736546f1f61"
+  },
+  {
+    "id": "toptal:puppet",
+    "source": "toptal",
+    "key": "puppet",
+    "name": "Puppet",
+    "aliases": ["puppet"],
+    "path": "data/ignores/toptal/raw/puppet.gitignore",
+    "hash": "e82d28ff37b7ef4294172f59a0f50cf4f4c3addbe52ef62f41332782bc064956"
+  },
+  {
+    "id": "toptal:puppet-librarian",
+    "source": "toptal",
+    "key": "puppet-librarian",
+    "name": "puppet-librarian",
+    "aliases": ["puppet-librarian"],
+    "path": "data/ignores/toptal/raw/puppet-librarian.gitignore",
+    "hash": "fc95ae298b60f0d558bfe27514a6e318ae867e48a59a61da9c4ff82da0e3e054"
+  },
+  {
+    "id": "toptal:purebasic",
+    "source": "toptal",
+    "key": "purebasic",
+    "name": "PureBasic",
+    "aliases": ["purebasic"],
+    "path": "data/ignores/toptal/raw/purebasic.gitignore",
+    "hash": "4a607ca039b574342406bac24b5c90c9ae940fd883e2691efac3123988309ad6"
+  },
+  {
+    "id": "toptal:purescript",
+    "source": "toptal",
+    "key": "purescript",
+    "name": "PureScript",
+    "aliases": ["purescript"],
+    "path": "data/ignores/toptal/raw/purescript.gitignore",
+    "hash": "ae50b92c636de4ecd048994102d7a8978b8d9ce5ffc307b43e991690e22bc892"
+  },
+  {
+    "id": "toptal:putty",
+    "source": "toptal",
+    "key": "putty",
+    "name": "PuTTY",
+    "aliases": ["putty"],
+    "path": "data/ignores/toptal/raw/putty.gitignore",
+    "hash": "3bee30c5ab5673f76f243e9c7a83bd9c4d501b1edc24a74a36acdb838123fce4"
+  },
+  {
+    "id": "toptal:pvs",
+    "source": "toptal",
+    "key": "pvs",
+    "name": "PVS",
+    "aliases": ["pvs"],
+    "path": "data/ignores/toptal/raw/pvs.gitignore",
+    "hash": "265dc00e40c807b5f6ed0b4355e5a2c3eeadbf13c7849b2229437f28efc135e1"
+  },
+  {
+    "id": "toptal:pycharm",
+    "source": "toptal",
+    "key": "pycharm",
+    "name": "PyCharm",
+    "aliases": ["pycharm"],
+    "path": "data/ignores/toptal/raw/pycharm.gitignore",
+    "hash": "314bf1dea756301b586b8fa681d7ea2639af688f528b7872cbeb6d54d955826e"
+  },
+  {
+    "id": "toptal:pycharmplusall",
+    "source": "toptal",
+    "key": "pycharmplusall",
+    "name": "PyCharm+all",
+    "aliases": ["pycharm+all", "pycharmplusall"],
+    "path": "data/ignores/toptal/raw/pycharmplusall.gitignore",
+    "hash": "8c802d4974fa7dcf576e4f4d52aaadb1e5eae0949720c4270dc051147814599a"
+  },
+  {
+    "id": "toptal:pycharmplusiml",
+    "source": "toptal",
+    "key": "pycharmplusiml",
+    "name": "PyCharm+iml",
+    "aliases": ["pycharm+iml", "pycharmplusiml"],
+    "path": "data/ignores/toptal/raw/pycharmplusiml.gitignore",
+    "hash": "325d412f1ead402da4db2c54fc5f94fe923af1730125ccc88448df917eb0bfec"
+  },
+  {
+    "id": "toptal:pydev",
+    "source": "toptal",
+    "key": "pydev",
+    "name": "pydev",
+    "aliases": ["pydev"],
+    "path": "data/ignores/toptal/raw/pydev.gitignore",
+    "hash": "2fbad5665a6ac9f235a7ad06e5bf42e8a479c24edd1062246e089e04ad9ad83e"
+  },
+  {
+    "id": "toptal:python",
+    "source": "toptal",
+    "key": "python",
+    "name": "Python",
+    "aliases": ["python"],
+    "path": "data/ignores/toptal/raw/python.gitignore",
+    "hash": "5630a861c2f71df4f57bcb16d6d42500bafba24f60be9b4fb58bc2fe7fd5f725"
+  },
+  {
+    "id": "toptal:pythonvanilla",
+    "source": "toptal",
+    "key": "pythonvanilla",
+    "name": "PythonVanilla",
+    "aliases": ["pythonvanilla"],
+    "path": "data/ignores/toptal/raw/pythonvanilla.gitignore",
+    "hash": "89540cb207aa69a254dfd28bc178149ff897ed43097756c85f1e8bde273c1005"
+  },
+  {
+    "id": "toptal:qml",
+    "source": "toptal",
+    "key": "qml",
+    "name": "QML",
+    "aliases": ["qml"],
+    "path": "data/ignores/toptal/raw/qml.gitignore",
+    "hash": "d97d3c2fa011066ae7a648463497f6f6d1e2e23fdeb21b1cae4dc863b754aede"
+  },
+  {
+    "id": "toptal:qooxdoo",
+    "source": "toptal",
+    "key": "qooxdoo",
+    "name": "Qooxdoo",
+    "aliases": ["qooxdoo"],
+    "path": "data/ignores/toptal/raw/qooxdoo.gitignore",
+    "hash": "ac175b8c9f4e07344293c9f94218d2ef3d0781f4abf9554ae58fe30526f5f554"
+  },
+  {
+    "id": "toptal:qt",
+    "source": "toptal",
+    "key": "qt",
+    "name": "Qt",
+    "aliases": ["qt"],
+    "path": "data/ignores/toptal/raw/qt.gitignore",
+    "hash": "7e42962d0313a0dcf67eb91f13139a93759445a5221035b271392ea4eba4e8b7"
+  },
+  {
+    "id": "toptal:qtcreator",
+    "source": "toptal",
+    "key": "qtcreator",
+    "name": "QtCreator",
+    "aliases": ["qtcreator"],
+    "path": "data/ignores/toptal/raw/qtcreator.gitignore",
+    "hash": "00afe57d8890901643deb55bbb06f50f6da8c0e586700b5715068fb88bb99869"
+  },
+  {
+    "id": "toptal:r",
+    "source": "toptal",
+    "key": "r",
+    "name": "R",
+    "aliases": ["r"],
+    "path": "data/ignores/toptal/raw/r.gitignore",
+    "hash": "d1b3845c120cfe1e0ee93df2be0f58cbed4e206f81f9cbe572a75b689efe7c0d"
+  },
+  {
+    "id": "toptal:racket",
+    "source": "toptal",
+    "key": "racket",
+    "name": "Racket",
+    "aliases": ["racket"],
+    "path": "data/ignores/toptal/raw/racket.gitignore",
+    "hash": "b3d8595068e4b2e729c545377731c25823f073d975fa9d5614190b9a93789525"
+  },
+  {
+    "id": "toptal:rails",
+    "source": "toptal",
+    "key": "rails",
+    "name": "Rails",
+    "aliases": ["rails"],
+    "path": "data/ignores/toptal/raw/rails.gitignore",
+    "hash": "1b709e27da31c350b00d9ad4d726f0641c41d74b3f798d8de2264a1b9556e544"
+  },
+  {
+    "id": "toptal:react",
+    "source": "toptal",
+    "key": "react",
+    "name": "react",
+    "aliases": ["react"],
+    "path": "data/ignores/toptal/raw/react.gitignore",
+    "hash": "c362f6cf59afe9efbd871e5e42cc805018d9c2965fe38081362077471ba7f25d"
+  },
+  {
+    "id": "toptal:reactnative",
+    "source": "toptal",
+    "key": "reactnative",
+    "name": "ReactNative",
+    "aliases": ["reactnative"],
+    "path": "data/ignores/toptal/raw/reactnative.gitignore",
+    "hash": "c6abebd99adb47dda03d9c0c8f9708c296f8dd02788d4e494a31306dae24925b"
+  },
+  {
+    "id": "toptal:reasonml",
+    "source": "toptal",
+    "key": "reasonml",
+    "name": "Reasonml",
+    "aliases": ["reasonml"],
+    "path": "data/ignores/toptal/raw/reasonml.gitignore",
+    "hash": "562eea0f569b2282b8287b5da42a69750910b8ce02ace32d7a91747840d5b4e3"
+  },
+  {
+    "id": "toptal:red",
+    "source": "toptal",
+    "key": "red",
+    "name": "Red",
+    "aliases": ["red"],
+    "path": "data/ignores/toptal/raw/red.gitignore",
+    "hash": "43219c0862b114ea87a6ac125d6eba6d0c656165f47ee352ddd5462650f081de"
+  },
+  {
+    "id": "toptal:redcar",
+    "source": "toptal",
+    "key": "redcar",
+    "name": "Redcar",
+    "aliases": ["redcar"],
+    "path": "data/ignores/toptal/raw/redcar.gitignore",
+    "hash": "9df6c9580ef51ccd59d783ac9fbbfd81bd38533d73def357d6a5bb864b50b8c8"
+  },
+  {
+    "id": "toptal:redis",
+    "source": "toptal",
+    "key": "redis",
+    "name": "Redis",
+    "aliases": ["redis"],
+    "path": "data/ignores/toptal/raw/redis.gitignore",
+    "hash": "3803c16c44eec2cc23dfd3c899b46cef2463d9ca5c8b3db1aefccc02051b0c2c"
+  },
+  {
+    "id": "toptal:remix",
+    "source": "toptal",
+    "key": "remix",
+    "name": "Remix",
+    "aliases": ["remix"],
+    "path": "data/ignores/toptal/raw/remix.gitignore",
+    "hash": "0a1286306c4c90890010d233b8cf408c6155e45de7d837ebb5f88fd3d85c50bc"
+  },
+  {
+    "id": "toptal:remixplusarc",
+    "source": "toptal",
+    "key": "remixplusarc",
+    "name": "Remix+Arc",
+    "aliases": ["remix+arc", "remixplusarc"],
+    "path": "data/ignores/toptal/raw/remixplusarc.gitignore",
+    "hash": "447dfb389ad3413347a86aebeec7c351babac3ba6f40476fef1642907ea0407b"
+  },
+  {
+    "id": "toptal:remixpluscloudflarepages",
+    "source": "toptal",
+    "key": "remixpluscloudflarepages",
+    "name": "Remix+CloudflarePages",
+    "aliases": ["remix+cloudflarepages", "remixpluscloudflarepages"],
+    "path": "data/ignores/toptal/raw/remixpluscloudflarepages.gitignore",
+    "hash": "50e9d88e6c2838ead7e15a1ca870c85ee7d0db84fda8f6803c5947b196afd054"
+  },
+  {
+    "id": "toptal:remixpluscloudflareworkers",
+    "source": "toptal",
+    "key": "remixpluscloudflareworkers",
+    "name": "Remix+CloudflareWorkers",
+    "aliases": ["remix+cloudflareworkers", "remixpluscloudflareworkers"],
+    "path": "data/ignores/toptal/raw/remixpluscloudflareworkers.gitignore",
+    "hash": "0795b1b1e20e325317777e23bbea737a54ba3b3f94be607656af1c36339cd37d"
+  },
+  {
+    "id": "toptal:remixplusnetlify",
+    "source": "toptal",
+    "key": "remixplusnetlify",
+    "name": "Remix+Netlify",
+    "aliases": ["remix+netlify", "remixplusnetlify"],
+    "path": "data/ignores/toptal/raw/remixplusnetlify.gitignore",
+    "hash": "8c42b731f41b74eaed1cfd08bbb26b1e6d02dc3d365481378586a7d52498d0da"
+  },
+  {
+    "id": "toptal:remixplusvercel",
+    "source": "toptal",
+    "key": "remixplusvercel",
+    "name": "Remix+Vercel",
+    "aliases": ["remix+vercel", "remixplusvercel"],
+    "path": "data/ignores/toptal/raw/remixplusvercel.gitignore",
+    "hash": "0bf13b9a0f4797b1399a848676871aa91b0f0cd38fd431daf3206b9d9222cb24"
+  },
+  {
+    "id": "toptal:renpy",
+    "source": "toptal",
+    "key": "renpy",
+    "name": "Renpy",
+    "aliases": ["renpy"],
+    "path": "data/ignores/toptal/raw/renpy.gitignore",
+    "hash": "e3301d48be04b99ab8c5e85e64ad3e91593427c0e53bcc0ec193a7bc1e9a11cc"
+  },
+  {
+    "id": "toptal:replit",
+    "source": "toptal",
+    "key": "replit",
+    "name": "replit",
+    "aliases": ["replit"],
+    "path": "data/ignores/toptal/raw/replit.gitignore",
+    "hash": "92574bc5ffa91c7d8f3583381f38cde07149c85c1fd32670d8ce715fad7458dd"
+  },
+  {
+    "id": "toptal:retool",
+    "source": "toptal",
+    "key": "retool",
+    "name": "retool",
+    "aliases": ["retool"],
+    "path": "data/ignores/toptal/raw/retool.gitignore",
+    "hash": "2e6d1aeaa57d2f8c1ed774768c1fd6e848aa4a99da31ec28383a4de1b44b5199"
+  },
+  {
+    "id": "toptal:rhodesrhomobile",
+    "source": "toptal",
+    "key": "rhodesrhomobile",
+    "name": "RhodesRhomobile",
+    "aliases": ["rhodesrhomobile"],
+    "path": "data/ignores/toptal/raw/rhodesrhomobile.gitignore",
+    "hash": "771da5ed567aecdbc1234fc84e7ff9f483c639fbc73cab1cc40f5521138e55a9"
+  },
+  {
+    "id": "toptal:rider",
+    "source": "toptal",
+    "key": "rider",
+    "name": "Rider",
+    "aliases": ["rider"],
+    "path": "data/ignores/toptal/raw/rider.gitignore",
+    "hash": "7aac3eb0250d6a6424318c051445e9ae0aa845a45e3fadc8c04a9a2394bef46e"
+  },
+  {
+    "id": "toptal:robotframework",
+    "source": "toptal",
+    "key": "robotframework",
+    "name": "robotframework",
+    "aliases": ["robotframework"],
+    "path": "data/ignores/toptal/raw/robotframework.gitignore",
+    "hash": "b7138075348d71612edf0ccf018cf1a5866c3ac701f17467731dfd352f68a28e"
+  },
+  {
+    "id": "toptal:root",
+    "source": "toptal",
+    "key": "root",
+    "name": "ROOT",
+    "aliases": ["root"],
+    "path": "data/ignores/toptal/raw/root.gitignore",
+    "hash": "780ea8b348a485b4ae5d6e425dcc92eb21520057c1f16c759fbb0eb3a290c6e4"
+  },
+  {
+    "id": "toptal:ros",
+    "source": "toptal",
+    "key": "ros",
+    "name": "ROS",
+    "aliases": ["ros"],
+    "path": "data/ignores/toptal/raw/ros.gitignore",
+    "hash": "402829636bf615f0f677592be9d19cad0cf0df3328e876edc0134b783c45658c"
+  },
+  {
+    "id": "toptal:ros2",
+    "source": "toptal",
+    "key": "ros2",
+    "name": "ROS2",
+    "aliases": ["ros2"],
+    "path": "data/ignores/toptal/raw/ros2.gitignore",
+    "hash": "716c89d62164aaefa4a8ef5cf7781e344cb545296c6a2e1c4c92208d369aeffb"
+  },
+  {
+    "id": "toptal:ruby",
+    "source": "toptal",
+    "key": "ruby",
+    "name": "Ruby",
+    "aliases": ["ruby"],
+    "path": "data/ignores/toptal/raw/ruby.gitignore",
+    "hash": "7e423cbb14e11e7906ec873a90fe5bc3a5c4f2401bb65decda2a97801f6d9e3a"
+  },
+  {
+    "id": "toptal:rubymine",
+    "source": "toptal",
+    "key": "rubymine",
+    "name": "RubyMine",
+    "aliases": ["rubymine"],
+    "path": "data/ignores/toptal/raw/rubymine.gitignore",
+    "hash": "f040c277cecc82f304f92869226aad3d7284ab1f928b49590f0a7b3b5a91809e"
+  },
+  {
+    "id": "toptal:rubymineplusall",
+    "source": "toptal",
+    "key": "rubymineplusall",
+    "name": "RubyMine+all",
+    "aliases": ["rubymine+all", "rubymineplusall"],
+    "path": "data/ignores/toptal/raw/rubymineplusall.gitignore",
+    "hash": "eed29002612b0cb4cada7418d1d46bb678b8340fbe7c44fb4ab78b88dc11a1e2"
+  },
+  {
+    "id": "toptal:rubymineplusiml",
+    "source": "toptal",
+    "key": "rubymineplusiml",
+    "name": "RubyMine+iml",
+    "aliases": ["rubymine+iml", "rubymineplusiml"],
+    "path": "data/ignores/toptal/raw/rubymineplusiml.gitignore",
+    "hash": "b5b80eede6cda6c847515d1a1a172ad9524ad0b1b467dbd61f10f0177fa0e544"
+  },
+  {
+    "id": "toptal:rust",
+    "source": "toptal",
+    "key": "rust",
+    "name": "Rust",
+    "aliases": ["rust"],
+    "path": "data/ignores/toptal/raw/rust.gitignore",
+    "hash": "c2158ade42eabc6404fea1548aa3e058dc6dffe4b99b1f96f492b1dd8a9d5806"
+  },
+  {
+    "id": "toptal:rust-analyzer",
+    "source": "toptal",
+    "key": "rust-analyzer",
+    "name": "rust-analyzer",
+    "aliases": ["rust-analyzer"],
+    "path": "data/ignores/toptal/raw/rust-analyzer.gitignore",
+    "hash": "c2cc87c3a7d11b22488aa332b53e899db36fc25df1bcd152cbfde0edf8446891"
+  },
+  {
+    "id": "toptal:salesforce",
+    "source": "toptal",
+    "key": "salesforce",
+    "name": "Salesforce",
+    "aliases": ["salesforce"],
+    "path": "data/ignores/toptal/raw/salesforce.gitignore",
+    "hash": "4b153816bb130e654cbffa2c3b93af18eccdfaecd84f3ed99498d66ef6a46d62"
+  },
+  {
+    "id": "toptal:salesforcedx",
+    "source": "toptal",
+    "key": "salesforcedx",
+    "name": "SalesforceDX",
+    "aliases": ["salesforcedx"],
+    "path": "data/ignores/toptal/raw/salesforcedx.gitignore",
+    "hash": "c0f6596e45a0f52b8552ce22d5b56f6a0b6921c8d74d6fd2435405532efb050e"
+  },
+  {
+    "id": "toptal:sam",
+    "source": "toptal",
+    "key": "sam",
+    "name": "SAM",
+    "aliases": ["sam"],
+    "path": "data/ignores/toptal/raw/sam.gitignore",
+    "hash": "6e0cf0be0386dccf8e1e00f7c1bb06d206d9e05272669bcaaad565ae2f60f981"
+  },
+  {
+    "id": "toptal:samplusconfig",
+    "source": "toptal",
+    "key": "samplusconfig",
+    "name": "SAM+config",
+    "aliases": ["sam+config", "samplusconfig"],
+    "path": "data/ignores/toptal/raw/samplusconfig.gitignore",
+    "hash": "bc546cbf18940ab679f72f51d0cbc140701288e7ebe8183c37a57db4504d0a00"
+  },
+  {
+    "id": "toptal:sas",
+    "source": "toptal",
+    "key": "sas",
+    "name": "SAS",
+    "aliases": ["sas"],
+    "path": "data/ignores/toptal/raw/sas.gitignore",
+    "hash": "d8d33af2cd90dd1c2681465f0b4ddea95857309ef749dd33577128faba3a6eb1"
+  },
+  {
+    "id": "toptal:sass",
+    "source": "toptal",
+    "key": "sass",
+    "name": "Sass",
+    "aliases": ["sass"],
+    "path": "data/ignores/toptal/raw/sass.gitignore",
+    "hash": "d421932e3000c88a9fd80485460c5b2bfc6587d6ec009409eb7e9fe076417d46"
+  },
+  {
+    "id": "toptal:sbt",
+    "source": "toptal",
+    "key": "sbt",
+    "name": "SBT",
+    "aliases": ["sbt"],
+    "path": "data/ignores/toptal/raw/sbt.gitignore",
+    "hash": "6e33e108c25698cf74da22e0a250e386957be0af967dfc972ae492f61f1bf4e1"
+  },
+  {
+    "id": "toptal:scala",
+    "source": "toptal",
+    "key": "scala",
+    "name": "Scala",
+    "aliases": ["scala"],
+    "path": "data/ignores/toptal/raw/scala.gitignore",
+    "hash": "f8364240360a018bd9d9fdf93cf3dda65b7a6db7f99fdebf7df29363a431d515"
+  },
+  {
+    "id": "toptal:scheme",
+    "source": "toptal",
+    "key": "scheme",
+    "name": "Scheme",
+    "aliases": ["scheme"],
+    "path": "data/ignores/toptal/raw/scheme.gitignore",
+    "hash": "1c252100320747061dd8b49593c3c831817081ce276b11d17da83112a5230b99"
+  },
+  {
+    "id": "toptal:scons",
+    "source": "toptal",
+    "key": "scons",
+    "name": "SCons",
+    "aliases": ["scons"],
+    "path": "data/ignores/toptal/raw/scons.gitignore",
+    "hash": "903f235a3203aafe73c645d55945a5069d22c9b838c4edd176c57cf294957b31"
+  },
+  {
+    "id": "toptal:scrivener",
+    "source": "toptal",
+    "key": "scrivener",
+    "name": "Scrivener",
+    "aliases": ["scrivener"],
+    "path": "data/ignores/toptal/raw/scrivener.gitignore",
+    "hash": "9e764e289f251fdffe4a37c65e19e8e281ca9fcea3f636d456aae22741756fe0"
+  },
+  {
+    "id": "toptal:sdcc",
+    "source": "toptal",
+    "key": "sdcc",
+    "name": "Sdcc",
+    "aliases": ["sdcc"],
+    "path": "data/ignores/toptal/raw/sdcc.gitignore",
+    "hash": "3945185dfd4d7fe4e0caf4c2418a576242dd171dd8918b3b30345c6cf51280f2"
+  },
+  {
+    "id": "toptal:seamgen",
+    "source": "toptal",
+    "key": "seamgen",
+    "name": "SeamGen",
+    "aliases": ["seamgen"],
+    "path": "data/ignores/toptal/raw/seamgen.gitignore",
+    "hash": "e6fea3923aefa024350cee8be61221bcfc6a69808ce54decfeedc629e81780d0"
+  },
+  {
+    "id": "toptal:senchatouch",
+    "source": "toptal",
+    "key": "senchatouch",
+    "name": "SenchaTouch",
+    "aliases": ["senchatouch"],
+    "path": "data/ignores/toptal/raw/senchatouch.gitignore",
+    "hash": "e0cff9d46fbb7fb83bbf54f65efd2eadba4e6fbc36cf0e9e8aa18ff0f45f1a77"
+  },
+  {
+    "id": "toptal:serverless",
+    "source": "toptal",
+    "key": "serverless",
+    "name": "Serverless",
+    "aliases": ["serverless"],
+    "path": "data/ignores/toptal/raw/serverless.gitignore",
+    "hash": "9cb88715f2cb60b80d9bd4a8814b79b9004c7c4d128cda9517a2401580b5b0af"
+  },
+  {
+    "id": "toptal:shopware",
+    "source": "toptal",
+    "key": "shopware",
+    "name": "Shopware",
+    "aliases": ["shopware"],
+    "path": "data/ignores/toptal/raw/shopware.gitignore",
+    "hash": "897124cea44369d47b487cd78a553a76436222d083651dabd82fe44e91f05734"
+  },
+  {
+    "id": "toptal:silverstripe",
+    "source": "toptal",
+    "key": "silverstripe",
+    "name": "Silverstripe",
+    "aliases": ["silverstripe"],
+    "path": "data/ignores/toptal/raw/silverstripe.gitignore",
+    "hash": "f5d020c6ed3a1b28c88733e120e59ff900b85efe351453220c1b9882640407e6"
+  },
+  {
+    "id": "toptal:sketchup",
+    "source": "toptal",
+    "key": "sketchup",
+    "name": "SketchUp",
+    "aliases": ["sketchup"],
+    "path": "data/ignores/toptal/raw/sketchup.gitignore",
+    "hash": "dee32c44be9acb88492f78fbb37f6bf1740f19a4a3cbaa0352ecdf1ada6cd145"
+  },
+  {
+    "id": "toptal:slickedit",
+    "source": "toptal",
+    "key": "slickedit",
+    "name": "SlickEdit",
+    "aliases": ["slickedit"],
+    "path": "data/ignores/toptal/raw/slickedit.gitignore",
+    "hash": "47fee9a64279dca3bcf7354b31b2b6f723dd06b8588bbf6380d2fed1deed7c8c"
+  },
+  {
+    "id": "toptal:smalltalk",
+    "source": "toptal",
+    "key": "smalltalk",
+    "name": "Smalltalk",
+    "aliases": ["smalltalk"],
+    "path": "data/ignores/toptal/raw/smalltalk.gitignore",
+    "hash": "162b672ec74da3b0929590013f780478efb535ae749b8cc05a0be4b8b496a652"
+  },
+  {
+    "id": "toptal:snap",
+    "source": "toptal",
+    "key": "snap",
+    "name": "Snap",
+    "aliases": ["snap"],
+    "path": "data/ignores/toptal/raw/snap.gitignore",
+    "hash": "50994dd3b39087eb0afd00c97fb70d304c7c613497bd80a5c0d85d58685bd27e"
+  },
+  {
+    "id": "toptal:snapcraft",
+    "source": "toptal",
+    "key": "snapcraft",
+    "name": "Snapcraft",
+    "aliases": ["snapcraft"],
+    "path": "data/ignores/toptal/raw/snapcraft.gitignore",
+    "hash": "71236693a96bc9faaaa0c00f263496af02a4c63b8186b4b43454e7334f1522ad"
+  },
+  {
+    "id": "toptal:snyk",
+    "source": "toptal",
+    "key": "snyk",
+    "name": "Snyk",
+    "aliases": ["snyk"],
+    "path": "data/ignores/toptal/raw/snyk.gitignore",
+    "hash": "1006c7e74f1fbcca1419c4084aee7b83e3ee052873bfe8b743c780df48be3367"
+  },
+  {
+    "id": "toptal:solidity",
+    "source": "toptal",
+    "key": "solidity",
+    "name": "Solidity",
+    "aliases": ["solidity"],
+    "path": "data/ignores/toptal/raw/solidity.gitignore",
+    "hash": "64c3da099048074f90f2682d451153ac20df55d6ac6d792bf1722268511ba1d7"
+  },
+  {
+    "id": "toptal:soliditytruffle",
+    "source": "toptal",
+    "key": "soliditytruffle",
+    "name": "SolidityTruffle",
+    "aliases": ["soliditytruffle"],
+    "path": "data/ignores/toptal/raw/soliditytruffle.gitignore",
+    "hash": "aef1f2a230aac182831da3176e3ebd369f46a5a52a54ff82b2d58d05fae15a3b"
+  },
+  {
+    "id": "toptal:sonar",
+    "source": "toptal",
+    "key": "sonar",
+    "name": "Sonar",
+    "aliases": ["sonar"],
+    "path": "data/ignores/toptal/raw/sonar.gitignore",
+    "hash": "8fce7d7ee70825164f7e6fe3cd6a6200085aaff8872f0aa80cdcb8837ed9d19f"
+  },
+  {
+    "id": "toptal:sonarqube",
+    "source": "toptal",
+    "key": "sonarqube",
+    "name": "SonarQube",
+    "aliases": ["sonarqube"],
+    "path": "data/ignores/toptal/raw/sonarqube.gitignore",
+    "hash": "4f759c18c15e255c551b475b891c6bf35ee05455e7a9287d409fb9e37f68b8b5"
+  },
+  {
+    "id": "toptal:sourcepawn",
+    "source": "toptal",
+    "key": "sourcepawn",
+    "name": "SourcePawn",
+    "aliases": ["sourcepawn"],
+    "path": "data/ignores/toptal/raw/sourcepawn.gitignore",
+    "hash": "4ab16d5e7a99257df820357ad6577e385ac6dbb270e51aa1851c3ad4e9c2ddb3"
+  },
+  {
+    "id": "toptal:spark",
+    "source": "toptal",
+    "key": "spark",
+    "name": "Spark",
+    "aliases": ["spark"],
+    "path": "data/ignores/toptal/raw/spark.gitignore",
+    "hash": "1a7d298ec3531a9b8354ea540aec60d195a62c7520b09d1a4d9a2105b25283a7"
+  },
+  {
+    "id": "toptal:specflow",
+    "source": "toptal",
+    "key": "specflow",
+    "name": "SpecFlow",
+    "aliases": ["specflow"],
+    "path": "data/ignores/toptal/raw/specflow.gitignore",
+    "hash": "8477cf78305d786b94ef845a8370afdb75abba207a9f034d04c95b4a8cdd429a"
+  },
+  {
+    "id": "toptal:splunk",
+    "source": "toptal",
+    "key": "splunk",
+    "name": "Splunk",
+    "aliases": ["splunk"],
+    "path": "data/ignores/toptal/raw/splunk.gitignore",
+    "hash": "038fd1b848a1ff2fb78d8b86f97125a8d5b23903674693a1b2f80d22d4b7d8d2"
+  },
+  {
+    "id": "toptal:spreadsheet",
+    "source": "toptal",
+    "key": "spreadsheet",
+    "name": "Spreadsheet",
+    "aliases": ["spreadsheet"],
+    "path": "data/ignores/toptal/raw/spreadsheet.gitignore",
+    "hash": "f5635e9bd7420cc3395ea8bb35511e4e633e3f352b4e131b7a961217b8228141"
+  },
+  {
+    "id": "toptal:ssh",
+    "source": "toptal",
+    "key": "ssh",
+    "name": "SSH",
+    "aliases": ["ssh"],
+    "path": "data/ignores/toptal/raw/ssh.gitignore",
+    "hash": "29f8836fd555feb5d3839f51cee55df2e1e415a9a59c367fed5e89e2168b1163"
+  },
+  {
+    "id": "toptal:standardml",
+    "source": "toptal",
+    "key": "standardml",
+    "name": "StandardML",
+    "aliases": ["standardml"],
+    "path": "data/ignores/toptal/raw/standardml.gitignore",
+    "hash": "24748d37b77fb6a1bd50e273c9bf01982c0ae55c64205c589a2c5761f9a5e075"
+  },
+  {
+    "id": "toptal:stata",
+    "source": "toptal",
+    "key": "stata",
+    "name": "Stata",
+    "aliases": ["stata"],
+    "path": "data/ignores/toptal/raw/stata.gitignore",
+    "hash": "f50ae0c4dedc2a29d23e500761fb80dd4de2f0ab7baacd311883d4733a0f7fe1"
+  },
+  {
+    "id": "toptal:stdlib",
+    "source": "toptal",
+    "key": "stdlib",
+    "name": "StdLib",
+    "aliases": ["stdlib"],
+    "path": "data/ignores/toptal/raw/stdlib.gitignore",
+    "hash": "3479ec3c9f63d2ea61866db1a78375e6b7b143bede33715dc5c0d8f9cf1f5f1a"
+  },
+  {
+    "id": "toptal:stella",
+    "source": "toptal",
+    "key": "stella",
+    "name": "Stella",
+    "aliases": ["stella"],
+    "path": "data/ignores/toptal/raw/stella.gitignore",
+    "hash": "14a6387bd4a952d99849d58ee4454532da83055c51c93bf15708046a65666ec3"
+  },
+  {
+    "id": "toptal:stellar",
+    "source": "toptal",
+    "key": "stellar",
+    "name": "Stellar",
+    "aliases": ["stellar"],
+    "path": "data/ignores/toptal/raw/stellar.gitignore",
+    "hash": "e37130d9aff1f5dd88506ca7e11a6de1cadb208455a93b372b70e6d2ec5eed87"
+  },
+  {
+    "id": "toptal:storybookjs",
+    "source": "toptal",
+    "key": "storybookjs",
+    "name": "StorybookJs",
+    "aliases": ["storybookjs"],
+    "path": "data/ignores/toptal/raw/storybookjs.gitignore",
+    "hash": "0d4f8e5f64bb1e20aa0faaccb29738d7e8e8ad8c068d19b5a9b2fa9e362ce07d"
+  },
+  {
+    "id": "toptal:strapi",
+    "source": "toptal",
+    "key": "strapi",
+    "name": "Strapi",
+    "aliases": ["strapi"],
+    "path": "data/ignores/toptal/raw/strapi.gitignore",
+    "hash": "ce6856c7f85404d5f9b985a3a8561285434d6b80f501b292b0852e85d126f7d4"
+  },
+  {
+    "id": "toptal:stylus",
+    "source": "toptal",
+    "key": "stylus",
+    "name": "Stylus",
+    "aliases": ["stylus"],
+    "path": "data/ignores/toptal/raw/stylus.gitignore",
+    "hash": "3c94b1a1830c9d767b9b44229d2bbdb81fd184977df510a5755153303736a630"
+  },
+  {
+    "id": "toptal:sublimetext",
+    "source": "toptal",
+    "key": "sublimetext",
+    "name": "SublimeText",
+    "aliases": ["sublimetext"],
+    "path": "data/ignores/toptal/raw/sublimetext.gitignore",
+    "hash": "9c01dd157810ecb07a2f407535a4d080694541aac827b55c61ddb99173ae30ef"
+  },
+  {
+    "id": "toptal:sugarcrm",
+    "source": "toptal",
+    "key": "sugarcrm",
+    "name": "SugarCRM",
+    "aliases": ["sugarcrm"],
+    "path": "data/ignores/toptal/raw/sugarcrm.gitignore",
+    "hash": "71fbf357bcce1e0b32559da26919042ce50e624ca9c6676e0338d026457d75ec"
+  },
+  {
+    "id": "toptal:svelte",
+    "source": "toptal",
+    "key": "svelte",
+    "name": "Svelte",
+    "aliases": ["svelte"],
+    "path": "data/ignores/toptal/raw/svelte.gitignore",
+    "hash": "c93d22cb2fdd506cb9b2804ab6ca8c79e03b01ff0a20f2e0b39de0601e35fe05"
+  },
+  {
+    "id": "toptal:svn",
+    "source": "toptal",
+    "key": "svn",
+    "name": "SVN",
+    "aliases": ["svn"],
+    "path": "data/ignores/toptal/raw/svn.gitignore",
+    "hash": "443f0a7c544b82c88dde9014b362be3f16457ba2cf8231f9614a2c92eaf527a0"
+  },
+  {
+    "id": "toptal:swift",
+    "source": "toptal",
+    "key": "swift",
+    "name": "Swift",
+    "aliases": ["swift"],
+    "path": "data/ignores/toptal/raw/swift.gitignore",
+    "hash": "df126ef993047fb801b17c7551f0c45678dc6015e6d581d10bf25297517c1836"
+  },
+  {
+    "id": "toptal:swiftpackagemanager",
+    "source": "toptal",
+    "key": "swiftpackagemanager",
+    "name": "SwiftPackageManager",
+    "aliases": ["swiftpackagemanager"],
+    "path": "data/ignores/toptal/raw/swiftpackagemanager.gitignore",
+    "hash": "8dd91bc971c9f303bc92643a7dc0bfe1922290447977b513beef4c898882373a"
+  },
+  {
+    "id": "toptal:swiftpm",
+    "source": "toptal",
+    "key": "swiftpm",
+    "name": "SwiftPM",
+    "aliases": ["swiftpm"],
+    "path": "data/ignores/toptal/raw/swiftpm.gitignore",
+    "hash": "0164da2964989f94ec45f6e5446410e275e621a049eee5ef314c89764023029a"
+  },
+  {
+    "id": "toptal:symfony",
+    "source": "toptal",
+    "key": "symfony",
+    "name": "Symfony",
+    "aliases": ["symfony"],
+    "path": "data/ignores/toptal/raw/symfony.gitignore",
+    "hash": "7a8761f48179bf9ddae1adc211776cc35e8a0c921a75ab581cf5b73ebdaa4e74"
+  },
+  {
+    "id": "toptal:symphonycms",
+    "source": "toptal",
+    "key": "symphonycms",
+    "name": "SymphonyCMS",
+    "aliases": ["symphonycms"],
+    "path": "data/ignores/toptal/raw/symphonycms.gitignore",
+    "hash": "264d58620df1b85f1819d4ecafe9574655f674cf7e36eb0a4b5bbb97d43992e6"
+  },
+  {
+    "id": "toptal:synology",
+    "source": "toptal",
+    "key": "synology",
+    "name": "Synology",
+    "aliases": ["synology"],
+    "path": "data/ignores/toptal/raw/synology.gitignore",
+    "hash": "ce526821153f57f2913209533c451e740db8bfd1134856c6c58f70edf32399fd"
+  },
+  {
+    "id": "toptal:synopsysvcs",
+    "source": "toptal",
+    "key": "synopsysvcs",
+    "name": "SynopsysVCS",
+    "aliases": ["synopsysvcs"],
+    "path": "data/ignores/toptal/raw/synopsysvcs.gitignore",
+    "hash": "e8d6f903ae4ef2e02fab7b9d1c3a8e3c0c10137b9768df9f630932ff206acf8f"
+  },
+  {
+    "id": "toptal:tags",
+    "source": "toptal",
+    "key": "tags",
+    "name": "Tags",
+    "aliases": ["tags"],
+    "path": "data/ignores/toptal/raw/tags.gitignore",
+    "hash": "b1adff3c283012116a311afbfd197300643ad2f3c0f0f6bd3d326c6e30e3e6f0"
+  },
+  {
+    "id": "toptal:tarmainstallmate",
+    "source": "toptal",
+    "key": "tarmainstallmate",
+    "name": "TarmaInstallMate",
+    "aliases": ["tarmainstallmate"],
+    "path": "data/ignores/toptal/raw/tarmainstallmate.gitignore",
+    "hash": "d08a4e1a60b80313ec87527f75e754fad2248b9ab9283815ba8c4c72f81e3bda"
+  },
+  {
+    "id": "toptal:terraform",
+    "source": "toptal",
+    "key": "terraform",
+    "name": "Terraform",
+    "aliases": ["terraform"],
+    "path": "data/ignores/toptal/raw/terraform.gitignore",
+    "hash": "f5b290ed2d05a08bea84af8dedc4b4eff6810dbce3bde0730b2836b083dfb874"
+  },
+  {
+    "id": "toptal:terragrunt",
+    "source": "toptal",
+    "key": "terragrunt",
+    "name": "Terragrunt",
+    "aliases": ["terragrunt"],
+    "path": "data/ignores/toptal/raw/terragrunt.gitignore",
+    "hash": "d2d3ea17a8454f9bdba849002714a4fd3b6a80db556f547c78d4527bd6613d31"
+  },
+  {
+    "id": "toptal:test",
+    "source": "toptal",
+    "key": "test",
+    "name": "Test",
+    "aliases": ["test"],
+    "path": "data/ignores/toptal/raw/test.gitignore",
+    "hash": "0c1bfa3b3c35aa6924cce93e62d9d5cb9a250d15640c28ca51a5461715af638f"
+  },
+  {
+    "id": "toptal:testcomplete",
+    "source": "toptal",
+    "key": "testcomplete",
+    "name": "TestComplete",
+    "aliases": ["testcomplete"],
+    "path": "data/ignores/toptal/raw/testcomplete.gitignore",
+    "hash": "72eb04be3888ca304a4ddf4919b6025e4f1efb3dc178d588609a4de1fb573941"
+  },
+  {
+    "id": "toptal:testinfra",
+    "source": "toptal",
+    "key": "testinfra",
+    "name": "Testinfra",
+    "aliases": ["testinfra"],
+    "path": "data/ignores/toptal/raw/testinfra.gitignore",
+    "hash": "89086930d2fd5831f2321b1af4fd37d83d7dcd12af6061dedad9c386abffe50c"
+  },
+  {
+    "id": "toptal:tex",
+    "source": "toptal",
+    "key": "tex",
+    "name": "TeX",
+    "aliases": ["tex"],
+    "path": "data/ignores/toptal/raw/tex.gitignore",
+    "hash": "3ca43bf2550a90a84a7274c48e6e116cd48466ca049617739c1fe2a4fc88de16"
+  },
+  {
+    "id": "toptal:text",
+    "source": "toptal",
+    "key": "text",
+    "name": "Text",
+    "aliases": ["text"],
+    "path": "data/ignores/toptal/raw/text.gitignore",
+    "hash": "a7e676c16f97cbae12f04407ed6457e8af25690132aa8b7008050aea213110a1"
+  },
+  {
+    "id": "toptal:textmate",
+    "source": "toptal",
+    "key": "textmate",
+    "name": "TextMate",
+    "aliases": ["textmate"],
+    "path": "data/ignores/toptal/raw/textmate.gitignore",
+    "hash": "15624b0f4aec91100fb65032f1d0aa5b3511fb7371cbaa1c337b813186ce732a"
+  },
+  {
+    "id": "toptal:textpattern",
+    "source": "toptal",
+    "key": "textpattern",
+    "name": "Textpattern",
+    "aliases": ["textpattern"],
+    "path": "data/ignores/toptal/raw/textpattern.gitignore",
+    "hash": "0d4ba607aab9bbeb1a4ff1237154223d246944a594ec6e99ce0d86b6c33d022e"
+  },
+  {
+    "id": "toptal:theos-tweak",
+    "source": "toptal",
+    "key": "theos-tweak",
+    "name": "THEOS-Tweak",
+    "aliases": ["theos-tweak"],
+    "path": "data/ignores/toptal/raw/theos-tweak.gitignore",
+    "hash": "70d745e144c729db1f8906b43b4d9a22f358d2a5208e0306fd86ecff8106105b"
+  },
+  {
+    "id": "toptal:thinkphp",
+    "source": "toptal",
+    "key": "thinkphp",
+    "name": "ThinkPHP",
+    "aliases": ["thinkphp"],
+    "path": "data/ignores/toptal/raw/thinkphp.gitignore",
+    "hash": "5e9a5dd95d9d56fb14a76bed05ce7daf83ed5142b99e00e953094817792f91f5"
+  },
+  {
+    "id": "toptal:tlaplus",
+    "source": "toptal",
+    "key": "tlaplus",
+    "name": "TLA+",
+    "aliases": ["tla+", "tlaplus"],
+    "path": "data/ignores/toptal/raw/tlaplus.gitignore",
+    "hash": "19096da513dc71b03d5519d23e71dd92f39a816a986635a5876ab973a3c270f2"
+  },
+  {
+    "id": "toptal:toit",
+    "source": "toptal",
+    "key": "toit",
+    "name": "Toit",
+    "aliases": ["toit"],
+    "path": "data/ignores/toptal/raw/toit.gitignore",
+    "hash": "ec5e5c5b9a173d22dc076208520f6c3bc0079871439a7411c76f94479a703a7f"
+  },
+  {
+    "id": "toptal:tortoisegit",
+    "source": "toptal",
+    "key": "tortoisegit",
+    "name": "TortoiseGit",
+    "aliases": ["tortoisegit"],
+    "path": "data/ignores/toptal/raw/tortoisegit.gitignore",
+    "hash": "dccf003657f79ee01be69f9f0ad0dfbda2f77c05ca10df0ad169439538a691be"
+  },
+  {
+    "id": "toptal:tower",
+    "source": "toptal",
+    "key": "tower",
+    "name": "Tower",
+    "aliases": ["tower"],
+    "path": "data/ignores/toptal/raw/tower.gitignore",
+    "hash": "b953638b4c82252cd67cb0bb66a9df3af86c93255b0f2827853d69e9043d4ea1"
+  },
+  {
+    "id": "toptal:turbo",
+    "source": "toptal",
+    "key": "turbo",
+    "name": "Turbo",
+    "aliases": ["turbo"],
+    "path": "data/ignores/toptal/raw/turbo.gitignore",
+    "hash": "b312e4d491fa179e224f7b1b314b214ee9017cf22088e61171cfe28494914793"
+  },
+  {
+    "id": "toptal:turbogears2",
+    "source": "toptal",
+    "key": "turbogears2",
+    "name": "TurboGears2",
+    "aliases": ["turbogears2"],
+    "path": "data/ignores/toptal/raw/turbogears2.gitignore",
+    "hash": "c14569d7c25d1931897e12c6712aef77cb361478ddebba13432424571357c408"
+  },
+  {
+    "id": "toptal:twincat3",
+    "source": "toptal",
+    "key": "twincat3",
+    "name": "TwinCAT3",
+    "aliases": ["twincat3"],
+    "path": "data/ignores/toptal/raw/twincat3.gitignore",
+    "hash": "245537b467792afd8a655ab3ceca72dc92f988f8e9058eb2f249738172fbf167"
+  },
+  {
+    "id": "toptal:tye",
+    "source": "toptal",
+    "key": "tye",
+    "name": "Tye",
+    "aliases": ["tye"],
+    "path": "data/ignores/toptal/raw/tye.gitignore",
+    "hash": "239425dd9f1200f410e77f715ac664f97dd5beaebe30618888888770fa72d942"
+  },
+  {
+    "id": "toptal:typings",
+    "source": "toptal",
+    "key": "typings",
+    "name": "Typings",
+    "aliases": ["typings"],
+    "path": "data/ignores/toptal/raw/typings.gitignore",
+    "hash": "db89b73685fdc6b2f51d450264a8eb4966a76a3c09707eb4577267fa76184f48"
+  },
+  {
+    "id": "toptal:typo3",
+    "source": "toptal",
+    "key": "typo3",
+    "name": "Typo3",
+    "aliases": ["typo3"],
+    "path": "data/ignores/toptal/raw/typo3.gitignore",
+    "hash": "1bfc9f1a71305f2043028344e6971ae370437ad45382f9f42eb387db768875b8"
+  },
+  {
+    "id": "toptal:typo3-composer",
+    "source": "toptal",
+    "key": "typo3-composer",
+    "name": "TYPO3-composer",
+    "aliases": ["typo3-composer"],
+    "path": "data/ignores/toptal/raw/typo3-composer.gitignore",
+    "hash": "da65d91818b4d831ad143601c27f4d73e55915cc20c3106fba62b8cd6a586959"
+  },
+  {
+    "id": "toptal:umbraco",
+    "source": "toptal",
+    "key": "umbraco",
+    "name": "Umbraco",
+    "aliases": ["umbraco"],
+    "path": "data/ignores/toptal/raw/umbraco.gitignore",
+    "hash": "640466cc8c575f23e941ba69dd8b14646130e38475fd8f52a773045a39886d10"
+  },
+  {
+    "id": "toptal:unity",
+    "source": "toptal",
+    "key": "unity",
+    "name": "Unity",
+    "aliases": ["unity"],
+    "path": "data/ignores/toptal/raw/unity.gitignore",
+    "hash": "3b650670549fcf407de413e4ace5f2fce0dd181551aa513914e9f626a287e35b"
+  },
+  {
+    "id": "toptal:unrealengine",
+    "source": "toptal",
+    "key": "unrealengine",
+    "name": "UnrealEngine",
+    "aliases": ["unrealengine"],
+    "path": "data/ignores/toptal/raw/unrealengine.gitignore",
+    "hash": "76e8c9e70815d778c7455190c42d0f8ca88a44c2ded6e6f087502c5ed186a9d9"
+  },
+  {
+    "id": "toptal:vaadin",
+    "source": "toptal",
+    "key": "vaadin",
+    "name": "Vaadin",
+    "aliases": ["vaadin"],
+    "path": "data/ignores/toptal/raw/vaadin.gitignore",
+    "hash": "b996b5c2debc3570382892c2df04848e78986c7df000a109a99856adb15d5c8d"
+  },
+  {
+    "id": "toptal:vagrant",
+    "source": "toptal",
+    "key": "vagrant",
+    "name": "Vagrant",
+    "aliases": ["vagrant"],
+    "path": "data/ignores/toptal/raw/vagrant.gitignore",
+    "hash": "b9aed72a9b0a1d481738adc46d110561bf24104affa18c1ad5294deed929e086"
+  },
+  {
+    "id": "toptal:valgrind",
+    "source": "toptal",
+    "key": "valgrind",
+    "name": "Valgrind",
+    "aliases": ["valgrind"],
+    "path": "data/ignores/toptal/raw/valgrind.gitignore",
+    "hash": "c51f43417834c677f2fdbfdd26e06ee835e4705c223afe377252dea9b35a74e4"
+  },
+  {
+    "id": "toptal:vapor",
+    "source": "toptal",
+    "key": "vapor",
+    "name": "Vapor",
+    "aliases": ["vapor"],
+    "path": "data/ignores/toptal/raw/vapor.gitignore",
+    "hash": "07a189c1302c67676ad6c58353e5826195bc1a1b8e5a4532ca479753f0b914af"
+  },
+  {
+    "id": "toptal:vcpkg",
+    "source": "toptal",
+    "key": "vcpkg",
+    "name": "vcpkg",
+    "aliases": ["vcpkg"],
+    "path": "data/ignores/toptal/raw/vcpkg.gitignore",
+    "hash": "fc8b370f3dfec38477c3b53fd0831216d7dc83ebf2fc3479cdf582e9200389b5"
+  },
+  {
+    "id": "toptal:venv",
+    "source": "toptal",
+    "key": "venv",
+    "name": "venv",
+    "aliases": ["venv"],
+    "path": "data/ignores/toptal/raw/venv.gitignore",
+    "hash": "8e690659f9c1d3f60f7f001f3b5503451d958d5f1f3769e6dea418b16a641197"
+  },
+  {
+    "id": "toptal:vercel",
+    "source": "toptal",
+    "key": "vercel",
+    "name": "Vercel",
+    "aliases": ["vercel"],
+    "path": "data/ignores/toptal/raw/vercel.gitignore",
+    "hash": "356dd3e12d102945e4f0b8bb42d29dcf0e2823180b05388d1308af4019dfd40c"
+  },
+  {
+    "id": "toptal:vertx",
+    "source": "toptal",
+    "key": "vertx",
+    "name": "Vertx",
+    "aliases": ["vertx"],
+    "path": "data/ignores/toptal/raw/vertx.gitignore",
+    "hash": "2a7b83d95e0c57235b72c40aa0fd615f0d393e8376139e17b206fcb1a8d55db7"
+  },
+  {
+    "id": "toptal:video",
+    "source": "toptal",
+    "key": "video",
+    "name": "Video",
+    "aliases": ["video"],
+    "path": "data/ignores/toptal/raw/video.gitignore",
+    "hash": "d848296dfc07334276b8a056a8907d90e5582170a8bb3ee4e88a6b68ccbed768"
+  },
+  {
+    "id": "toptal:vim",
+    "source": "toptal",
+    "key": "vim",
+    "name": "Vim",
+    "aliases": ["vim"],
+    "path": "data/ignores/toptal/raw/vim.gitignore",
+    "hash": "1892ec9d073ab5a8bfebd71e613e453aa3605b750db60e8d266efd91a8b0259b"
+  },
+  {
+    "id": "toptal:virtualenv",
+    "source": "toptal",
+    "key": "virtualenv",
+    "name": "VirtualEnv",
+    "aliases": ["virtualenv"],
+    "path": "data/ignores/toptal/raw/virtualenv.gitignore",
+    "hash": "3f93aa1a989e171015da6bde4306736dc3da63c48a7f8905eede49a0b98e488a"
+  },
+  {
+    "id": "toptal:virtuoso",
+    "source": "toptal",
+    "key": "virtuoso",
+    "name": "Virtuoso",
+    "aliases": ["virtuoso"],
+    "path": "data/ignores/toptal/raw/virtuoso.gitignore",
+    "hash": "ce395d4b3cd72baefbad4a571a8e8d81f6e7f4ea66840e81545f426b597e8d55"
+  },
+  {
+    "id": "toptal:visualbasic",
+    "source": "toptal",
+    "key": "visualbasic",
+    "name": "VisualBasic",
+    "aliases": ["visualbasic"],
+    "path": "data/ignores/toptal/raw/visualbasic.gitignore",
+    "hash": "8c594614c11be468d82f7d2f16d5966ac6a9c7fa05942564d3cd1e06e10cdae0"
+  },
+  {
+    "id": "toptal:visualstudio",
+    "source": "toptal",
+    "key": "visualstudio",
+    "name": "VisualStudio",
+    "aliases": ["visualstudio"],
+    "path": "data/ignores/toptal/raw/visualstudio.gitignore",
+    "hash": "de7ca6aeb8a5b82cd5c198764475a42313be1234429441548f034176810f6305"
+  },
+  {
+    "id": "toptal:visualstudiocode",
+    "source": "toptal",
+    "key": "visualstudiocode",
+    "name": "VisualStudioCode",
+    "aliases": ["visualstudiocode"],
+    "path": "data/ignores/toptal/raw/visualstudiocode.gitignore",
+    "hash": "6f250c6354f82b3591f4e86ef077931517b223655cb26784ac514ba0b3cf9625"
+  },
+  {
+    "id": "toptal:vivado",
+    "source": "toptal",
+    "key": "vivado",
+    "name": "Vivado",
+    "aliases": ["vivado"],
+    "path": "data/ignores/toptal/raw/vivado.gitignore",
+    "hash": "8b31441573bf67081acf36cafed8fe19856469f0ba3f82ed9996066ca7a677cc"
+  },
+  {
+    "id": "toptal:vlab",
+    "source": "toptal",
+    "key": "vlab",
+    "name": "VLab",
+    "aliases": ["vlab"],
+    "path": "data/ignores/toptal/raw/vlab.gitignore",
+    "hash": "c3c86748dd2e55321d42d9535883931748400a99a486929ef073fa6e095572d5"
+  },
+  {
+    "id": "toptal:vrealizeorchestrator",
+    "source": "toptal",
+    "key": "vrealizeorchestrator",
+    "name": "vRealizeOrchestrator",
+    "aliases": ["vrealizeorchestrator"],
+    "path": "data/ignores/toptal/raw/vrealizeorchestrator.gitignore",
+    "hash": "c739b322441120b00a7f40746b949e2b8b46253370cb4529ebb5f3a5b1204ff1"
+  },
+  {
+    "id": "toptal:vs",
+    "source": "toptal",
+    "key": "vs",
+    "name": "vs",
+    "aliases": ["vs"],
+    "path": "data/ignores/toptal/raw/vs.gitignore",
+    "hash": "c388e292a7429a0129327af135e0c568e0521d7234729e0e4d36c6bb18a0b3d3"
+  },
+  {
+    "id": "toptal:vue",
+    "source": "toptal",
+    "key": "vue",
+    "name": "Vue",
+    "aliases": ["vue"],
+    "path": "data/ignores/toptal/raw/vue.gitignore",
+    "hash": "7317a6c2b809d64124d37e9e23772a5f7ae29de76d9de2a250aa04e22032c43f"
+  },
+  {
+    "id": "toptal:vuejs",
+    "source": "toptal",
+    "key": "vuejs",
+    "name": "Vuejs",
+    "aliases": ["vuejs"],
+    "path": "data/ignores/toptal/raw/vuejs.gitignore",
+    "hash": "6cfb1db4072207e52b96b2abfb5db857d3fbed8b698782548beefe1ad666e01d"
+  },
+  {
+    "id": "toptal:vvvv",
+    "source": "toptal",
+    "key": "vvvv",
+    "name": "VVVV",
+    "aliases": ["vvvv"],
+    "path": "data/ignores/toptal/raw/vvvv.gitignore",
+    "hash": "c689b2561b62e912d4c6b4866277272f6e44c19d75398e07c10f99af4a53dbd5"
+  },
+  {
+    "id": "toptal:waf",
+    "source": "toptal",
+    "key": "waf",
+    "name": "Waf",
+    "aliases": ["waf"],
+    "path": "data/ignores/toptal/raw/waf.gitignore",
+    "hash": "c45dccf129a2804e10bac609c10a5b063265b0b4b22f13e4c3dfaff81d046295"
+  },
+  {
+    "id": "toptal:wakanda",
+    "source": "toptal",
+    "key": "wakanda",
+    "name": "Wakanda",
+    "aliases": ["wakanda"],
+    "path": "data/ignores/toptal/raw/wakanda.gitignore",
+    "hash": "05dbdc4818eb3e19ec620b368dae4861e289aefde4acb9a3b10ab56d167cf235"
+  },
+  {
+    "id": "toptal:web",
+    "source": "toptal",
+    "key": "web",
+    "name": "Web",
+    "aliases": ["web"],
+    "path": "data/ignores/toptal/raw/web.gitignore",
+    "hash": "a7f0bff5a4d07bf53d86bb38291380276771ddefdadd9d1f8cdcb997cfbb291e"
+  },
+  {
+    "id": "toptal:webmethods",
+    "source": "toptal",
+    "key": "webmethods",
+    "name": "WebMethods",
+    "aliases": ["webmethods"],
+    "path": "data/ignores/toptal/raw/webmethods.gitignore",
+    "hash": "d04bd587c2421686c95500da9f8aff2b75d7b8b5554adf88afc2098557588bbc"
+  },
+  {
+    "id": "toptal:webstorm",
+    "source": "toptal",
+    "key": "webstorm",
+    "name": "WebStorm",
+    "aliases": ["webstorm"],
+    "path": "data/ignores/toptal/raw/webstorm.gitignore",
+    "hash": "171f6196e7c73b97263001b4ae5aa9dc0b6bad421958dcd1237ba4c007b42724"
+  },
+  {
+    "id": "toptal:webstormplusall",
+    "source": "toptal",
+    "key": "webstormplusall",
+    "name": "WebStorm+all",
+    "aliases": ["webstorm+all", "webstormplusall"],
+    "path": "data/ignores/toptal/raw/webstormplusall.gitignore",
+    "hash": "8b28d9918ca88c2383b3388780d59d6203bacebd9b1e3b0faac19057330f86c0"
+  },
+  {
+    "id": "toptal:webstormplusiml",
+    "source": "toptal",
+    "key": "webstormplusiml",
+    "name": "WebStorm+iml",
+    "aliases": ["webstorm+iml", "webstormplusiml"],
+    "path": "data/ignores/toptal/raw/webstormplusiml.gitignore",
+    "hash": "e6bd26ad8d3af55331f60f66e830548ed64e1b775057a801a7be315205717a6d"
+  },
+  {
+    "id": "toptal:werckercli",
+    "source": "toptal",
+    "key": "werckercli",
+    "name": "WerckerCLI",
+    "aliases": ["werckercli"],
+    "path": "data/ignores/toptal/raw/werckercli.gitignore",
+    "hash": "6886760b5f5c1027752fc4035ccda7c5f0e15c68e93446b019df5e84cfc21c8a"
+  },
+  {
+    "id": "toptal:windows",
+    "source": "toptal",
+    "key": "windows",
+    "name": "Windows",
+    "aliases": ["windows"],
+    "path": "data/ignores/toptal/raw/windows.gitignore",
+    "hash": "d9852482a0912089464445c4b4343c20abe4f7885a0bdbabf64ecf5f56e979fd"
+  },
+  {
+    "id": "toptal:wintersmith",
+    "source": "toptal",
+    "key": "wintersmith",
+    "name": "Wintersmith",
+    "aliases": ["wintersmith"],
+    "path": "data/ignores/toptal/raw/wintersmith.gitignore",
+    "hash": "73e2253ffb258d5930f29218799f3159bdd1f066c94da1761a71c7f053ee0265"
+  },
+  {
+    "id": "toptal:wordpress",
+    "source": "toptal",
+    "key": "wordpress",
+    "name": "WordPress",
+    "aliases": ["wordpress"],
+    "path": "data/ignores/toptal/raw/wordpress.gitignore",
+    "hash": "f5fb1246a8142fe3e1b7c3caa37427c9d40679df0aed9e85df2144b0ea72e7ac"
+  },
+  {
+    "id": "toptal:wyam",
+    "source": "toptal",
+    "key": "wyam",
+    "name": "Wyam",
+    "aliases": ["wyam"],
+    "path": "data/ignores/toptal/raw/wyam.gitignore",
+    "hash": "2ae787d47ae1769d18194c777d4f25b2fa2a97b53494fa4ada4c604641f1e9fb"
+  },
+  {
+    "id": "toptal:xamarinstudio",
+    "source": "toptal",
+    "key": "xamarinstudio",
+    "name": "XamarinStudio",
+    "aliases": ["xamarinstudio"],
+    "path": "data/ignores/toptal/raw/xamarinstudio.gitignore",
+    "hash": "ebdaa0b90a45aa55aa14ae52d5bda2c09060c545dbc7e5a6bc0cddcc066146b6"
+  },
+  {
+    "id": "toptal:xcode",
+    "source": "toptal",
+    "key": "xcode",
+    "name": "Xcode",
+    "aliases": ["xcode"],
+    "path": "data/ignores/toptal/raw/xcode.gitignore",
+    "hash": "8995f43ab2c62a6653d5ab174de1a8f1f217254e5429442335f462cbf496beb6"
+  },
+  {
+    "id": "toptal:xcodeinjection",
+    "source": "toptal",
+    "key": "xcodeinjection",
+    "name": "XcodeInjection",
+    "aliases": ["xcodeinjection"],
+    "path": "data/ignores/toptal/raw/xcodeinjection.gitignore",
+    "hash": "92b634db4dd656ea77a71ba1483eb12fb7b80839c8f3805f8731575f301df268"
+  },
+  {
+    "id": "toptal:xilinx",
+    "source": "toptal",
+    "key": "xilinx",
+    "name": "Xilinx",
+    "aliases": ["xilinx"],
+    "path": "data/ignores/toptal/raw/xilinx.gitignore",
+    "hash": "ddbc74739bda75db6da1ad3dea05a5a9ea4ce054e76231f0b40d49e555e10da9"
+  },
+  {
+    "id": "toptal:xilinxise",
+    "source": "toptal",
+    "key": "xilinxise",
+    "name": "XilinxISE",
+    "aliases": ["xilinxise"],
+    "path": "data/ignores/toptal/raw/xilinxise.gitignore",
+    "hash": "a8c8b69fae1a03094ca7d8f4c55b6e1a3ab313739e2b1daa5cad723cba4e1a5a"
+  },
+  {
+    "id": "toptal:xilinxvivado",
+    "source": "toptal",
+    "key": "xilinxvivado",
+    "name": "XilinxVivado",
+    "aliases": ["xilinxvivado"],
+    "path": "data/ignores/toptal/raw/xilinxvivado.gitignore",
+    "hash": "d8d01ae1c163e424082b63b67055716e007f302e8a6a1e6c6ce09c5664578539"
+  },
+  {
+    "id": "toptal:xill",
+    "source": "toptal",
+    "key": "xill",
+    "name": "Xill",
+    "aliases": ["xill"],
+    "path": "data/ignores/toptal/raw/xill.gitignore",
+    "hash": "67aaf752cced4be986e8719697d888588a71831c28f78970c597e8adaad8cf77"
+  },
+  {
+    "id": "toptal:xmake",
+    "source": "toptal",
+    "key": "xmake",
+    "name": "xmake",
+    "aliases": ["xmake"],
+    "path": "data/ignores/toptal/raw/xmake.gitignore",
+    "hash": "debb1cf3c39d9324f713231e8f051ec3afb2902f1f36aea61216cf9954d528fd"
+  },
+  {
+    "id": "toptal:xojo",
+    "source": "toptal",
+    "key": "xojo",
+    "name": "Xojo",
+    "aliases": ["xojo"],
+    "path": "data/ignores/toptal/raw/xojo.gitignore",
+    "hash": "ed1981ef07d2a047c3b00910f812611aaad88095ade161909be7cbbc713c2715"
+  },
+  {
+    "id": "toptal:xtext",
+    "source": "toptal",
+    "key": "xtext",
+    "name": "XText",
+    "aliases": ["xtext"],
+    "path": "data/ignores/toptal/raw/xtext.gitignore",
+    "hash": "d7234862ddccff17df4a73c519c00964fda87379861c1e12098f2e5851fb1721"
+  },
+  {
+    "id": "toptal:y86",
+    "source": "toptal",
+    "key": "y86",
+    "name": "Y86",
+    "aliases": ["y86"],
+    "path": "data/ignores/toptal/raw/y86.gitignore",
+    "hash": "7bb5a3dd8abb9943e2bd30d7aa3c4d4ea4bcfcad8595d41764c019fa70311f3a"
+  },
+  {
+    "id": "toptal:yalc",
+    "source": "toptal",
+    "key": "yalc",
+    "name": "yalc",
+    "aliases": ["yalc"],
+    "path": "data/ignores/toptal/raw/yalc.gitignore",
+    "hash": "90efbdb080aff24333042ab014316ff049a5283ca77ef34b566100b92d9ab4f9"
+  },
+  {
+    "id": "toptal:yarn",
+    "source": "toptal",
+    "key": "yarn",
+    "name": "yarn",
+    "aliases": ["yarn"],
+    "path": "data/ignores/toptal/raw/yarn.gitignore",
+    "hash": "df801f542124626f5011f73b2886b78ddf1c04747a9dd1770905efb953a182e7"
+  },
+  {
+    "id": "toptal:yeoman",
+    "source": "toptal",
+    "key": "yeoman",
+    "name": "Yeoman",
+    "aliases": ["yeoman"],
+    "path": "data/ignores/toptal/raw/yeoman.gitignore",
+    "hash": "08687e67cc5603d4b7f46a828dbbd10211933ddd20dc6984db9062cbaf4feb23"
+  },
+  {
+    "id": "toptal:yii",
+    "source": "toptal",
+    "key": "yii",
+    "name": "Yii",
+    "aliases": ["yii"],
+    "path": "data/ignores/toptal/raw/yii.gitignore",
+    "hash": "7690391c266ae80f1709091cc816165f46205f7e7e6883f3438a189b0a6e585d"
+  },
+  {
+    "id": "toptal:yii2",
+    "source": "toptal",
+    "key": "yii2",
+    "name": "Yii2",
+    "aliases": ["yii2"],
+    "path": "data/ignores/toptal/raw/yii2.gitignore",
+    "hash": "02557f110f8ae8eec42f29bd2c8e571571c2c6b3334a55882523ae6647cb52ca"
+  },
+  {
+    "id": "toptal:zendframework",
+    "source": "toptal",
+    "key": "zendframework",
+    "name": "ZendFramework",
+    "aliases": ["zendframework"],
+    "path": "data/ignores/toptal/raw/zendframework.gitignore",
+    "hash": "7e96373d750ab6ba106e43f81984cc5389a94fabe344bfa805d3f12f515ef2d8"
+  },
+  {
+    "id": "toptal:zephir",
+    "source": "toptal",
+    "key": "zephir",
+    "name": "Zephir",
+    "aliases": ["zephir"],
+    "path": "data/ignores/toptal/raw/zephir.gitignore",
+    "hash": "10b971620833981098d715ea15bd21347ae848bc283cd2680ba2dc05bb39f496"
+  },
+  {
+    "id": "toptal:zig",
+    "source": "toptal",
+    "key": "zig",
+    "name": "zig",
+    "aliases": ["zig"],
+    "path": "data/ignores/toptal/raw/zig.gitignore",
+    "hash": "6f5cf69eb0b815c42ab9f537936327c38f6e6f7f5b23029bf965e0421ccfd05f"
+  },
+  {
+    "id": "toptal:zsh",
+    "source": "toptal",
+    "key": "zsh",
+    "name": "Zsh",
+    "aliases": ["zsh"],
+    "path": "data/ignores/toptal/raw/zsh.gitignore",
+    "hash": "087464a9324b93b8349cc3e9b3d0d73fbcc4734ffe600601bbfa025f7dee488d"
+  },
+  {
+    "id": "toptal:zukencr8000",
+    "source": "toptal",
+    "key": "zukencr8000",
+    "name": "ZukenCR8000",
+    "aliases": ["zukencr8000"],
+    "path": "data/ignores/toptal/raw/zukencr8000.gitignore",
+    "hash": "882e16936eabc1115994e2b5d01e734b79cebfd02eec9874afc6c99bffac2661"
+  }
+]

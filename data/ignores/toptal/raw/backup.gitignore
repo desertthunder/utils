@@ -1,0 +1,7 @@
+
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp

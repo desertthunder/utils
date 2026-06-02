@@ -4,16 +4,21 @@ A Hono TypeScript API built with Deno and deployed as a Cloudflare Worker.
 
 ## Routes
 
-| Route                   | Description                                  |
-| ----------------------- | -------------------------------------------- |
-| `GET /`                 | Docs page.                                   |
-| `GET /healthz`          | HTML health check page.                      |
-| `GET /healthz?fmt=json` | JSON health check.                           |
-| `GET /ignores`          | Placeholder for bundled gitignore templates. |
+| Route                    | Description                                |
+| ------------------------ | ------------------------------------------ |
+| `GET /`                  | Docs page.                                 |
+| `GET /healthz`           | HTML health check page.                    |
+| `GET /healthz?fmt=json`  | JSON health check.                         |
+| `GET /ignores`           | Bundled gitignore template index.          |
+| `GET /ignores/:template` | Gitignore template as plaintext or JSON.   |
+| `GET /ignores/merge`     | Merge gitignore templates.                 |
+| `GET /licenses`          | Placeholder for bundled license templates. |
 
 ## JSON responses
 
-All JSON endpoints return the same envelope:
+JSON endpoints return metadata with the API version, docs URL, timestamp, and
+request ID. Document-like endpoints use `content`; other JSON endpoints use
+`data`.
 
 ```json
 {
@@ -24,7 +29,7 @@ All JSON endpoints return the same envelope:
     "timestamp": "2026-06-02T00:00:00.000Z",
     "requestId": "..."
   },
-  "data": {}
+  "content": {}
 }
 ```
 
@@ -34,6 +39,12 @@ Run the worker locally:
 
 ```sh
 deno task dev
+```
+
+Refresh bundled gitignore templates:
+
+```sh
+deno task sync:ignores
 ```
 
 Check TypeScript and formatting:
