@@ -1,0 +1,262 @@
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("/assets/fonts/ibm-plex-sans-latin-wght-normal.woff2") format("woff2-variations");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100 700;
+}
+
+@font-face {
+  font-family: "IBM Plex Serif";
+  src: url("/assets/fonts/ibm-plex-serif-latin-400-normal.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "IBM Plex Serif";
+  src: url("/assets/fonts/ibm-plex-serif-latin-600-normal.woff2") format("woff2");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+}
+
+:root {
+  color-scheme: dark;
+
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "IBM Plex Serif", Georgia, serif;
+
+  --ox-base: #161616;
+  --ox-layer: #262626;
+  --ox-layer-raised: #393939;
+  --ox-border: #525252;
+  --ox-text: #f2f4f8;
+  --ox-muted: #a2a9b0;
+  --ox-blue: #33b1ff;
+  --ox-cyan: #3ddbd9;
+  --ox-green: #42be65;
+  --ox-magenta: #ff7eb6;
+  --ox-purple: #be95ff;
+
+  --surface: var(--ox-base);
+  --surface-raised: var(--ox-layer);
+  --surface-hover: var(--ox-layer-raised);
+  --text: var(--ox-text);
+  --muted: var(--ox-muted);
+  --accent: var(--ox-cyan);
+  --accent-strong: var(--ox-blue);
+  --ring: color-mix(in srgb, var(--ox-cyan), transparent 40%);
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+
+  --radius: 1rem;
+  --shadow: 0 1.5rem 5rem rgb(0 0 0 / 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-block-size: 100%;
+  background:
+    radial-gradient(circle at 20% 10%, rgb(51 177 255 / 0.16), transparent 28rem),
+    radial-gradient(circle at 88% 8%, rgb(190 149 255 / 0.12), transparent 26rem),
+    var(--surface);
+}
+
+body {
+  min-block-size: 100%;
+  margin: 0;
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: clamp(1rem, 0.96rem + 0.18vw, 1.125rem);
+  line-height: 1.6;
+}
+
+body::before {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  content: "";
+  background-image: linear-gradient(rgb(242 244 248 / 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgb(242 244 248 / 0.04) 1px, transparent 1px);
+  background-size: 4rem 4rem;
+  mask-image: linear-gradient(to bottom, black, transparent 78%);
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+}
+
+h1 {
+  max-inline-size: 11ch;
+  font-size: clamp(4rem, 17vw, 11rem);
+}
+
+h2 {
+  font-size: clamp(2rem, 5vw, 4rem);
+}
+
+h3 {
+  font-size: 1.35rem;
+}
+
+p {
+  color: var(--muted);
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
+a:focus-visible,
+.button:focus-visible {
+  outline: 0.18rem solid var(--ring);
+  outline-offset: 0.25rem;
+}
+
+code,
+pre {
+  font-family: "SFMono-Regular", Consolas, monospace;
+}
+
+code {
+  color: var(--ox-green);
+}
+
+pre {
+  overflow: auto;
+  padding: var(--space-5);
+  border: 1px solid var(--ox-border);
+  border-radius: calc(var(--radius) - 0.25rem);
+  margin: 0;
+  background: rgb(22 22 22 / 0.74);
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.site-shell {
+  width: min(100% - 2rem, 72rem);
+  margin-inline: auto;
+  padding-block: var(--space-7);
+}
+
+.flow > * + * {
+  margin-block-start: var(--flow-space, var(--space-5));
+}
+
+.hero {
+  --flow-space: var(--space-6);
+
+  min-block-size: min(62rem, 92vh);
+  display: grid;
+  align-content: center;
+}
+
+.lede {
+  max-inline-size: 47rem;
+  color: var(--text);
+  font-size: clamp(1.25rem, 2.2vw, 2rem);
+  line-height: 1.35;
+}
+
+.eyebrow,
+.method {
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  min-block-size: 3rem;
+  padding-inline: var(--space-5);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  color: var(--surface);
+  background: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: var(--accent-strong);
+  border-color: var(--accent-strong);
+}
+
+.button-secondary {
+  color: var(--text);
+  background: transparent;
+  border-color: var(--ox-border);
+}
+
+.button-secondary:hover {
+  color: var(--surface);
+}
+
+.panel {
+  padding: clamp(var(--space-5), 4vw, var(--space-7));
+  border: 1px solid rgb(242 244 248 / 0.12);
+  border-radius: var(--radius);
+  background: color-mix(in srgb, var(--surface-raised), transparent 14%);
+  box-shadow: var(--shadow);
+}
+
+.route-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: var(--space-4);
+}
+
+.route-card {
+  display: grid;
+  gap: var(--space-4);
+  padding: var(--space-5);
+  border: 1px solid rgb(242 244 248 / 0.1);
+  border-radius: calc(var(--radius) - 0.25rem);
+  background: rgb(22 22 22 / 0.42);
+}
+
+.route-card:hover {
+  background: var(--surface-hover);
+}
+
+.status-shell {
+  max-inline-size: 42rem;
+  margin-block-start: 16vh;
+}

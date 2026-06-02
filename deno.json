@@ -1,0 +1,20 @@
+{
+  "tasks": {
+    "check": "deno check src/index.ts",
+    "dev": "deno run -A npm:wrangler@4.97.0 dev",
+    "deploy": "deno run -A npm:wrangler@4.97.0 deploy",
+    "fmt": "deno run -A npm:dprint@0.54.0 fmt",
+    "fmt:check": "deno run -A npm:dprint@0.54.0 check",
+    "types": "deno run -A npm:wrangler@4.97.0 types"
+  },
+  "imports": { "hono": "npm:hono@4.12.23" },
+  "nodeModulesDir": "auto",
+  "compilerOptions": {
+    "lib": ["ES2022", "WebWorker"],
+    "jsx": "react-jsx",
+    "jsxImportSource": "hono/jsx",
+    "strict": true,
+    "types": ["npm:@cloudflare/workers-types@4.20260602.1"]
+  },
+  "lint": { "rules": { "tags": ["recommended"] } }
+}
