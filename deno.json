@@ -5,7 +5,8 @@
     "deploy": "deno run -A npm:wrangler@4.97.0 deploy",
     "fmt": "deno run -A npm:dprint@0.54.0 fmt",
     "fmt:check": "deno run -A npm:dprint@0.54.0 check",
-    "sync:ignores": "deno run -A scripts/sync_ignores.ts",
+    "sync:ignores": "deno run -A src/sync/ignores.ts",
+    "sync:licenses": "deno run -A src/sync/licenses.ts",
     "types": "deno run -A npm:wrangler@4.97.0 types"
   },
   "imports": { "hono": "npm:hono@4.12.23" },

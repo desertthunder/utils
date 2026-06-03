@@ -4,15 +4,16 @@ A Hono TypeScript API built with Deno and deployed as a Cloudflare Worker.
 
 ## Routes
 
-| Route                    | Description                                |
-| ------------------------ | ------------------------------------------ |
-| `GET /`                  | Docs page.                                 |
-| `GET /healthz`           | HTML health check page.                    |
-| `GET /healthz?fmt=json`  | JSON health check.                         |
-| `GET /ignores`           | Bundled gitignore template index.          |
-| `GET /ignores/:template` | Gitignore template as plaintext or JSON.   |
-| `GET /ignores/merge`     | Merge gitignore templates.                 |
-| `GET /licenses`          | Placeholder for bundled license templates. |
+| Route                    | Description                              |
+| ------------------------ | ---------------------------------------- |
+| `GET /`                  | Docs page.                               |
+| `GET /healthz`           | HTML health check page.                  |
+| `GET /healthz?fmt=json`  | JSON health check.                       |
+| `GET /ignores`           | Bundled gitignore template index.        |
+| `GET /ignores/:template` | Gitignore template as plaintext or JSON. |
+| `GET /ignores/merge`     | Merge gitignore templates.               |
+| `GET /licenses`          | Bundled license template index.          |
+| `GET /licenses/:license` | License by SPDX identifier.              |
 
 ## JSON responses
 
@@ -41,10 +42,11 @@ Run the worker locally:
 deno task dev
 ```
 
-Refresh bundled gitignore templates:
+Refresh bundled templates:
 
 ```sh
 deno task sync:ignores
+deno task sync:licenses
 ```
 
 Check TypeScript and formatting:

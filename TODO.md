@@ -100,10 +100,10 @@ Add visible credits to the docs page:
 
 ## License templates
 
-Add license fetching as a separate endpoint family. Use the same response model
-as gitignores: plaintext by default, JSON with `fmt=json`.
+License fetching is implemented as a separate endpoint family. It uses the same
+response model as gitignores: plaintext by default, JSON with `fmt=json`.
 
-Best upstream source is GitHub's Choose a License data:
+Upstream source is GitHub's Choose a License data:
 
 ```text
 https://github.com/github/choosealicense.com
@@ -128,8 +128,8 @@ data/
     catalog.json
 ```
 
-The license sync task should read the Choose a License markdown/front matter and
-store:
+The license sync task reads the Choose a License markdown/front matter and
+stores:
 
 - key, such as `mit` or `apache-2.0`
 - SPDX ID
@@ -139,13 +139,16 @@ store:
 - body text
 - content hash
 
-Start with:
+Implemented:
 
 ```text
 GET /licenses
 GET /licenses/:license
 GET /licenses/:license?fmt=json
 ```
+
+The `:license` parameter matches SPDX identifiers case-insensitively. The
+lowercase Choose a License key is accepted as a fallback when it differs.
 
 Plaintext default:
 
@@ -174,13 +177,13 @@ JSON response:
 }
 ```
 
-Support placeholder replacement later:
+Placeholder replacement is supported:
 
 ```text
 GET /licenses/mit?year=2026&name=Owais
 ```
 
-Leave placeholders intact unless the caller provides values. Do not guess the
+Placeholders stay intact unless the caller provides values. Do not guess the
 author or year.
 
 ## Ignore endpoints

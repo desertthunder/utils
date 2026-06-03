@@ -1,6 +1,8 @@
 /** @jsxImportSource hono/jsx */
+import * as React from "hono/jsx";
 import type { Child } from "hono/jsx";
 import { renderToString } from "hono/jsx/dom/server";
+import type { HealthPayload } from "./health.ts";
 import { service } from "./response.ts";
 
 type LayoutProps = { title: string; description: string; children: Child; };
@@ -12,8 +14,8 @@ export function docsPage(): string {
         <p class="eyebrow">{service.name}</p>
         <h1>Owais's Utility API</h1>
         <p class="lede">
-          Small HTTP utilities for scripts, editors, and local development. Gitignore templates are bundled at build
-          time from GitHub and Toptal.
+          Small HTTP utilities for scripts, editors, and local development. Gitignore and license templates are bundled
+          at build time from upstream sources.
         </p>
         <div class="hero-actions" aria-label="Primary routes">
           <a class="button" href="/healthz">Check health</a>
@@ -34,7 +36,8 @@ export function docsPage(): string {
             <RouteCard method="GET" path="/ignores/merge?templates=github:node,toptal:deno">
               Merge gitignore templates.
             </RouteCard>
-            <RouteCard method="GET" path="/licenses">Placeholder for license templates.</RouteCard>
+            <RouteCard method="GET" path="/licenses">Bundled license template index.</RouteCard>
+            <RouteCard method="GET" path="/licenses/MIT">License template by SPDX identifier.</RouteCard>
           </div>
         </section>
 
@@ -71,7 +74,7 @@ export function docsPage(): string {
   );
 }
 
-export function healthPage(): string {
+export function healthPage(health: HealthPayload): string {
   return renderDocument(
     <Layout title="Health check" description="Health check for utility-api.">
       <main class="status-shell panel flow">
@@ -81,6 +84,18 @@ export function healthPage(): string {
         <p>
           <a href="/healthz?fmt=json">JSON health check</a>
         </p>
+
+        <section class="health-catalog flow" aria-labelledby="health-catalogs-title">
+          <h2 id="health-catalogs-title">Bundled catalogs</h2>
+          <CatalogList
+            title="Language IDs"
+            count={health.catalogs.ignores.count}
+            items={health.catalogs.ignores.languageIds} />
+          <CatalogList
+            title="SPDX identifiers"
+            count={health.catalogs.licenses.count}
+            items={health.catalogs.licenses.spdxIds} />
+        </section>
       </main>
     </Layout>,
   );
@@ -114,6 +129,23 @@ function FooterLink({ icon, label, href, children }: { icon: string; label: stri
         <span class="footer-name">{children}</span>
       </span>
     </a>
+  );
+}
+
+function CatalogList({ title, count, items }: { title: string; count: number; items: readonly string[]; }) {
+  return (
+    <details class="catalog-list">
+      <summary>
+        {title} <span>{count}</span>
+      </summary>
+      <ul class="token-list">
+        {items.map((item) => (
+          <li>
+            <code>{item}</code>
+          </li>
+        ))}
+      </ul>
+    </details>
   );
 }
 
