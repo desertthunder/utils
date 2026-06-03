@@ -45,3 +45,52 @@ export function json<T extends JsonPayload>(c: Context, data: T, status: Content
 export function contentJson<T extends JsonPayload>(c: Context, content: T, status: ContentfulStatusCode = 200) {
   return c.json(withContent(c, content), status);
 }
+
+export function xml<T extends JsonPayload>(c: Context, data: T, status: ContentfulStatusCode = 200) {
+  return xmlResponse(c, withMeta(c, data), status);
+}
+
+export function contentXml<T extends JsonPayload>(c: Context, content: T, status: ContentfulStatusCode = 200) {
+  return xmlResponse(c, withContent(c, content), status);
+}
+
+export function wantsJson(c: Context): boolean {
+  return c.req.query("fmt") === "json";
+}
+
+export function wantsXml(c: Context): boolean {
+  return c.req.query("fmt") === "xml";
+}
+
+function xmlResponse<T extends JsonPayload>(
+  c: Context,
+  payload: JsonEnvelope<T> | ContentEnvelope<T>,
+  status: ContentfulStatusCode,
+) {
+  return c.body(toXml("response", payload), status, { "Content-Type": "application/xml; charset=utf-8" });
+}
+
+function toXml(name: string, value: unknown): string {
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<?xml-stylesheet type="text/xsl" href="/assets/xml-response.xsl"?>\n${
+    nodeToXml(name, value)
+  }\n`;
+}
+
+function nodeToXml(name: string, value: unknown): string {
+  if (Array.isArray(value)) {
+    return `<${name}>${value.map((item) => nodeToXml("item", item)).join("")}</${name}>`;
+  }
+
+  if (value && typeof value === "object") {
+    const children = Object.entries(value).map(([key, child]) => nodeToXml(key, child)).join("");
+    return `<${name}>${children}</${name}>`;
+  }
+
+  if (value === null || value === undefined) return `<${name}/>`;
+  return `<${name}>${escapeXml(String(value))}</${name}>`;
+}
+
+function escapeXml(value: string): string {
+  return value.replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll("\"", "&quot;")
+    .replaceAll("'", "&apos;");
+}

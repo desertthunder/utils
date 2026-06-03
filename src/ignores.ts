@@ -1,7 +1,6 @@
 import type { Context } from "hono";
-import type { ContentfulStatusCode } from "hono/utils/http-status";
 import { ignoreTemplates } from "./generated/ignores.ts";
-import { contentJson, json } from "./response.ts";
+import { contentJson, contentXml, json, wantsJson, wantsXml } from "./response.ts";
 
 type Source = "github" | "toptal";
 type SourceFilter = Source | "all";
@@ -18,14 +17,15 @@ export function ignoreIndex(c: Context) {
   const summaries = ignoreTemplates.map(templateSummary);
   const body = summaries.map((template) => `${template.id}\t${template.name}`).join("\n") + "\n";
 
-  if (c.req.query("fmt") === "json") {
-    return contentJson(c, {
-      type: "gitignore-index",
-      format: "application/json",
-      count: summaries.length,
-      templates: summaries,
-    });
-  }
+  const content = {
+    type: "gitignore-index",
+    format: "application/json",
+    count: summaries.length,
+    templates: summaries,
+  };
+
+  if (wantsJson(c)) return contentJson(c, content);
+  if (wantsXml(c)) return contentXml(c, content);
 
   return c.text(body);
 }
@@ -47,7 +47,8 @@ export function ignoreTemplate(c: Context) {
     body: template.body,
   };
 
-  if (c.req.query("fmt") === "json") return contentJson(c, content);
+  if (wantsJson(c)) return contentJson(c, content);
+  if (wantsXml(c)) return contentXml(c, content);
   return c.text(template.body);
 }
 
@@ -76,7 +77,8 @@ export function ignoreMerge(c: Context) {
     body,
   };
 
-  if (c.req.query("fmt") === "json") return contentJson(c, content);
+  if (wantsJson(c)) return contentJson(c, content);
+  if (wantsXml(c)) return contentXml(c, content);
   return c.text(body);
 }
 

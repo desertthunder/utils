@@ -1,5 +1,4 @@
 /** @jsxImportSource hono/jsx */
-import * as React from "hono/jsx";
 import type { Child } from "hono/jsx";
 import { renderToString } from "hono/jsx/dom/server";
 import type { HealthPayload } from "./health.ts";
@@ -11,7 +10,7 @@ export function docsPage(): string {
   return renderDocument(
     <Layout title="Owais's Utility API" description="Small utility endpoints for tools and scripts.">
       <header class="hero flow">
-        <p class="eyebrow">{service.name}</p>
+        <p class="eyebrow">desertthunder.dev</p>
         <h1>Owais's Utility API</h1>
         <p class="lede">
           Small HTTP utilities for scripts, editors, and local development. Gitignore and license templates are bundled
@@ -20,6 +19,7 @@ export function docsPage(): string {
         <div class="hero-actions" aria-label="Primary routes">
           <a class="button" href="/healthz">Check health</a>
           <a class="button button-secondary" href="/ignores">View gitignore templates</a>
+          <a class="button button-secondary" href="/licenses">View license templates</a>
         </div>
       </header>
 
@@ -29,7 +29,7 @@ export function docsPage(): string {
           <div class="route-list">
             <RouteCard method="GET" path="/">This docs page.</RouteCard>
             <RouteCard method="GET" path="/healthz">
-              Health check page. Add <code>?fmt=json</code> for JSON.
+              Health check page. Add <code>?fmt=json</code> or <code>?fmt=xml</code> for structured responses.
             </RouteCard>
             <RouteCard method="GET" path="/ignores">Bundled gitignore template index.</RouteCard>
             <RouteCard method="GET" path="/ignores/github:node">Gitignore template as plaintext.</RouteCard>
@@ -43,8 +43,19 @@ export function docsPage(): string {
 
         <section class="panel flow" aria-labelledby="json-title">
           <h2 id="json-title">Response Structure</h2>
-          <p>JSON endpoints return a metadata wrapper with the API version, docs URL, timestamp, and request ID.</p>
-          <pre><code>{jsonExample()}</code></pre>
+          <p>
+            Structured endpoints support <code>?fmt=json</code> and{" "}
+            <code>?fmt=xml</code>. Both include a metadata wrapper with the API version, docs URL, timestamp, and
+            request ID.
+          </p>
+          <figure class="response-example">
+            <figcaption>JSON</figcaption>
+            <pre><code>{jsonExample()}</code></pre>
+          </figure>
+          <figure class="response-example">
+            <figcaption>XML</figcaption>
+            <pre><code>{xmlExample()}</code></pre>
+          </figure>
         </section>
 
         <section class="panel flow" aria-labelledby="credits-title">
@@ -53,7 +64,7 @@ export function docsPage(): string {
             Gitignore templates will be bundled from{" "}
             <a href="https://github.com/github/gitignore">GitHub's gitignore repository</a> and{" "}
             <a href="https://www.toptal.com/developers/gitignore">Toptal's gitignore generator</a>.{" "}
-            License templates will be bundled from{" "}
+            License templates are bundled from{" "}
             <a href="https://github.com/github/choosealicense.com">GitHub's Choose a License data</a>.
           </p>
         </section>
@@ -82,7 +93,7 @@ export function healthPage(health: HealthPayload): string {
         <h1>Healthy</h1>
         <p class="lede">The worker is responding.</p>
         <p>
-          <a href="/healthz?fmt=json">JSON health check</a>
+          <a href="/healthz?fmt=json">JSON health check</a> · <a href="/healthz?fmt=xml">XML health check</a>
         </p>
 
         <section class="health-catalog flow" aria-labelledby="health-catalogs-title">
@@ -182,4 +193,23 @@ function jsonExample() {
     body: "node_modules/\ndist/\n.env\n",
   };
   return JSON.stringify({ meta, content }, null, 2);
+}
+
+function xmlExample() {
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <meta>
+    <service>${service.name}</service>
+    <version>${service.version}</version>
+    <docs>${service.docs}</docs>
+    <timestamp>2026-06-02T00:00:00.000Z</timestamp>
+    <requestId>...</requestId>
+  </meta>
+  <content>
+    <type>gitignore</type>
+    <format>text/plain</format>
+    <templates><item>github:node</item></templates>
+    <body>node_modules/&#10;dist/&#10;.env&#10;</body>
+  </content>
+</response>`;
 }

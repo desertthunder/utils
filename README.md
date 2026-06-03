@@ -15,11 +15,11 @@ A Hono TypeScript API built with Deno and deployed as a Cloudflare Worker.
 | `GET /licenses`          | Bundled license template index.          |
 | `GET /licenses/:license` | License by SPDX identifier.              |
 
-## JSON responses
+## Structured responses
 
-JSON endpoints return metadata with the API version, docs URL, timestamp, and
-request ID. Document-like endpoints use `content`; other JSON endpoints use
-`data`.
+Structured endpoints support `?fmt=json` and `?fmt=xml`. They return metadata
+with the API version, docs URL, timestamp, and request ID. Document-like
+endpoints use `content`; other structured endpoints use `data`.
 
 ```json
 {

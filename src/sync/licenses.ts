@@ -1,3 +1,5 @@
+/// <reference lib="deno.ns" />
+
 type CatalogItem = {
   id: string;
   source: "github:choosealicense";

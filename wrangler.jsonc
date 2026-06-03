@@ -2,6 +2,7 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "utility-api",
   "main": "src/index.ts",
+  "tsconfig": "./wrangler.tsconfig.json",
   "compatibility_date": "2026-06-02",
   "compatibility_flags": ["nodejs_compat"],
   "assets": { "directory": "./public" },

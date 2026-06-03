@@ -1,6 +1,6 @@
 import type { Context } from "hono";
 import { licenseTemplates } from "./generated/licenses.ts";
-import { contentJson, json } from "./response.ts";
+import { contentJson, contentXml, json, wantsJson, wantsXml } from "./response.ts";
 
 type LicenseTemplate = (typeof licenseTemplates)[number];
 
@@ -8,9 +8,10 @@ export function licenseIndex(c: Context) {
   const licenses = licenseTemplates.map(licenseSummary);
   const body = licenses.map((license) => `${license.spdxId}\t${license.name}`).join("\n") + "\n";
 
-  if (c.req.query("fmt") === "json") {
-    return contentJson(c, { type: "license-index", format: "application/json", count: licenses.length, licenses });
-  }
+  const content = { type: "license-index", format: "application/json", count: licenses.length, licenses };
+
+  if (wantsJson(c)) return contentJson(c, content);
+  if (wantsXml(c)) return contentXml(c, content);
 
   return c.text(body);
 }
@@ -39,7 +40,8 @@ export function licenseTemplate(c: Context) {
     body,
   };
 
-  if (c.req.query("fmt") === "json") return contentJson(c, content);
+  if (wantsJson(c)) return contentJson(c, content);
+  if (wantsXml(c)) return contentXml(c, content);
   return c.text(body);
 }
 

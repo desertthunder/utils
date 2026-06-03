@@ -3,7 +3,7 @@ import { healthPayload } from "./health.ts";
 import { ignoreIndex, ignoreMerge, ignoreTemplate } from "./ignores.ts";
 import { licenseIndex, licenseTemplate } from "./licenses.ts";
 import { docsPage, healthPage } from "./pages.tsx";
-import { json } from "./response.ts";
+import { json, wantsJson, wantsXml, xml } from "./response.ts";
 
 const app = new Hono();
 
@@ -12,9 +12,8 @@ app.get("/", (ctx) => ctx.html(docsPage()));
 app.get("/healthz", (ctx) => {
   const health = healthPayload();
 
-  if (ctx.req.query("fmt") === "json") {
-    return json(ctx, health);
-  }
+  if (wantsJson(ctx)) return json(ctx, health);
+  if (wantsXml(ctx)) return xml(ctx, health);
 
   return ctx.html(healthPage(health));
 });

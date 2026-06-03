@@ -1,6 +1,7 @@
 @font-face {
   font-family: "IBM Plex Sans";
-  src: url("/assets/fonts/ibm-plex-sans-latin-wght-normal.woff2") format("woff2-variations");
+  src: url("/assets/fonts/ibm-plex-sans-latin-wght-normal.woff2")
+    format("woff2-variations");
   font-display: swap;
   font-style: normal;
   font-weight: 100 700;
@@ -8,7 +9,8 @@
 
 @font-face {
   font-family: "IBM Plex Serif";
-  src: url("/assets/fonts/ibm-plex-serif-latin-400-normal.woff2") format("woff2");
+  src: url("/assets/fonts/ibm-plex-serif-latin-400-normal.woff2")
+    format("woff2");
   font-display: swap;
   font-style: normal;
   font-weight: 400;
@@ -16,7 +18,8 @@
 
 @font-face {
   font-family: "IBM Plex Serif";
-  src: url("/assets/fonts/ibm-plex-serif-latin-600-normal.woff2") format("woff2");
+  src: url("/assets/fonts/ibm-plex-serif-latin-600-normal.woff2")
+    format("woff2");
   font-display: swap;
   font-style: normal;
   font-weight: 600;
@@ -145,6 +148,19 @@ pre {
   line-height: 1.5;
 }
 
+.response-example {
+  margin: 0;
+}
+
+.response-example figcaption {
+  margin-block-end: var(--space-2);
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
 .site-shell {
   width: min(100% - 2rem, 72rem);
   min-block-size: 100dvh;
@@ -211,7 +227,9 @@ pre {
   border-inline-end: 1px solid rgb(242 244 248 / 0.1);
   color: var(--text);
   text-decoration: none;
-  transition: background-color 180ms ease, color 180ms ease;
+  transition:
+    background-color 180ms ease,
+    color 180ms ease;
 }
 
 .footer-link:hover {
@@ -284,7 +302,10 @@ pre {
   background: var(--accent);
   font-weight: 600;
   text-decoration: none;
-  transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease;
+  transition:
+    background-color 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease;
 }
 
 .button:hover {
@@ -325,7 +346,10 @@ pre {
   background: rgb(22 22 22 / 0.42);
   color: var(--text);
   text-decoration: none;
-  transition: background-color 180ms ease, border-color 180ms ease, color 180ms ease;
+  transition:
+    background-color 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease;
 }
 
 .route-card:hover {
@@ -337,10 +361,10 @@ pre {
   display: block;
   margin-block-start: var(--space-1);
   font-family: var(--font-serif);
-  font-size: 1.25rem;
-  font-weight: 600;
-  line-height: 1.1;
-  overflow-wrap: anywhere;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.25;
+  overflow-wrap: break-word;
 }
 
 .route-path code {
